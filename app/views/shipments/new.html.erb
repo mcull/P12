@@ -1,0 +1,10 @@
+
+<div class="row">
+  <div class="large-12 columns">
+    <%= form_tag("/listeners/coloradotimberline", method: "post") do %>
+      <%= label_tag(:q, "Manually submit an order shipment update:") %>
+      <%= text_area_tag(:xml, defaultShipmentXml, size: "24x16") %>
+      <%= submit_tag("Submit") %>
+    <% end %>
+  </div>
+</div>

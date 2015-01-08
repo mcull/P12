@@ -1,0 +1,16 @@
+<div class="row">
+  <div class="large-12 columns">
+    Cool.  Received this shipment and put it on the queue (<%= @msg.id %>):
+    <pre><%= @xmlPayload %></pre>
+  </div>
+  <div class="large-12 columns">
+  Our MD5: <%= getMd5(@xmlPayload) %>
+  </div>
+  <div class="large-12 columns">
+    SQS MD5: <%= @msg.md5 %>
+  </div>
+  <div class="large-12 columns">
+  Match? <%= getMd5(@xmlPayload) == @msg.md5 %>
+  </div>
+
+</div>
