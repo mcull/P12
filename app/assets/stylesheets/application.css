@@ -18,3 +18,7 @@
  h2 i {color: #666666}
  .editPane {font-family:"Nixie One"}
  .editPane h2 {font-family:"Nixie One"}
+ .alert i {color: white;}
+ .info i {color: white;}
+ .notice {color: #999999;}
+ #error_explanation {color: red; }

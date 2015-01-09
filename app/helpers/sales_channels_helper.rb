@@ -1,7 +1,7 @@
 module SalesChannelsHelper
   def allChannels
     begin
-      SalesChannel.limit(100).sort_by { |a| [ a.name ] }
+      SalesChannel.where(:active => 1).all.sort_by { |a| [ a.name ] }
     rescue
       []
     end

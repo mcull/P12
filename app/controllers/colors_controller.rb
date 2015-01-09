@@ -11,14 +11,35 @@ class ColorsController < ApplicationController
 
   def create
     color = Color.new(params[:color]);
-    color.save
-    flash[:notice] = color.name  + " successfully added"
-    redirect_to :action => :index
+    if color.valid? then
+      color.save
+      flash[:notice] = color.name  + " successfully added"
+      redirect_to :action => :index
+    else
+      @color = color
+      render :action => :new
+    end
+  end
+
+  def edit
+    @color = Color.find(params[:id])
+    render :action => :edit
+  end
+
+  def update
+    @color = Color.find(params[:id])
+    if @color.update_attributes(params[:color]) then
+      flash[:notice] = @color.name  + " successfully saved"
+      redirect_to :action => :index
+    else
+      render :action => :edit
+    end
   end
 
   def destroy
     color = Color.find(params[:id])
-    color.destroy
+    color.active = 0
+    color.save
     flash[:notice] = color.name  + " successfully deleted"
     redirect_to :action => :index
   end

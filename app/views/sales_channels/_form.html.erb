@@ -1,0 +1,42 @@
+<% if flash[:notice] %>
+<div class="row">
+  <div class="large-12 columns notice">
+    <div class="notice"><%= flash[:notice] %></div>
+  </div>
+</div>
+<% end %>
+
+<%= form_for @channel do |f| %>
+  <%= f.hidden_field(:active, :value => 1) %>
+  <div class="row">
+    <div class="large-12 columns">
+      <div class="row collapse">
+        <div class="large-3 medium-3 small-4 columns">
+          <%= f.text_field :name, 'placeholder' => 'New Channel' %>
+        </div>
+        <div class="large-4 medium-4 small-6 columns">
+          <%= f.text_field :account_id, 'placeholder' => 'Account ID' %>
+        </div>
+        <div class="large-1 medium-1 small-1 columns">
+          <%= f.button raw('<i class="fa fa-floppy-o"></i>'), 'class'=>'button info postfix' %>
+        </div>
+        <div class="small-1 columns">
+          <% if channel.persisted? then %>
+          <%= link_to raw('<i class="fa fa-times"></i>'), channel, method: :delete, 'class'=>'button alert postfix' %>
+          <% end %>
+        </div>
+        <div class="large-4 medium-4 small-0 columns"></div>
+      </div>
+    </div>
+  </div>
+  <% allChannels.each do |sc| %>
+  <div class="row">
+    <div class="large-3 medium-3 small-5 columns"><%= sc.name %></div>
+    <div class="large-4 medium-4 small-5 columns"><%= sc.account_id %></div>
+    <div class="large-1 medium-1 small-2 columns" style="text-align:center">
+      <%= link_to raw('<i class="fa fa-pencil-square-o"></i>'), edit_sales_channel_path(sc) %></a>
+    </div>
+    <div class="large-4 medium-4 small-0 columns"></div>
+  </div>
+  <% end %>
+<% end %>

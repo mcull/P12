@@ -2,7 +2,7 @@ module ColorsHelper
 
   def allColors
     begin
-      Color.limit(100).sort_by { |a| [ a.name ] }
+      Color.where(:active => 1).all.sort_by { |a| [ a.name ] }
     rescue
       []
     end
