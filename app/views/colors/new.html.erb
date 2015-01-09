@@ -16,23 +16,23 @@
   <div class="row">
     <div class="large-12 columns">
       <div class="row collapse">
-        <div class="small-5 columns">
+        <div class="large-5 medium-5 small-11 columns">
           <%= f.text_field :name, 'placeholder' => 'New Color' %>
         </div>
         <div class="small-1 columns">
           <%= f.submit '+', 'class'=>'button postfix' %>
         </div>
-        <div class="small-6 columns"></div>
+        <div class="large-6 medium-6 small-0 columns"></div>
       </div>
     </div>
   </div>
   <% allColors.each do |c| %>
   <div class="row">
-    <div class="small-5 columns"><%= c.name %></div>
-    <div class="small-1 columns" style="text-align:center">
+    <div class="large-5 medium-5 small-10 columns"><%= c.name %></div>
+    <div class="large-1 medium-1 small-2 columns" style="text-align:center">
       <%= link_to raw('<i class="fa fa-times-circle"></i>'), c, method: :delete%></a>
     </div>
-    <div class="small-6 columns"></div>
+    <div class="large-6 medium-6 small-0 columns"></div>
   </div>
   <% end %>
 <% end %>

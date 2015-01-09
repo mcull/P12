@@ -16,27 +16,27 @@
   <div class="row">
     <div class="large-12 columns">
       <div class="row collapse">
-        <div class="small-2 columns">
+        <div class="large-3 medium-3 small-4 columns">
           <%= f.text_field :name, 'placeholder' => 'New Channel' %>
         </div>
-        <div class="small-3 columns">
+        <div class="large-4 medium-4 small-6 columns">
           <%= f.text_field :account_id, 'placeholder' => 'Account ID' %>
         </div>
-        <div class="small-1 columns">
+        <div class="large-1 medium-1 small-2 columns">
           <%= f.submit '+', 'class'=>'button postfix' %>
         </div>
-        <div class="small-6 columns"></div>
+        <div class="large-4 medium-4 small-0 columns"></div>
       </div>
     </div>
   </div>
   <% allChannels.each do |sc| %>
   <div class="row">
-    <div class="small-2 columns"><%= sc.name %></div>
-    <div class="small-3 columns"><%= sc.account_id %></div>
-    <div class="small-1 columns" style="text-align:center">
+    <div class="large-3 medium-3 small-5 columns"><%= sc.name %></div>
+    <div class="large-4 medium-4 small-5 columns"><%= sc.account_id %></div>
+    <div class="large-1 medium-1 small-2 columns" style="text-align:center">
       <%= link_to raw('<i class="fa fa-times-circle"></i>'), sc, method: :delete%></a>
     </div>
-    <div class="small-6 columns"></div>
+    <div class="large-4 medium-4 small-0 columns"></div>
   </div>
   <% end %>
 <% end %>

@@ -2,14 +2,49 @@
 <html>
 <head>
   <title>P12</title>
-  <%= stylesheet_link_tag '//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css' %>
+  <%= stylesheet_link_tag '//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css', '//fonts.googleapis.com/css?family=Nixie+One' %>
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
-  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
 </head>
 <body>
-
-<%= yield %>
+  <nav class="top-bar show-for-small-only" data-topbar role="navigation">
+    <ul class="title-area">
+      <li class="name">
+        <h1><a href="#">P8GEAR</a></h1>
+      </li>
+      <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+      <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+      <!-- Right Nav Section -->
+      <ul class="right">
+        <li class="active"><a href="#">Right Button Active</a></li>
+        <li class="has-dropdown">
+          <a href="#">Right Button Dropdown</a>
+          <ul class="dropdown">
+            <li><a href="#">First link in dropdown</a></li>
+            <li class="active"><a href="#">Active link in dropdown</a></li>
+          </ul>
+        </li>
+      </ul>
+      <!-- Left Nav Section -->
+      <ul class="left">
+        <li><a href="#">Left Nav Button</a></li>
+      </ul>
+    </section>
+  </nav>
+  <div class="row" >
+    <div class="large-3 medium-3  columns sidebar show-for-medium-up" style="min-height:800px;background-color:#333333;color:#ffffff">
+      <h2>P8GEAR</h2>
+      <i class="fa fa-cog"></i> <%= link_to "Colors", colors_path %><br>
+      <i class="fa fa-cog"></i> <%= link_to "Sales Channels", sales_channels_path %> <br>
+      <i class="fa fa-cog"></i> <%= link_to "Sizes", sizes_path %> <br>
+    </div>
+    <div class="large-9 medium-9 small-12 columns editPane" style="background-color:#FFFFFF;color:#000000">
+    <%= yield %>
+    </div>
+  </div>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
 
 </body>
 </html>

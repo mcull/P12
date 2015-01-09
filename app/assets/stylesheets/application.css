@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+
+ .sidebar a, i {color: #999999; }
+ h2 i {color: #666666}
+ .editPane {font-family:"Nixie One"}
+ .editPane h2 {font-family:"Nixie One"}

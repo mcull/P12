@@ -13,7 +13,7 @@ class SizesController < ApplicationController
     size = Size.new(params[:size]);
     size.sort_order = 1
     size.save
-    flash[:notice] = @size.name  + " successfully added"
+    flash[:notice] = size.name  + " successfully added"
     redirect_to :action => :index
   end
 

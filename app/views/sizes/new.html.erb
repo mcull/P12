@@ -16,24 +16,24 @@
   <div class="row">
     <div class="large-12 columns">
       <div class="row collapse">
-        <div class="small-5 columns">
+        <div class="large-5 medium-5 small-11 columns">
           <%= f.text_field :name, 'placeholder' => 'New Size' %>
         </div>
         <div class="small-1 columns">
           <%= f.submit '+', 'class'=>'button postfix' %>
         </div>
-        <div class="small-6 columns"></div>
+        <div class="large-6 medium-6 small-0 columns"></div>
       </div>
     </div>
   </div>
   <% allSizes.each do |s| %>
   <div class="row">
-    <div class="small-4 columns"><%= s.sort_order %> <%= s.name %></div>
-    <div class="small-1 columns"><%= link_to raw('<i class="fa fa-caret-square-o-up"></i>'), size_path(s, :sort_order => s.sort_order - 1), :method => :put %> <%= link_to raw('<i class="fa fa-caret-square-o-down"></i>'), size_path(s, :sort_order => s.sort_order + 1), :method => :put %></div>
-    <div class="small-1 columns" style="text-align:center">
+    <div class="large-3 medium-3 small-7 columns"><%= s.sort_order %> <%= s.name %></div>
+    <div class="large-2 medium-2 small-3 columns"><%= link_to raw('<i class="fa fa-caret-square-o-up"></i>'), size_path(s, :sort_order => s.sort_order - 1), :method => :put %> <%= link_to raw('<i class="fa fa-caret-square-o-down"></i>'), size_path(s, :sort_order => s.sort_order + 1), :method => :put %></div>
+    <div class="large-1 medium-1 small-2 columns" style="text-align:center">
       <%= link_to raw('<i class="fa fa-times-circle"></i>'), s, method: :delete %>
     </div>
-    <div class="small-6 columns"></div>
+    <div class="large-6 medium-6 small-0 columns"></div>
   </div>
   <% end %>
 <% end %>
