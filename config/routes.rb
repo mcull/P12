@@ -14,6 +14,8 @@ Rails.application.routes.draw do
   # Example resource route (maps HTTP verbs to controller actions automatically):
      resources :shipments
      resources :colors
+     resources :sizes
+     resources :sales_channels
   # Point of indirection
      post '/listeners/coloradotimberline', to: 'shipments#create'
 
