@@ -11,8 +11,7 @@ class ColorsController < ApplicationController
 
   def create
     color = Color.new(params[:color]);
-    if color.valid? then
-      color.save
+    if color.save then
       flash[:notice] = color.name  + " successfully added"
       redirect_to :action => :index
     else

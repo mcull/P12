@@ -1,0 +1,51 @@
+<%= form_for designConstraint do |f| %>
+<%= f.hidden_field(:active, :value => 1) %>
+<div class="row">
+  <div class="small-8 columns">
+    <div class="row">
+      <div class="small-3 columns">
+        <label for="name" class="right inline">Name</label>
+      </div>
+      <div class="small-9 columns">
+        <%= f.text_field :name, 'placeholder' => 'New Design Constraint' %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="small-3 columns">
+        <label for="name" class="right inline">Description</label>
+      </div>
+      <div class="small-9 columns">
+        <%= f.text_area :description, size: "24x6" %><br>
+      </div>
+    </div>
+    <div class="row">
+      <div class="small-4 small-offset-8 columns" style="text-align:center">
+        <div class="row">
+          <div class="small-6 columns <%= (designConstraint.persisted?) ? "" : "small-offset-6" %>">
+            <%= f.button raw('<i class="fa fa-floppy-o"></i>'), 'class'=>'button info small' %>
+          </div>
+          <% if designConstraint.persisted? then %>
+          <div class="small-6 columns">
+            <%= link_to raw('<i class="fa fa-times"></i>'), designConstraint, method: :delete, 'class'=>'button alert small' %>
+          </div>
+          <% end %>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="small-5 columns"><strong>Name</strong></div>
+  <div class="small-5 columns"><strong>Description</strong></div>
+  <div class="small-2 columns"></div>
+</div>
+<% allDesignConstraints.each do |dc| %>
+<div class="row">
+  <div class="small-5 columns"><%= dc.name %></div>
+  <div class="small-5 columns"><%= dc.description %></div>
+  <div class="small-2 columns" style="text-align:center">
+    <%= link_to raw('<i class="fa fa-pencil-square-o"></i>'), edit_design_constraint_path(dc) %></a>
+  </div>
+</div>
+<% end %>
+<% end %>

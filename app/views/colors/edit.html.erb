@@ -1,2 +1,2 @@
 <%= render partial: "shared/header", locals: {obj: @color, name: "Colors" } %>
-<%= render partial: "form", locals: {color: @color} %>
+<%= render partial: "shared/simple_form", locals: {obj: @color, allObjects: allColors, placeholder: "New Color"} %>

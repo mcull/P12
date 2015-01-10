@@ -15,3 +15,10 @@
   </div>
 </div>
 <% end %>
+<% if flash[:notice] %>
+<div class="row">
+  <div class="large-12 columns notice">
+    <div class="notice"><%= flash[:notice] %></div>
+  </div>
+</div>
+<% end %>

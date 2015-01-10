@@ -1,35 +1,30 @@
-<% if flash[:notice] %>
-<div class="row">
-  <div class="large-12 columns notice">
-    <div class="notice"><%= flash[:notice] %></div>
-  </div>
-</div>
-<% end %>
-<%= form_for color do |f| %>
+<% # THIS IS GOOD FOR SIMPLE ENUM-LIKE OBJECTS %>
+
+<%= form_for obj do |f| %>
   <%= f.hidden_field(:active, :value => 1) %>
   <div class="row">
     <div class="large-12 columns">
       <div class="row collapse">
         <div class="large-5 medium-5 small-10 columns">
-          <%= f.text_field :name, 'placeholder' => 'New Color' %>
+          <%= f.text_field :name, 'placeholder' => placeholder %>
         </div>
         <div class="small-1 columns">
           <%= f.button raw('<i class="fa fa-floppy-o"></i>'), 'class'=>'button info postfix' %>
         </div>
         <div class="small-1 columns">
-          <% if color.persisted? then %>
-            <%= link_to raw('<i class="fa fa-times"></i>'), color, method: :delete, 'class'=>'button alert postfix' %>
+          <% if obj.persisted? then %>
+            <%= link_to raw('<i class="fa fa-times"></i>'), obj, method: :delete, 'class'=>'button alert postfix' %>
           <% end %>
         </div>
         <div class="large-5 medium-6 small-0 columns"></div>
       </div>
     </div>
   </div>
-  <% allColors.each do |c| %>
+  <% allObjects.each do |obj| %>
   <div class="row">
-    <div class="large-5 medium-5 small-10 columns"><%= c.name %></div>
+    <div class="large-5 medium-5 small-10 columns"><%= obj.name %></div>
     <div class="large-1 medium-1 small-2 columns" style="text-align:center">
-      <%= link_to raw('<i class="fa fa-pencil-square-o"></i>'), edit_color_path(c) %></a>
+      <%= link_to raw('<i class="fa fa-pencil-square-o"></i>'), polymorphic_path(obj, :action => 'edit') -%>
     </div>
     <div class="large-6 medium-6 small-0 columns"></div>
   </div>

@@ -11,8 +11,7 @@ class PrintersController < ApplicationController
 
   def create
     printer = Printer.new(params[:printer]);
-    if printer.valid? then
-      printer.save
+    if printer.save then
       flash[:notice] = printer.name  + " successfully added"
       redirect_to :action => :index
     else

@@ -1,4 +1,4 @@
-<%= form_for printer do |f| %>
+<%= form_for designOwner do |f| %>
   <%= f.hidden_field(:active, :value => 1) %>
   <div class="row">
     <div class="small-8 columns">
@@ -7,7 +7,7 @@
           <label for="name" class="right inline">Name</label>
         </div>
         <div class="small-9 columns">
-          <%= f.text_field :name, 'placeholder' => 'New Printer' %>
+          <%= f.text_field :name, 'placeholder' => 'New Design Owner' %>
         </div>
       </div>
       <div class="row">
@@ -15,18 +15,18 @@
           <label for="contact_email" class="right inline">Email</label>
         </div>
         <div class="small-9 columns">
-          <%= f.text_field :contact_email, 'placeholder' => 'someone@printer.com' %>
+          <%= f.text_field :contact_email, 'placeholder' => 'someone@licensing.com' %>
         </div>
       </div>
       <div class="row">
         <div class="small-4 small-offset-8 columns" style="text-align:center">
           <div class="row">
-            <div class="small-6 columns <%= (printer.persisted?) ? "" : "small-offset-6" %>">
+            <div class="small-6 columns <%= (designOwner.persisted?) ? "" : "small-offset-6" %>">
               <%= f.button raw('<i class="fa fa-floppy-o"></i>'), 'class'=>'button info small' %>
             </div>
-            <% if printer.persisted? then %>
+            <% if designOwner.persisted? then %>
             <div class="small-6 columns">
-              <%= link_to raw('<i class="fa fa-times"></i>'), printer, method: :delete, 'class'=>'button alert small' %>
+              <%= link_to raw('<i class="fa fa-times"></i>'), designOwner, method: :delete, 'class'=>'button alert small' %>
             </div>
             <% end %>
           </div>
@@ -39,12 +39,12 @@
     <div class="small-5 columns"><strong>Contact Email</strong></div>
     <div class="small-2 columns"></div>
   </div>
-  <% allPrinters.each do |p| %>
+  <% allDesignOwners.each do |dOwner| %>
   <div class="row">
-    <div class="small-5 columns"><%= p.name %></div>
-    <div class="small-5 columns"><%= p.contact_email %></div>
+    <div class="small-5 columns"><%= dOwner.name %></div>
+    <div class="small-5 columns"><%= dOwner.contact_email %></div>
     <div class="small-2 columns" style="text-align:center">
-      <%= link_to raw('<i class="fa fa-pencil-square-o"></i>'), edit_printer_path(p) %>
+      <%= link_to raw('<i class="fa fa-pencil-square-o"></i>'), edit_design_owner_path(dOwner) %>
     </div>
   </div>
   <% end %>

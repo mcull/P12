@@ -17,6 +17,10 @@ Rails.application.routes.draw do
      resources :sizes
      resources :sales_channels
      resources :printers
+     resources :design_constraints
+     resources :printable_locations
+     resources :printable_goods
+     resources :design_owners
   # Point of indirection
      post '/listeners/coloradotimberline', to: 'shipments#create'
 
