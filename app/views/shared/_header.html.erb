@@ -1,14 +1,14 @@
 <div class="row">
   <div class="large-12 columns">
-    <h2><%= obj.persisted? ? raw("<i class='fa fa-pencil-square-o'></i>") : "" %><%= name %></h2>
+    <h2><%= !obj.blank? && obj.persisted? ? raw("<i class='fa fa-pencil-square-o'></i>") : "" %><%= name %></h2>
   </div>
 </div>
-<% if obj.errors.any? %>
+<% if !obj.blank? && obj.errors.any? %>
 <div class="row">
   <div class="small-12 columns" id="error_explanation">
     <%= pluralize(obj.errors.count, "error") %> prohibited this object from being saved:
     <ul>
-      <% obj.errors.full_messages.each do |msg| %>
+      <% obj.errors.full_messages.each do |msg|%>
       <li><%= msg %></li>
       <% end %>
     </ul>

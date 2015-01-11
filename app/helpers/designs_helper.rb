@@ -1,10 +1,14 @@
 module DesignsHelper
-  def designsByOwner(owner_id,num_of_records,start_at)
+  def designsByOwner(owner_id)
     begin
-      Design.where(:owner_id => owner_id).limit(num_of_records).start_at(start_at)
+      Design.where(:design_owner_id => owner_id).where(:active => 1).all.sort_by { |a| [ a.created_at ] }
     rescue
       []
     end
+  end
+
+  def allDesigns
+    Design.where(:active => 1).all.sort_by { |a| [ a.created_at ] }
   end
 
   def owners

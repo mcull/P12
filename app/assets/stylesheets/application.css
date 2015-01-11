@@ -22,3 +22,7 @@
  .info i {color: white;}
  .notice {color: #999999;}
  #error_explanation {color: red; }
+ .sidebarTitle {color: #999999;font-style:italic}
+ .sidebar ul {
+   list-style:none;
+ }

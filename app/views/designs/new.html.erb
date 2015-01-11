@@ -1,2 +1,2 @@
-<%= render partial: "shared/header", locals: {obj: @design, name: "Designs"} %>
-<%= render partial: "form", locals: {design: @design } %>
+<%= render partial: "shared/header", locals: {obj: @design, name: "Designs: " + @designOwner.name} %>
+<%= render partial: "form", locals: {designOwner: @designOwner, design: @design } %>

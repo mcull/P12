@@ -1,20 +1,18 @@
-<%= render partial: "shared/header", locals: {obj: @design, name: "Designs"} %>
-<%= form_for @design do |f| %>
-<div class="row">
-  <div class="small-8 columns">
-    <div class="row">
-      <div class="small-3 columns">
-        <label for="name" class="right inline">Owner</label>
-      </div>
-      <div class="small-9 columns">
-        <%= f.select :design_owner_id, options_for_select(owners) %>
-      </div>
+<%= render partial: "shared/header", locals: {obj: nil, name: "Designs: " + @designOwner.name} %>
+
+<%= link_to raw('<i class="fa fa-plus"></i> <i class="fa fa-file-image-o"></i>'), new_design_owner_design_path(@designOwner.id) %>
+
+<ul class="block-grid-3">
+  <% designsByOwner(@designOwner.id).each do |d| %>
+  <li>
+    <div style="font-size:12px;">
+      <%= link_to edit_design_owner_design_path(@designOwner, d) do %>
+        <%= image_tag( d.image.url(:square)) %>
+      <% end %>
+        <br>
+        "<%= d.name %>"<br>
+        Created: <%= d.created_at %>
     </div>
-    <div class="row">
-      <div class="small-3 small-offset-9 columns">
-        <%= f.button raw('<i class="fa fa-search"></i>'), 'class'=>'button info small' %>
-      </div>
-    </div>
-  </div>
-</div>
-<% end %>
+  </li>
+  <% end %>
+</ul>
