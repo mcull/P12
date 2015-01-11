@@ -1,0 +1,20 @@
+<%= render partial: "shared/header", locals: {obj: @design, name: "Designs"} %>
+<%= form_for @design do |f| %>
+<div class="row">
+  <div class="small-8 columns">
+    <div class="row">
+      <div class="small-3 columns">
+        <label for="name" class="right inline">Owner</label>
+      </div>
+      <div class="small-9 columns">
+        <%= f.select :design_owner_id, options_for_select(owners) %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="small-3 small-offset-9 columns">
+        <%= f.button raw('<i class="fa fa-search"></i>'), 'class'=>'button info small' %>
+      </div>
+    </div>
+  </div>
+</div>
+<% end %>
