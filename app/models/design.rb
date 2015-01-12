@@ -23,19 +23,14 @@ class Design
     self.image = URI.parse(url)
   end
 
+  def design_owner
+    if @designOwner.blank? then
+      @designOwner = DesignOwner.find_by_id(self.design_owner_id)
+    end
+    @designOwner
+  end
+
   belongs_to :design_owner
   has_many :print_ready_art
-  
-  attr_accessor :creative_uploaded
 
-  before_save :upload_new_creative_if_necessary
-
-  private
-
-  def upload_new_creative_if_necessary
-    if creative_uploaded
-      # force update of the creative
-      image.save
-    end
-  end
 end

@@ -1,2 +1,23 @@
 <%= render partial: "shared/header", locals: {obj: @design, name: "Designs"} %>
 <%= render partial: "form", locals: {designOwner: @designOwner, design: @design } %>
+<hr>
+<div class="row">
+  <div class="small-12 columns">
+    <strong>Print ready art<strong>
+      <%= link_to raw('<i class="fa fa-plus"></i> <i class="fa fa-file-image-o"></i>'), new_design_owner_design_print_ready_art_path(@designOwner,@design) %>
+  </div>
+</div>
+<ul class="block-grid-3">
+<% allPrintReadyArt(@design.id).each do |pra| %>
+<li>
+  <div style="font-size:12px;">
+    <%= link_to edit_design_owner_design_print_ready_art_path(@designOwner,@design, pra) do %>
+    <%= image_tag( pra.image.url(:square)) %>
+    <% end %>
+    <br>
+    "<%= pra.design_constraint.name %>"<br>
+    Created: <%= pra.created_at %>
+  </div>
+</li>
+<% end %>
+</ul>

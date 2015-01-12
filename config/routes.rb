@@ -17,7 +17,9 @@ Rails.application.routes.draw do
      #resources :designs
      resources :design_constraints
      resources :design_owners do
-       resources :designs
+       resources :designs do
+         resources :print_ready_arts
+       end
      end
      resources :goods_categories
      resources :printable_goods

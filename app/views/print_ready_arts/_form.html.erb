@@ -1,0 +1,114 @@
+<%= form_for ([designOwner, design, art]) do |f| %>
+<%= f.hidden_field(:active, :value => 1) %>
+<div class="row">
+  <div class="small-10 columns">
+    <div class="row">
+      <div class="small-3 columns">
+        <label for="name" class="right inline">Design Constraint</label>
+      </div>
+      <div class="small-9 columns">
+        <%= f.select( :design_constraint_id, allDesignConstraints.map {|a| [a.name, a.id]}) -%>
+      </div>
+    </div>
+    <div class="row">
+      <div class="small-3 columns">
+        <label for="name" class="right inline">Image</label>
+      </div>
+      <div class="small-9 columns">
+        <%= f.file_field :image %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="small-3 small-offset-6 columns" style="text-align:center;position:relative;top:-20px;">
+        - or -
+      </div>
+    </div>
+    <div class="row collapse">
+      <div class="small-3 columns">
+        <label for="name" class="right inline" style="margin-right:15px;">Url</label>
+      </div>
+      <div class="small-7 columns">
+        <%= text_field_tag "upload_from", nil, :placeholder => 'https://image.location.com' %>
+      </div>
+      <div class="small-2 columns">
+        <%= f.button raw('<i class="fa fa-picture-o"></i>'), 'id'=>'preview', 'class'=>'button secondary postfix' %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="small-4 small-offset-8 columns" style="text-align:center">
+        <div class="row">
+          <div class="small-6 columns <%= (@design.persisted?) ? "" : "small-offset-6" %>">
+            <%= f.button raw('<i class="fa fa-floppy-o"></i>'), 'class'=>'button info small' %>
+          </div>
+          <% if @design.persisted? then %>
+          <div class="small-6 columns">
+            <%= link_to raw('<i class="fa fa-times"></i>'), design_owner_design_path(@designOwner.id, @design.id), :class=>'button alert small',:confirm => "Are you sure you want to delete this design?", :method => :delete %>
+          </div>
+          <% end %>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="small-10 small-offset-2 columns" style="text-align:center;display:none;" id="previewBox">
+        <div style="font-size:75px"><i class="fa fa-cog fa-spin"></i><div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <% end %>
+  <script type="text/javascript">
+  $.loadImage = function(url) {
+    // Define a "worker" function that should eventually resolve or reject the deferred object.
+    var loadImage = function(deferred) {
+      var image = new Image();
+
+      // Set up event handlers to know when the image has loaded
+      // or fails to load due to an error or abort.
+      image.onload = loaded;
+      image.onerror = errored; // URL returns 404, etc
+      image.onabort = errored; // IE may call this if user clicks "Stop"
+
+      // Setting the src property begins loading the image.
+      image.src = url;
+
+      function loaded() {
+        unbindEvents();
+        // Calling resolve means the image loaded sucessfully and is ready to use.
+        deferred.resolve(image);
+      }
+      function errored() {
+        unbindEvents();
+        // Calling reject means we failed to load the image (e.g. 404, server offline, etc).
+        deferred.reject(image);
+      }
+      function unbindEvents() {
+        // Ensures the event callbacks only get called once.
+        image.onload = null;
+        image.onerror = null;
+        image.onabort = null;
+      }
+    };
+
+    // Create the deferred object that will contain the loaded image.
+    // We don't want callers to have access to the resolve() and reject() methods,
+    // so convert to "read-only" by calling `promise()`.
+    return $.Deferred(loadImage).promise();
+  };
+
+
+  $(document).ready(function(){
+    $("#preview").click(function(event) {
+      event.preventDefault();
+      $("#previewBox").show();
+      var url = $("#upload_from").val();
+      $.loadImage(url)
+      .done(function(image) {
+        $("#previewBox").html(image);
+      })
+      .fail(function(image) {
+        alert("Failed to load image");
+      });
+
+    });
+  });
+</script>

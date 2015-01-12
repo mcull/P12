@@ -1,14 +1,24 @@
 <%= render partial: "shared/header", locals: {obj: nil, name: "Designs: " + @designOwner.name} %>
-
-<%= link_to raw('<i class="fa fa-plus"></i> <i class="fa fa-file-image-o"></i>'), new_design_owner_design_path(@designOwner.id) %>
-
+<%= link_to raw('<i class="fa fa-plus"></i> <i class="fa fa-file-image-o"></i>'), new_design_owner_design_path(@designOwner.id) %> Add Design
+<br>
+<br>
+<strong>All Designs:</strong>
 <ul class="block-grid-3">
   <% designsByOwner(@designOwner.id).each do |d| %>
   <li>
     <div style="font-size:12px;">
-      <%= link_to edit_design_owner_design_path(@designOwner, d) do %>
-        <%= image_tag( d.image.url(:square)) %>
+      <% listOfPrintReadyArt = allPrintReadyArt(d.id)
+      exemplar = listOfPrintReadyArt.any? ? listOfPrintReadyArt.first : nil %>
+      <% if !exemplar.blank? then %>
+        <%= link_to edit_design_owner_design_path(@designOwner, d) do %>
+        <%= image_tag( exemplar.image.url(:square)) %>
+        <% end %>
+      <% else %>
+        <div style="width:200px;height:200px;border:1px solid #cccccc;padding-top:88px;text-align:center">
+        <%= link_to "Edit (+add print ready art)", edit_design_owner_design_path(d.design_owner_id, d.id) %>
+      </div>
       <% end %>
+
         <br>
         "<%= d.name %>"<br>
         Created: <%= d.created_at %>

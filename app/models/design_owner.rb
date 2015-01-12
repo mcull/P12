@@ -8,7 +8,7 @@ class DesignOwner
 
   field :active, :integer
 
-  has_many :designs
+  has_many :designs, :class => Design
   has_many :sellable_goods
 
 end
