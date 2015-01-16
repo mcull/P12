@@ -3,12 +3,10 @@ class PrintableGood
 
   table :name => :printable_goods, :key => :id, :read_capacity => 5, :write_capacity => 2
 
-  field :sellable_good_id, :size_id, :color_id, :printer_inventory_id
+  field :base_good_id
+  field :size_id
+  field :color_id
+  field :design_constraint_id
   field :price_offset :float
-
-  has_and_belongs_to_many :printable_locations
-  belongs_to :base_good
-  belongs_to :size
-  belongs_to :color
 
 end

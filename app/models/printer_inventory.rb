@@ -3,9 +3,11 @@ class PrinterInventory
 
   table :name => :printer_inventory, :key => :id, :read_capacity => 5, :write_capacity => 2
 
-  field :printer_id, :printable_good_id, :shelf_sku
+  field :printer_id
+  field :printable_good_id
+  field :shelf_sku
 
-  belongs_to :printer
-  belongs_to :printable_good
+  field :active, :integer
+
 
 end

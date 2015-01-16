@@ -18,3 +18,7 @@
 
 #ignore secrets
 .env
+.env.soniram
+
+#ignore paperwork
+paperwork/*

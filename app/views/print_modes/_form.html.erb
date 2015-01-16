@@ -1,0 +1,51 @@
+<%= form_for printMode do |f| %>
+  <%= f.hidden_field(:active, :value => 1) %>
+  <div class="row">
+    <div class="small-8 columns">
+      <div class="row">
+        <div class="small-3 columns">
+          <label for="name" class="right inline">Name</label>
+        </div>
+        <div class="small-9 columns">
+          <%= f.text_field :printer_name, 'placeholder' => 'printer name' %>
+        </div>
+      </div>
+      <div class="row">
+        <div class="small-3 columns">
+          <label for="name" class="right inline">Customer-Friendly Name</label>
+        </div>
+        <div class="small-9 columns">
+          <%= f.text_field :customer_name, 'placeholder' => 'friendly name' %>
+        </div>
+      </div>
+      <div class="row">
+        <div class="small-4 small-offset-8 columns" style="text-align:center">
+          <div class="row">
+            <div class="small-6 columns <%= (printMode.persisted?) ? "" : "small-offset-6" %>">
+              <%= f.button raw('<i class="fa fa-floppy-o"></i>'), 'class'=>'button info small' %>
+            </div>
+            <% if printMode.persisted? then %>
+            <div class="small-6 columns">
+              <%= link_to raw('<i class="fa fa-times"></i>'), printMode, method: :delete, 'class'=>'button alert small' %>
+            </div>
+            <% end %>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="small-5 columns"><strong>Printer Name</strong></div>
+    <div class="small-5 columns"><strong>Customer Friendly Name</strong></div>
+    <div class="small-2 columns"></div>
+  </div>
+  <% allPrintModes.each do |p| %>
+  <div class="row">
+    <div class="small-5 columns"><%= p.printer_name %></div>
+    <div class="small-5 columns"><%= p.customer_name %></div>
+    <div class="small-2 columns" style="text-align:center">
+      <%= link_to raw('<i class="fa fa-pencil-square-o"></i>'), edit_print_mode_path(p) %>
+    </div>
+  </div>
+  <% end %>
+<% end %>

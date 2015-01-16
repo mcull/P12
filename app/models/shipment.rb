@@ -3,7 +3,11 @@ class Shipment
 
   table :name => :shipments, :key => :id, :read_capacity => 5, :write_capacity => 2
 
-  field :order_id, :shipped_via, :sales_channel_confirmation_id, :raw_receipt
+  field :order_id
+  field :shipped_via
+  field :sales_channel_confirmation_id
+  field :raw_receipt
+  
   field :ship_date :datetime
   field :cost, :float
 

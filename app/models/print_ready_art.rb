@@ -17,9 +17,6 @@ class PrintReadyArt
 
   field :active, :integer
 
-  belongs_to :design
-  belongs_to :design_constraint
-
   def image_from_url(url)
     self.image = URI.parse(url)
   end

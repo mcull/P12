@@ -34,8 +34,8 @@ class DesignsController < ApplicationController
   end
 
   def edit
-    @designOwner = DesignOwner.find_by_id(params[:design_owner_id])
     @design = Design.find(params[:id])
+    @designOwner = @design.design_owner
     render :action => :edit
   end
 

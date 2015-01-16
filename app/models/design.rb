@@ -16,6 +16,7 @@ class Design
   field :name
   field :description
   field :design_owner_id
+
   field :image_updated_at, :datetime
   field :active, :integer
 
@@ -30,7 +31,11 @@ class Design
     @designOwner
   end
 
-  belongs_to :design_owner
-  has_many :print_ready_art
+  def print_ready_art
+    if @printReadyArt.blank? then
+      @printReadyArt = PrintReadyArt.where(:design_id => self.id).where(:active => 1)
+    end
+    @designOwner
+  end
 
 end

@@ -26,3 +26,11 @@
  .sidebar ul {
    list-style:none;
  }
+
+ select {
+   height: auto;
+ }
+
+ select[size], select[multiple] {
+   background-image: none;
+ }

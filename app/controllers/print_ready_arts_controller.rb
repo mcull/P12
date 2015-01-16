@@ -6,8 +6,8 @@ class PrintReadyArtsController < ApplicationController
   end
 
   def new
-    @designOwner = DesignOwner.find_by_id(params[:design_owner_id])
     @design = Design.find_by_id(params[:design_id])
+    @designOwner = @design.design_owner
     @printReadyArt = PrintReadyArt.new
     @printReadyArt.design_id = @design.id
     render :action => :new
@@ -21,7 +21,6 @@ class PrintReadyArtsController < ApplicationController
   def create
     art = PrintReadyArt.new(params[:print_ready_art])
     art.design_id = params[:design_id]
-    owner = params[:design_owner_id]
     copy_from = params[:upload_from]
     art.image_from_url(copy_from) unless copy_from.blank?
     if art.save then
@@ -31,29 +30,30 @@ class PrintReadyArtsController < ApplicationController
   end
 
   def edit
-    @designOwner = DesignOwner.find_by_id(params[:design_owner_id])
-    @design = Design.find(params[:id])
+    @printReadyArt = PrintReadyArt.find_by_id(params[:id])
+    @printReadyArt.design_id = params[:design_id]
+    @design = @printReadyArt.design
+    @designOwner = @design.design_owner.target
+
+
     render :action => :edit
   end
 
   def update
-    @design = Design.find(params[:id])
+    art = PrintReadyArt.find(params[:id])
+    art.design_id = params[:design_id]
     copy_from = params[:upload_from]
-    @design.image_from_url(copy_from) unless copy_from.blank?
-    @design.image.save unless params[:design][:image].blank?
-    if @design.update_attributes(params[:design]) then
-      flash[:notice] = @design.name  + " successfully saved"
-      redirect_to :action => :index
-    else
-      render :action => :edit
+    if art.update_attributes(params[:print_ready_art]) then
+      flash[:notice] = art.getDesign.name  + " successfully saved"
     end
+    redirect_to edit_design_owner_design_path(art.getDesign.getDesignOwner, art.getDesign)
   end
 
   def destroy
-    design = Design.find(params[:id])
-    design.active = 0
-    design.save
-    flash[:notice] = design.name  + " successfully deleted"
-    redirect_to :action => :index
+    art = PrintReadyArt.find(params[:id])
+    art.active = 0
+    art.save
+    flash[:notice] = art.getDesign.name + ": " + art.getDesignConstraint.name  + " successfully deleted"
+    redirect_to edit_design_owner_design_path(art.getDesign.getDesignOwner, art.getDesign)
   end
 end

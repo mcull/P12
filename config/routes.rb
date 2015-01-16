@@ -13,6 +13,7 @@ Rails.application.routes.draw do
 
   # Example resource route (maps HTTP verbs to controller actions automatically):
 
+     resources :base_goods
      resources :colors
      #resources :designs
      resources :design_constraints
@@ -22,6 +23,7 @@ Rails.application.routes.draw do
        end
      end
      resources :goods_categories
+     resources :print_modes
      resources :printable_goods
      resources :printable_locations
      resources :printers

@@ -3,10 +3,11 @@ class Product
 
   table :name => :products, :key => :id, :read_capacity => 5, :write_capacity => 2
 
-  field :printable_good_id, :sellable_good_id, :name, :print_mode, :photo_uri
+  field :printable_good_id
+  field :sellable_good_id
+  field :name
 
-  has_many :print_locations
-  belongs_to :printer_inventory
-  belongs_to :sellable_good
+  field :num_of_additional_photos, :integer
+  field :active, :integer
 
 end

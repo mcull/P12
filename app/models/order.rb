@@ -7,9 +7,6 @@ class Order
   field :purchase_date :datetime
   field :total, :float
 
-  index :purchase_date, :range => true
-  index :status, :range_key => :purchase_date
-
   has_many :shipments
   has_many :order_items
 

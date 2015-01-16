@@ -1,0 +1,118 @@
+<%= form_for baseGood do |f| %>
+  <%= f.hidden_field(:active, :value => 1) %>
+  <div class="row">
+    <div class="small-10 columns">
+      <div class="row">
+        <div class="small-3 columns">
+          <label for="name" class="right inline">Name</label>
+        </div>
+        <div class="small-9 columns">
+          <%= f.text_field :name, 'placeholder' => 'New Base Good' %>
+        </div>
+      </div>
+      <div class="row">
+        <div class="small-3 columns">
+          <label for="name" class="right inline">Category</label>
+        </div>
+        <div class="small-9 columns">
+          <%= f.select(:goods_category_id, allGoodsCategories.map {|a| [a.name, a.id]}) -%>
+        </div>
+      </div>
+      <div class="row">
+        <div class="small-3 columns">
+          <label for="name" class="right inline">Description</label>
+        </div>
+        <div class="small-9 columns">
+          <%= f.text_area :description, size: "24x3" %><br>
+        </div>
+      </div>
+      <div class="row">
+        <div class="small-3 columns">
+          <label for="name" class="right inline">Size Chart URL</label>
+        </div>
+        <div class="small-9 columns">
+          <%= f.text_field :size_chart_uri, 'placeholder' => 'https://sizechart.host.com' %>
+        </div>
+      </div>
+      <div class="row">
+        <div class="small-3 columns">
+          <label for="name" class="right inline">Colors</label>
+        </div>
+        <div class="small-9 columns">
+          <%= select_tag 'colors[]',
+                          options_from_collection_for_select(
+                            allColors,
+                            :id,
+                            :name,
+                            selectedColors(@baseGood)),
+                          multiple: true,
+                          size: '5',
+                          :include_blank => false%>
+        </div>
+      </div>
+      <div class="row">
+        <div class="small-3 columns">
+          <label for="name" class="right inline">Sizes</label>
+        </div>
+        <div class="small-9 columns">
+          <%= select_tag 'sizes[]',
+                          options_from_collection_for_select(
+                            allSizes,
+                            :id,
+                            :name,
+                            selectedSizes(@baseGood)),
+                          multiple: true,
+                          size: '5',
+                          :include_blank => false%>
+        </div>
+      </div>
+      <div class="row">
+        <div class="small-3 columns">
+          <label for="name" class="right inline">Print Modes</label>
+        </div>
+        <div class="small-9 columns">
+          <%= select_tag 'print_modes[]',
+                          options_from_collection_for_select(
+                            allPrintModes,
+                            :id,
+                            :customer_name,
+                            selectedPrintModes(@baseGood)),
+                          multiple: true,
+                          size: '5',
+                          :include_blank => false%>
+        </div>
+      </div>
+      <div class="row">
+        <div class="small-3 columns">
+          <label for="name" class="right inline">Print Locations</label>
+        </div>
+        <div class="small-9 columns">
+          <%= select_tag 'printable_locations[]',
+                          options_from_collection_for_select(
+                            allPrintableLocations,
+                            :id,
+                            :name,
+                            selectedPrintLocations(@baseGood)),
+                          multiple: true,
+                          size: '5',
+                          :include_blank => false%>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="small-4 small-offset-8 columns" style="text-align:center">
+          <div class="row">
+            <div class="small-6 columns <%= (baseGood.persisted?) ? "" : "small-offset-6" %>">
+              <%= f.button raw('<i class="fa fa-floppy-o"></i>'), 'class'=>'button info small' %>
+            </div>
+            <% if baseGood.persisted? then %>
+            <div class="small-6 columns">
+              <%= link_to raw('<i class="fa fa-times"></i>'), baseGood, method: :delete, 'class'=>'button alert small' %>
+            </div>
+            <% end %>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<% end %>

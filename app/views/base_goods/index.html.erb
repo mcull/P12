@@ -1,0 +1,20 @@
+<%= render partial: "shared/header", locals: {obj: nil, name: "Base Goods"} %>
+
+<%= link_to raw('<i class="fa fa-cube"></i> New'), new_base_good_path() %>
+
+
+<% allBaseGoods.each do |bg| %>
+<div class="row">
+  <div class="small-8 columns">
+    <div class="row">
+      <div class="small-6 columns">
+        <%= bg.name %>
+      </div>
+      <div class="small-2 columns">
+        <%= link_to raw('<i class="fa fa-pencil-square-o"></i>'), edit_base_good_path(bg) %>
+      </div>
+    </div>
+  </div>
+</div>
+
+<% end %>

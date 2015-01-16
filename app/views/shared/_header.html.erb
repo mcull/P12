@@ -3,7 +3,7 @@
     <h2><%= !obj.blank? && obj.persisted? ? raw("<i class='fa fa-pencil-square-o'></i>") : "" %><%= name %></h2>
   </div>
 </div>
-<% if !obj.blank? && obj.errors.any? %>
+<% if !obj.blank? && obj.errors.any? then %>
 <div class="row">
   <div class="small-12 columns" id="error_explanation">
     <%= pluralize(obj.errors.count, "error") %> prohibited this object from being saved:
@@ -15,7 +15,7 @@
   </div>
 </div>
 <% end %>
-<% if flash[:notice] %>
+<% if flash[:notice] then %>
 <div class="row">
   <div class="large-12 columns notice">
     <div class="notice"><%= flash[:notice] %></div>
