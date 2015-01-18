@@ -8,9 +8,9 @@ class SalesChannel
   field :notes
   field :active, :integer
 
-  has_many :sellable_goods
-
   validates_presence_of :name
   validates_presence_of :account_id
+
+
 
 end

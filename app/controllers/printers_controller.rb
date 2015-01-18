@@ -1,10 +1,5 @@
 class PrintersController < ApplicationController
 
-  def index
-    @printer = Printer.new
-    render :action => :new
-  end
-
   def new
     redirect_to :action => :index
   end

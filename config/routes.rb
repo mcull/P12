@@ -12,7 +12,7 @@ Rails.application.routes.draw do
   #   get 'products/:id/purchase' => 'catalog#purchase', as: :purchase
 
   # Example resource route (maps HTTP verbs to controller actions automatically):
-
+  scope '/admin' do
      resources :base_goods
      resources :colors
      #resources :designs
@@ -26,10 +26,15 @@ Rails.application.routes.draw do
      resources :print_modes
      resources :printable_goods
      resources :printable_locations
-     resources :printers
+     resources :printers do
+       resources :base_goods do
+         resources :printer_inventories
+       end
+     end
      resources :sales_channels
      resources :shipments
      resources :sizes
+   end
 
   # Point of indirection
      post '/listeners/coloradotimberline', to: 'shipments#create'

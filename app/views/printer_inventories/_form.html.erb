@@ -32,7 +32,7 @@
           </div>
         </div>
       </div>
-
+    </div>
 
     <% if (printer.persisted?) then %>
     <div class="row">
@@ -43,11 +43,10 @@
       <div class="row">
         <div class="small-10 columns"><%= bg.name %></div>
         <div class="small-2 columns" style="text-align:center">
-          <%= link_to raw('<i class="fa fa-pencil-square-o"></i>'), '/admin/printers/' + printer.id + '/base_goods/' + bg.id + '/printer_inventorys' %>
+          <%= link_to raw('<i class="fa fa-pencil-square-o"></i>'), printer_base_good_printer_inventorys_path(printer.id, bg.id) %>
         </div>
       </div>
       <% end %>
     <% end %>
-  </div>
   </div>
   <% end %>

@@ -58,6 +58,7 @@ class BaseGood
         bgColors.each do |bgc|
           @colors.push(Color.find_by_id(bgc.color_id))
         end
+        @colors.sort_by! { |a| [ a.name ] }
       end
     end
     @colors
@@ -75,6 +76,7 @@ class BaseGood
         bgSizes.each do |bgs|
           @sizes.push(Size.find_by_id(bgs.size_id))
         end
+        @sizes.sort_by! { |a| [ a.sort_order, a.name ] }
       end
     end
     @sizes

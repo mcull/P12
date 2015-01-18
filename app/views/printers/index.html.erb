@@ -1,0 +1,15 @@
+  <%= render partial: "shared/header", locals: {obj: nil, name: "Printers"} %>
+  <div class="row">
+    <div class="small-5 columns"><strong>Name</strong></div>
+    <div class="small-5 columns"><strong>Contact Email</strong></div>
+    <div class="small-2 columns"></div>
+  </div>
+  <% allPrinters.each do |p| %>
+  <div class="row">
+    <div class="small-5 columns"><%= p.name %></div>
+    <div class="small-5 columns"><%= p.contact_email %></div>
+    <div class="small-2 columns" style="text-align:center">
+      <%= link_to raw('<i class="fa fa-pencil-square-o"></i>'), edit_printer_path(p) %>
+    </div>
+  </div>
+  <% end %>

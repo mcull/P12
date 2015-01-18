@@ -1,0 +1,25 @@
+  <%= render partial: "shared/header", locals: {obj: nil, name: @printer.name + " Inventory: " + @base_good.name} %>
+  <div class="row">
+    <div class="small-3 columns"><strong>Color</strong></div>
+    <div class="small-3 columns"><strong>Size</strong></div>
+    <div class="small-3 columns">Shelf SKU</div>
+    <div class="small-2 columns"></div>
+  </div>
+  <% @base_good.colors.each do |c| %>
+    <% @base_good.sizes.each do |s| %>
+      <%= form_for ([@printer, @base_good, getInventoryFor(@printer_inventories,c,s,@printer,@base_good)]) do |f| %>
+      <%= hidden_field_tag(:color_id, c.id) %>
+      <%= hidden_field_tag(:size_id, s.id) %>
+      <div class="row">
+        <div class="small-3 columns"><%= c.name %></div>
+        <div class="small-3 columns"><%= s.name %></div>
+        <div class="small-3 columns">
+          <%= f.text_field :shelf_sku %>
+        </div>
+        <div class="small-2 columns" style="text-align:center">
+          <%= f.button raw('<i class="fa fa-floppy-o"></i>'), 'class'=>'button info small' %>
+        </div>
+      </div>
+      <% end %>
+    <% end %>
+  <% end %>
