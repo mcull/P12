@@ -1,7 +1,7 @@
 class PrintersController < ApplicationController
 
   def new
-    redirect_to :action => :index
+    @printer = Printer.new
   end
 
   def create

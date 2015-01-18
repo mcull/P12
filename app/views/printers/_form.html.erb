@@ -41,10 +41,10 @@
     </div>
       <% allBaseGoods.each do |bg| %>
       <div class="row">
-        <div class="small-10 columns"><%= bg.name %></div>
-        <div class="small-2 columns" style="text-align:center">
-          <%= link_to raw('<i class="fa fa-pencil-square-o"></i>'), '/admin/printers/' + printer.id + '/base_goods/' + bg.id + '/printer_inventorys' %>
-        </div>
+        <div class="small-10 columns">
+          <%= link_to raw('<i class="fa fa-pencil-square-o"></i>' + bg.name), '/admin/printers/' + printer.id + '/base_goods/' + bg.id + '/printer_inventories' %>
+          <%=  %>
+          </div>
       </div>
       <% end %>
     <% end %>

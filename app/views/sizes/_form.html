@@ -18,14 +18,13 @@
       </div>
     </div>
   </div>
+  <%= render partial: "shared/new_link", locals: {obj: @size, show: @size.persisted? } %>
   <% allSizes.each do |s| %>
   <div class="row">
-    <div class="large-2 medium-2 small-3 columns"><%= link_to raw('<i class="fa fa-caret-square-o-up"></i>'), size_path(s, :sort_order => s.sort_order - 1), :method => :put %> <%= link_to raw('<i class="fa fa-caret-square-o-down"></i>'), size_path(s, :sort_order => s.sort_order + 1), :method => :put %> <%= s.sort_order %></div>
-    <div class="large-3 medium-3 small-7 columns"> <%= s.name %></div>
-    <div class="large-1 medium-1 small-2 columns" style="text-align:center">
-      <%= link_to raw('<i class="fa fa-pencil-square-o"></i>'), edit_size_path(s) %></a>
+    <div class="small-2 columns"><%= link_to raw('<i class="fa fa-caret-square-o-up"></i>'), size_path(s, :sort_order => s.sort_order - 1), :method => :put %> <%= link_to raw('<i class="fa fa-caret-square-o-down"></i>'), size_path(s, :sort_order => s.sort_order + 1), :method => :put %> <%= s.sort_order %></div>
+    <div class="small-10 columns">
+      <%= link_to raw('<i class="fa fa-pencil-square-o"></i>' + s.name), edit_size_path(s) %></a>
     </div>
-    <div class="large-6 medium-6 small-0 columns"></div>
   </div>
   <% end %>
 <% end %>

@@ -20,11 +20,17 @@
       </div>
     </div>
   </div>
+  <% if obj.persisted? then %>
+  <div class="row">
+    <div class="small-12 columns newLink">
+      <%= link_to "+New",  polymorphic_path(obj.class.new) %></a>
+    </div>
+  </div>
+  <% end %>
   <% allObjects.each do |obj| %>
   <div class="row">
-    <div class="large-5 medium-5 small-10 columns"><%= obj.name %></div>
-    <div class="large-1 medium-1 small-2 columns" style="text-align:center">
-      <%= link_to raw('<i class="fa fa-pencil-square-o"></i>'), polymorphic_path(obj, :action => 'edit') -%>
+    <div class="large-6 medium-6 small-10 columns">
+      <%= link_to raw('<i class="fa fa-pencil-square-o"></i> ' + obj.name), polymorphic_path(obj, :action => 'edit') -%>
     </div>
     <div class="large-6 medium-6 small-0 columns"></div>
   </div>

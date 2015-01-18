@@ -41,11 +41,12 @@
   </div>
   <% allDesignOwners.each do |dOwner| %>
   <div class="row">
-    <div class="small-5 columns"><%= dOwner.name %></div>
+    <div class="small-5 columns">
+      <%= link_to raw('<i class="fa fa-pencil-square-o"></i>' + dOwner.name), edit_design_owner_path(dOwner) %>
+      </div>
     <div class="small-5 columns"><%= dOwner.contact_email %></div>
-    <div class="small-2 columns" style="text-align:center">
-      <%= link_to raw('<i class="fa fa-pencil-square-o"></i>'), edit_design_owner_path(dOwner) %>
-    </div>
+    <div class="small-2 columns"></div>
   </div>
   <% end %>
 <% end %>
+<%= render partial: "shared/new_link", locals: {obj: designOwner, show: designOwner.persisted? } %>

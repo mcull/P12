@@ -41,7 +41,9 @@
 </div>
 <% allDesignConstraints.each do |dc| %>
 <div class="row">
-  <div class="small-5 columns"><%= dc.name %></div>
+  <div class="small-5 columns">
+    <%= link_to raw('<i class="fa fa-pencil-square-o"></i>' + dc.name), edit_design_constraint_path(dc) %></a>
+  </div>
   <div class="small-5 columns"><%= dc.description %></div>
   <div class="small-2 columns" style="text-align:center">
     <%= link_to raw('<i class="fa fa-pencil-square-o"></i>'), edit_design_constraint_path(dc) %></a>
@@ -49,3 +51,4 @@
 </div>
 <% end %>
 <% end %>
+<%= render partial: "shared/new_link", locals: {obj: designConstraint, show: designConstraint.persisted? } %>

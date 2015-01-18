@@ -8,4 +8,11 @@ class DesignOwner
 
   field :active, :integer
 
+  def designs
+      if @designs.blank? then
+        @designs = Design.where(:design_owner_id => self.id).all.sort_by { |a| [ a.created_at ] }.reverse
+      end
+      @designs
+  end
+
 end
