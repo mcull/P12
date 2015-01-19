@@ -1,0 +1,4136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products date="2015-01-18" sku_search="" text_search="">
+  <product code="kcs">
+    <name>KCS - Durango Jr. Youth Crewneck / Laser or Printed Area 10"x12"</name>
+    <description>Youth Microfibre Short Sleeve Crew Neck</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2026/kcs_original.png?1354203313</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2026/kcs_thumb.png?1354203313</thumb>
+    </images>
+    <sizes>
+      <size id="3136">XS</size>
+      <size id="3137">S</size>
+      <size id="3138">M</size>
+      <size id="3139">L</size>
+    </sizes>
+    <colors>
+      <color id="8232">
+        <name>Black</name>
+        <hex>242425</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8263">
+        <name>Burgundy</name>
+        <hex>8E2344</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8253">
+        <name>Forest</name>
+        <hex>006847</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8252">
+        <name>Navy</name>
+        <hex>002654</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8285">
+        <name>Pewter</name>
+        <hex>666D70</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8250">
+        <name>Red</name>
+        <hex>D81E05</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8254">
+        <name>Royal</name>
+        <hex>0038A8</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15719">
+        <name>front</name>
+        <width>35.0</width>
+        <height>31.0</height>
+        <dpi>100</dpi>
+        <print_mode id="18">full_sub</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15719/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/860/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>150</width>
+          <height>133</height>
+          <left>228</left>
+          <top>105</top>
+        </viewport>
+        <safezone>
+          <width>152</width>
+          <height>135</height>
+          <left>228</left>
+          <top>105</top>
+        </safezone>
+      </view>
+      <view id="15720">
+        <name>back</name>
+        <width>35.0</width>
+        <height>31.0</height>
+        <dpi>100</dpi>
+        <print_mode id="18">full_sub</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15720/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/861/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>345</width>
+          <height>306</height>
+          <left>127</left>
+          <top>35</top>
+        </viewport>
+        <safezone>
+          <width>347</width>
+          <height>308</height>
+          <left>127</left>
+          <top>35</top>
+        </safezone>
+      </view>
+      <view id="15694">
+        <name>left chest</name>
+        <width>4.0</width>
+        <height>4.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15694/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/860/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>45</width>
+          <height>45</height>
+          <left>342</left>
+          <top>59</top>
+        </viewport>
+        <safezone>
+          <width>47</width>
+          <height>47</height>
+          <left>342</left>
+          <top>59</top>
+        </safezone>
+      </view>
+      <view id="15436">
+        <name>front</name>
+        <width>10.0</width>
+        <height>12.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15436/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/860/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>166</width>
+          <height>200</height>
+          <left>213</left>
+          <top>41</top>
+        </viewport>
+        <safezone>
+          <width>168</width>
+          <height>202</height>
+          <left>213</left>
+          <top>41</top>
+        </safezone>
+      </view>
+      <view id="15441">
+        <name>back</name>
+        <width>10.0</width>
+        <height>12.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15441/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/861/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>173</width>
+          <height>209</height>
+          <left>217</left>
+          <top>30</top>
+        </viewport>
+        <safezone>
+          <width>175</width>
+          <height>211</height>
+          <left>217</left>
+          <top>30</top>
+        </safezone>
+      </view>
+      <view id="15446">
+        <name>left sleeve</name>
+        <width>3.0</width>
+        <height>3.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15446/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1095/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>44</width>
+          <height>44</height>
+          <left>297</left>
+          <top>100</top>
+        </viewport>
+        <safezone>
+          <width>46</width>
+          <height>46</height>
+          <left>297</left>
+          <top>100</top>
+        </safezone>
+      </view>
+      <view id="15447">
+        <name>right sleeve</name>
+        <width>3.0</width>
+        <height>3.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15447/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1130/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>45</width>
+          <height>45</height>
+          <left>262</left>
+          <top>100</top>
+        </viewport>
+        <safezone>
+          <width>47</width>
+          <height>47</height>
+          <left>262</left>
+          <top>100</top>
+        </safezone>
+      </view>
+      <view id="15442">
+        <name>back bottom left</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15442/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/861/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>75</width>
+          <height>75</height>
+          <left>222</left>
+          <top>290</top>
+        </viewport>
+        <safezone>
+          <width>77</width>
+          <height>77</height>
+          <left>222</left>
+          <top>290</top>
+        </safezone>
+      </view>
+      <view id="15443">
+        <name>back bottom right</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15443/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/861/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>77</width>
+          <height>77</height>
+          <left>317</left>
+          <top>291</top>
+        </viewport>
+        <safezone>
+          <width>79</width>
+          <height>79</height>
+          <left>317</left>
+          <top>291</top>
+        </safezone>
+      </view>
+      <view id="15444">
+        <name>back left shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15444/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/861/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>75</width>
+          <height>75</height>
+          <left>195</left>
+          <top>32</top>
+        </viewport>
+        <safezone>
+          <width>77</width>
+          <height>77</height>
+          <left>195</left>
+          <top>32</top>
+        </safezone>
+      </view>
+      <view id="15438">
+        <name>front bottom right</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15438/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/860/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>73</width>
+          <height>73</height>
+          <left>205</left>
+          <top>307</top>
+        </viewport>
+        <safezone>
+          <width>75</width>
+          <height>75</height>
+          <left>205</left>
+          <top>307</top>
+        </safezone>
+      </view>
+      <view id="15439">
+        <name>front left shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15439/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/860/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>74</width>
+          <height>74</height>
+          <left>318</left>
+          <top>17</top>
+        </viewport>
+        <safezone>
+          <width>76</width>
+          <height>76</height>
+          <left>318</left>
+          <top>17</top>
+        </safezone>
+      </view>
+      <view id="15440">
+        <name>front right shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15440/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/860/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>77</width>
+          <height>77</height>
+          <left>199</left>
+          <top>17</top>
+        </viewport>
+        <safezone>
+          <width>79</width>
+          <height>79</height>
+          <left>199</left>
+          <top>17</top>
+        </safezone>
+      </view>
+      <view id="15437">
+        <name>front bottom left</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15437/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/860/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>73</width>
+          <height>73</height>
+          <left>314</left>
+          <top>309</top>
+        </viewport>
+        <safezone>
+          <width>75</width>
+          <height>75</height>
+          <left>314</left>
+          <top>309</top>
+        </safezone>
+      </view>
+      <view id="15693">
+        <name>left chest</name>
+        <width>4.0</width>
+        <height>4.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15693/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/860/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>46</width>
+          <height>46</height>
+          <left>335</left>
+          <top>72</top>
+        </viewport>
+        <safezone>
+          <width>48</width>
+          <height>48</height>
+          <left>335</left>
+          <top>72</top>
+        </safezone>
+      </view>
+      <view id="13597">
+        <name>front</name>
+        <width>10.0</width>
+        <height>12.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13597/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/860/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>166</width>
+          <height>200</height>
+          <left>213</left>
+          <top>41</top>
+        </viewport>
+        <safezone>
+          <width>168</width>
+          <height>202</height>
+          <left>213</left>
+          <top>41</top>
+        </safezone>
+      </view>
+      <view id="13594">
+        <name>back</name>
+        <width>10.0</width>
+        <height>12.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13594/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/861/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>173</width>
+          <height>209</height>
+          <left>217</left>
+          <top>30</top>
+        </viewport>
+        <safezone>
+          <width>175</width>
+          <height>211</height>
+          <left>217</left>
+          <top>30</top>
+        </safezone>
+      </view>
+      <view id="13624">
+        <name>left sleeve</name>
+        <width>3.0</width>
+        <height>3.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13624/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1095/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>44</width>
+          <height>44</height>
+          <left>297</left>
+          <top>100</top>
+        </viewport>
+        <safezone>
+          <width>46</width>
+          <height>46</height>
+          <left>297</left>
+          <top>100</top>
+        </safezone>
+      </view>
+      <view id="13627">
+        <name>right sleeve</name>
+        <width>3.0</width>
+        <height>3.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13627/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1130/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>45</width>
+          <height>45</height>
+          <left>262</left>
+          <top>100</top>
+        </viewport>
+        <safezone>
+          <width>47</width>
+          <height>47</height>
+          <left>262</left>
+          <top>100</top>
+        </safezone>
+      </view>
+      <view id="13600">
+        <name>back bottom left</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13600/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/861/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>75</width>
+          <height>75</height>
+          <left>222</left>
+          <top>290</top>
+        </viewport>
+        <safezone>
+          <width>77</width>
+          <height>77</height>
+          <left>222</left>
+          <top>290</top>
+        </safezone>
+      </view>
+      <view id="13603">
+        <name>back bottom right</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13603/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/861/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>77</width>
+          <height>77</height>
+          <left>317</left>
+          <top>291</top>
+        </viewport>
+        <safezone>
+          <width>79</width>
+          <height>79</height>
+          <left>317</left>
+          <top>291</top>
+        </safezone>
+      </view>
+      <view id="13606">
+        <name>back left shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13606/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/861/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>75</width>
+          <height>75</height>
+          <left>195</left>
+          <top>32</top>
+        </viewport>
+        <safezone>
+          <width>77</width>
+          <height>77</height>
+          <left>195</left>
+          <top>32</top>
+        </safezone>
+      </view>
+      <view id="13609">
+        <name>back right shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13609/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/861/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>76</width>
+          <height>76</height>
+          <left>339</left>
+          <top>32</top>
+        </viewport>
+        <safezone>
+          <width>78</width>
+          <height>78</height>
+          <left>339</left>
+          <top>32</top>
+        </safezone>
+      </view>
+      <view id="15445">
+        <name>back right shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15445/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/861/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>76</width>
+          <height>76</height>
+          <left>339</left>
+          <top>32</top>
+        </viewport>
+        <safezone>
+          <width>78</width>
+          <height>78</height>
+          <left>339</left>
+          <top>32</top>
+        </safezone>
+      </view>
+      <view id="13612">
+        <name>front bottom right</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13612/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/860/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>73</width>
+          <height>73</height>
+          <left>205</left>
+          <top>307</top>
+        </viewport>
+        <safezone>
+          <width>75</width>
+          <height>75</height>
+          <left>205</left>
+          <top>307</top>
+        </safezone>
+      </view>
+      <view id="13615">
+        <name>front left shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13615/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/860/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>74</width>
+          <height>74</height>
+          <left>318</left>
+          <top>17</top>
+        </viewport>
+        <safezone>
+          <width>76</width>
+          <height>76</height>
+          <left>318</left>
+          <top>17</top>
+        </safezone>
+      </view>
+      <view id="13618">
+        <name>front right shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13618/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/860/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>77</width>
+          <height>77</height>
+          <left>199</left>
+          <top>17</top>
+        </viewport>
+        <safezone>
+          <width>79</width>
+          <height>79</height>
+          <left>199</left>
+          <top>17</top>
+        </safezone>
+      </view>
+      <view id="13621">
+        <name>front bottom left</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13621/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/860/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>73</width>
+          <height>73</height>
+          <left>314</left>
+          <top>309</top>
+        </viewport>
+        <safezone>
+          <width>75</width>
+          <height>75</height>
+          <left>314</left>
+          <top>309</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="lc13">
+    <name>LC13 - 13" x 10" Laptop &amp; Padbook Cover</name>
+    <description>13" Laptop &amp; Padbook Cover</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2697/lc13_original.png?1329511045</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2697/lc13_thumb.png?1329511045</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="11603">
+        <name>front</name>
+        <width>15.0</width>
+        <height>12.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/11603/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1247/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>449</width>
+          <height>353</height>
+          <left>70</left>
+          <top>24</top>
+        </viewport>
+        <safezone>
+          <width>451</width>
+          <height>355</height>
+          <left>70</left>
+          <top>24</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="llcb">
+    <name>LLCB - Custom Laser Lacrosse Ball</name>
+    <description>Custom Laser Lacrosse Ball</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2567/llcb_original.png?1329511050</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2567/llcb_thumb.png?1329511050</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="11299">
+        <name>front</name>
+        <width>1.0</width>
+        <height>1.0</height>
+        <dpi>100</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/11299/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/991/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>202</width>
+          <height>202</height>
+          <left>198</left>
+          <top>103</top>
+        </viewport>
+        <safezone>
+          <width>102</width>
+          <height>102</height>
+          <left>249</left>
+          <top>154</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="mb36">
+    <name>MB36 - 6'x3' Mesh Banner</name>
+    <description>6'x3' Mesh Banner</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2263/mb36_original.png?1329511054</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2263/mb36_thumb.png?1329511054</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="9185">
+        <name>White mesh</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="9497">
+        <name>front</name>
+        <width>74.0</width>
+        <height>38.0</height>
+        <dpi>72</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/9497/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1210/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>547</width>
+          <height>280</height>
+          <left>24</left>
+          <top>24</top>
+        </viewport>
+        <safezone>
+          <width>519</width>
+          <height>252</height>
+          <left>39</left>
+          <top>39</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="mws">
+    <name>MWS - Andrews</name>
+    <description>Men's modular microfibre windshirt</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2104/mws_original.png?1354212801</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2104/mws_thumb.png?1354212801</thumb>
+    </images>
+    <sizes>
+      <size id="3136">XS</size>
+      <size id="3137">S</size>
+      <size id="3138">M</size>
+      <size id="3139">L</size>
+      <size id="3140">XL</size>
+      <size id="3141">2X</size>
+      <size id="3142">3X</size>
+      <size id="3143">4X</size>
+      <size id="3144">5X</size>
+      <size id="3145">6X</size>
+    </sizes>
+    <colors>
+      <color id="8232">
+        <name>Black</name>
+        <hex>242425</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8263">
+        <name>Burgundy</name>
+        <hex>8E2344</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8253">
+        <name>Forest</name>
+        <hex>006847</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8252">
+        <name>Navy</name>
+        <hex>002654</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8473">
+        <name>Putty</name>
+        <hex>DDCCA5</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15676">
+        <name>left chest</name>
+        <width>4.0</width>
+        <height>4.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15676/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/957/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>65</width>
+          <height>65</height>
+          <left>319</left>
+          <top>66</top>
+        </viewport>
+        <safezone>
+          <width>67</width>
+          <height>67</height>
+          <left>319</left>
+          <top>66</top>
+        </safezone>
+      </view>
+      <view id="13965">
+        <name>front</name>
+        <width>12.0</width>
+        <height>14.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13965/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/957/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>189</width>
+          <height>221</height>
+          <left>205</left>
+          <top>67</top>
+        </viewport>
+        <safezone>
+          <width>191</width>
+          <height>223</height>
+          <left>205</left>
+          <top>67</top>
+        </safezone>
+      </view>
+      <view id="13962">
+        <name>back</name>
+        <width>12.0</width>
+        <height>14.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13962/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1056/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>186</width>
+          <height>218</height>
+          <left>200</left>
+          <top>47</top>
+        </viewport>
+        <safezone>
+          <width>188</width>
+          <height>220</height>
+          <left>200</left>
+          <top>47</top>
+        </safezone>
+      </view>
+      <view id="13992">
+        <name>left sleeve</name>
+        <width>3.0</width>
+        <height>12.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13992/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1099/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>34</width>
+          <height>142</height>
+          <left>285</left>
+          <top>123</top>
+        </viewport>
+        <safezone>
+          <width>36</width>
+          <height>144</height>
+          <left>285</left>
+          <top>123</top>
+        </safezone>
+      </view>
+      <view id="13995">
+        <name>right sleeve</name>
+        <width>3.0</width>
+        <height>12.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13995/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1134/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>26</width>
+          <height>110</height>
+          <left>281</left>
+          <top>122</top>
+        </viewport>
+        <safezone>
+          <width>28</width>
+          <height>112</height>
+          <left>281</left>
+          <top>122</top>
+        </safezone>
+      </view>
+      <view id="13968">
+        <name>back bottom left</name>
+        <width>12.0</width>
+        <height>14.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13968/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1056/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>94</width>
+          <height>110</height>
+          <left>200</left>
+          <top>285</top>
+        </viewport>
+        <safezone>
+          <width>96</width>
+          <height>112</height>
+          <left>200</left>
+          <top>285</top>
+        </safezone>
+      </view>
+      <view id="13971">
+        <name>back bottom right</name>
+        <width>12.0</width>
+        <height>14.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13971/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1056/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>83</width>
+          <height>98</height>
+          <left>305</left>
+          <top>291</top>
+        </viewport>
+        <safezone>
+          <width>85</width>
+          <height>100</height>
+          <left>305</left>
+          <top>291</top>
+        </safezone>
+      </view>
+      <view id="13974">
+        <name>back left shoulder</name>
+        <width>12.0</width>
+        <height>14.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13974/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1056/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>80</width>
+          <height>94</height>
+          <left>154</left>
+          <top>11</top>
+        </viewport>
+        <safezone>
+          <width>82</width>
+          <height>96</height>
+          <left>154</left>
+          <top>11</top>
+        </safezone>
+      </view>
+      <view id="13977">
+        <name>back right shoulder</name>
+        <width>12.0</width>
+        <height>14.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13977/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1056/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>87</width>
+          <height>102</height>
+          <left>319</left>
+          <top>12</top>
+        </viewport>
+        <safezone>
+          <width>89</width>
+          <height>104</height>
+          <left>319</left>
+          <top>12</top>
+        </safezone>
+      </view>
+      <view id="13980">
+        <name>front bottom right</name>
+        <width>12.0</width>
+        <height>14.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13980/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/957/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>83</width>
+          <height>98</height>
+          <left>197</left>
+          <top>285</top>
+        </viewport>
+        <safezone>
+          <width>85</width>
+          <height>100</height>
+          <left>197</left>
+          <top>285</top>
+        </safezone>
+      </view>
+      <view id="13983">
+        <name>front left shoulder</name>
+        <width>12.0</width>
+        <height>14.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13983/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/957/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>95</width>
+          <height>111</height>
+          <left>298</left>
+          <top>278</top>
+        </viewport>
+        <safezone>
+          <width>97</width>
+          <height>113</height>
+          <left>298</left>
+          <top>278</top>
+        </safezone>
+      </view>
+      <view id="13986">
+        <name>front right shoulder</name>
+        <width>12.0</width>
+        <height>14.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13986/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/957/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>81</width>
+          <height>94</height>
+          <left>167</left>
+          <top>13</top>
+        </viewport>
+        <safezone>
+          <width>83</width>
+          <height>96</height>
+          <left>167</left>
+          <top>13</top>
+        </safezone>
+      </view>
+      <view id="13989">
+        <name>front bottom left</name>
+        <width>12.0</width>
+        <height>14.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/13989/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/957/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>88</width>
+          <height>103</height>
+          <left>309</left>
+          <top>289</top>
+        </viewport>
+        <safezone>
+          <width>90</width>
+          <height>105</height>
+          <left>309</left>
+          <top>289</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="p590">
+    <name>P590 - 5.85” x 5.85” Square Photo Slates</name>
+    <description>Small photo slate w/stand, made from 100% sedimentary stone.</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3073/p590_original.png?1352826223</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3073/p590_thumb.png?1352826223</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8232">
+        <name>Black</name>
+        <hex>242425</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15036">
+        <name>front</name>
+        <width>6.35</width>
+        <height>6.35</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15036/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1301/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>397</width>
+          <height>397</height>
+          <left>101</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>336</width>
+          <height>336</height>
+          <left>132</left>
+          <top>31</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="pgm">
+    <name>PGM - Trent</name>
+    <description>Mens Microfibre Textured Jersey Sport Shirt</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2012/pgm_original.png?1366307018</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2012/pgm_thumb.png?1366307018</thumb>
+    </images>
+    <sizes>
+      <size id="3136">XS</size>
+      <size id="3137">S</size>
+      <size id="3138">M</size>
+      <size id="3139">L</size>
+      <size id="3140">XL</size>
+      <size id="3141">2X</size>
+      <size id="3142">3X</size>
+      <size id="3143">4X</size>
+      <size id="3144">5X</size>
+      <size id="3145">6X</size>
+    </sizes>
+    <colors>
+      <color id="8232">
+        <name>Black</name>
+        <hex>242425</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8263">
+        <name>Burgundy</name>
+        <hex>8E2344</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8253">
+        <name>Forest</name>
+        <hex>006847</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8291">
+        <name>Moss</name>
+        <hex>8C914F</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8252">
+        <name>Navy</name>
+        <hex>002654</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8285">
+        <name>Pewter</name>
+        <hex>666D70</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8250">
+        <name>Red</name>
+        <hex>D81E05</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8254">
+        <name>Royal</name>
+        <hex>0038A8</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15559">
+        <name>left chest</name>
+        <width>4.0</width>
+        <height>4.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15559/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/361/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>43</width>
+          <height>43</height>
+          <left>324</left>
+          <top>63</top>
+        </viewport>
+        <safezone>
+          <width>45</width>
+          <height>45</height>
+          <left>324</left>
+          <top>63</top>
+        </safezone>
+      </view>
+      <view id="15546">
+        <name>front</name>
+        <width>12.0</width>
+        <height>14.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15546/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/971/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>153</width>
+          <height>179</height>
+          <left>227</left>
+          <top>58</top>
+        </viewport>
+        <safezone>
+          <width>155</width>
+          <height>181</height>
+          <left>227</left>
+          <top>58</top>
+        </safezone>
+      </view>
+      <view id="15551">
+        <name>back</name>
+        <width>12.0</width>
+        <height>14.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15551/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1060/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>152</width>
+          <height>178</height>
+          <left>224</left>
+          <top>46</top>
+        </viewport>
+        <safezone>
+          <width>154</width>
+          <height>180</height>
+          <left>224</left>
+          <top>46</top>
+        </safezone>
+      </view>
+      <view id="15556">
+        <name>left sleeve</name>
+        <width>3.0</width>
+        <height>3.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15556/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1098/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>43</width>
+          <height>43</height>
+          <left>286</left>
+          <top>145</top>
+        </viewport>
+        <safezone>
+          <width>45</width>
+          <height>45</height>
+          <left>286</left>
+          <top>145</top>
+        </safezone>
+      </view>
+      <view id="15557">
+        <name>right sleeve</name>
+        <width>3.0</width>
+        <height>3.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15557/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1133/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>47</width>
+          <height>47</height>
+          <left>264</left>
+          <top>145</top>
+        </viewport>
+        <safezone>
+          <width>49</width>
+          <height>49</height>
+          <left>264</left>
+          <top>145</top>
+        </safezone>
+      </view>
+      <view id="15552">
+        <name>back bottom left</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15552/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1060/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>72</width>
+          <height>72</height>
+          <left>227</left>
+          <top>303</top>
+        </viewport>
+        <safezone>
+          <width>74</width>
+          <height>74</height>
+          <left>227</left>
+          <top>303</top>
+        </safezone>
+      </view>
+      <view id="15553">
+        <name>back bottom right</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15553/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1060/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>74</width>
+          <height>74</height>
+          <left>309</left>
+          <top>305</top>
+        </viewport>
+        <safezone>
+          <width>76</width>
+          <height>76</height>
+          <left>309</left>
+          <top>305</top>
+        </safezone>
+      </view>
+      <view id="15554">
+        <name>back left shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15554/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1060/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>75</width>
+          <height>75</height>
+          <left>214</left>
+          <top>33</top>
+        </viewport>
+        <safezone>
+          <width>77</width>
+          <height>77</height>
+          <left>214</left>
+          <top>33</top>
+        </safezone>
+      </view>
+      <view id="15555">
+        <name>back right shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15555/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1060/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>75</width>
+          <height>75</height>
+          <left>319</left>
+          <top>33</top>
+        </viewport>
+        <safezone>
+          <width>77</width>
+          <height>77</height>
+          <left>319</left>
+          <top>33</top>
+        </safezone>
+      </view>
+      <view id="15548">
+        <name>front bottom right</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15548/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/971/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>74</width>
+          <height>74</height>
+          <left>308</left>
+          <top>303</top>
+        </viewport>
+        <safezone>
+          <width>76</width>
+          <height>76</height>
+          <left>308</left>
+          <top>303</top>
+        </safezone>
+      </view>
+      <view id="15549">
+        <name>front left shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15549/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/971/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>74</width>
+          <height>74</height>
+          <left>318</left>
+          <top>33</top>
+        </viewport>
+        <safezone>
+          <width>76</width>
+          <height>76</height>
+          <left>318</left>
+          <top>33</top>
+        </safezone>
+      </view>
+      <view id="15550">
+        <name>front right shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15550/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/971/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>75</width>
+          <height>75</height>
+          <left>201</left>
+          <top>36</top>
+        </viewport>
+        <safezone>
+          <width>77</width>
+          <height>77</height>
+          <left>201</left>
+          <top>36</top>
+        </safezone>
+      </view>
+      <view id="15547">
+        <name>front bottom left</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15547/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/971/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>75</width>
+          <height>75</height>
+          <left>308</left>
+          <top>305</top>
+        </viewport>
+        <safezone>
+          <width>77</width>
+          <height>77</height>
+          <left>308</left>
+          <top>305</top>
+        </safezone>
+      </view>
+      <view id="15560">
+        <name>left chest</name>
+        <width>4.0</width>
+        <height>4.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15560/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/971/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>42</width>
+          <height>42</height>
+          <left>319</left>
+          <top>74</top>
+        </viewport>
+        <safezone>
+          <width>44</width>
+          <height>44</height>
+          <left>319</left>
+          <top>74</top>
+        </safezone>
+      </view>
+      <view id="14216">
+        <name>front</name>
+        <width>12.0</width>
+        <height>14.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14216/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/971/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>153</width>
+          <height>179</height>
+          <left>227</left>
+          <top>58</top>
+        </viewport>
+        <safezone>
+          <width>155</width>
+          <height>181</height>
+          <left>227</left>
+          <top>58</top>
+        </safezone>
+      </view>
+      <view id="14213">
+        <name>back</name>
+        <width>12.0</width>
+        <height>14.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14213/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1060/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>152</width>
+          <height>178</height>
+          <left>224</left>
+          <top>46</top>
+        </viewport>
+        <safezone>
+          <width>154</width>
+          <height>180</height>
+          <left>224</left>
+          <top>46</top>
+        </safezone>
+      </view>
+      <view id="14243">
+        <name>left sleeve</name>
+        <width>3.0</width>
+        <height>3.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14243/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1098/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>43</width>
+          <height>43</height>
+          <left>286</left>
+          <top>145</top>
+        </viewport>
+        <safezone>
+          <width>45</width>
+          <height>45</height>
+          <left>286</left>
+          <top>145</top>
+        </safezone>
+      </view>
+      <view id="14246">
+        <name>right sleeve</name>
+        <width>3.0</width>
+        <height>3.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14246/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1133/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>47</width>
+          <height>47</height>
+          <left>264</left>
+          <top>145</top>
+        </viewport>
+        <safezone>
+          <width>49</width>
+          <height>49</height>
+          <left>264</left>
+          <top>145</top>
+        </safezone>
+      </view>
+      <view id="14219">
+        <name>back bottom left</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14219/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1060/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>72</width>
+          <height>72</height>
+          <left>227</left>
+          <top>303</top>
+        </viewport>
+        <safezone>
+          <width>74</width>
+          <height>74</height>
+          <left>227</left>
+          <top>303</top>
+        </safezone>
+      </view>
+      <view id="14222">
+        <name>back bottom right</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14222/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1060/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>74</width>
+          <height>74</height>
+          <left>309</left>
+          <top>305</top>
+        </viewport>
+        <safezone>
+          <width>76</width>
+          <height>76</height>
+          <left>309</left>
+          <top>305</top>
+        </safezone>
+      </view>
+      <view id="14225">
+        <name>back left shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14225/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1060/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>75</width>
+          <height>75</height>
+          <left>214</left>
+          <top>33</top>
+        </viewport>
+        <safezone>
+          <width>77</width>
+          <height>77</height>
+          <left>214</left>
+          <top>33</top>
+        </safezone>
+      </view>
+      <view id="14228">
+        <name>back right shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14228/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1060/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>75</width>
+          <height>75</height>
+          <left>319</left>
+          <top>33</top>
+        </viewport>
+        <safezone>
+          <width>77</width>
+          <height>77</height>
+          <left>319</left>
+          <top>33</top>
+        </safezone>
+      </view>
+      <view id="14231">
+        <name>front bottom right</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14231/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/971/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>74</width>
+          <height>74</height>
+          <left>308</left>
+          <top>303</top>
+        </viewport>
+        <safezone>
+          <width>76</width>
+          <height>76</height>
+          <left>308</left>
+          <top>303</top>
+        </safezone>
+      </view>
+      <view id="14234">
+        <name>front left shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14234/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/971/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>74</width>
+          <height>74</height>
+          <left>318</left>
+          <top>33</top>
+        </viewport>
+        <safezone>
+          <width>76</width>
+          <height>76</height>
+          <left>318</left>
+          <top>33</top>
+        </safezone>
+      </view>
+      <view id="14237">
+        <name>front right shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14237/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/971/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>75</width>
+          <height>75</height>
+          <left>201</left>
+          <top>36</top>
+        </viewport>
+        <safezone>
+          <width>77</width>
+          <height>77</height>
+          <left>201</left>
+          <top>36</top>
+        </safezone>
+      </view>
+      <view id="14240">
+        <name>front bottom left</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14240/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/971/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>75</width>
+          <height>75</height>
+          <left>308</left>
+          <top>305</top>
+        </viewport>
+        <safezone>
+          <width>77</width>
+          <height>77</height>
+          <left>308</left>
+          <top>305</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="pils">
+    <name>PILS - 14.25" X 14.25" Couch Pillow with Cover</name>
+    <description>14.25" X 14.25" Couch Pillow with 100% polyester cover</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2299/pils_original.png?1329511117</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2299/pils_thumb.png?1329511117</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="9805">
+        <name>front</name>
+        <width>16.25</width>
+        <height>16.25</height>
+        <dpi>100</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/9805/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1242/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>331</width>
+          <height>331</height>
+          <left>133</left>
+          <top>33</top>
+        </viewport>
+        <safezone>
+          <width>333</width>
+          <height>333</height>
+          <left>133</left>
+          <top>33</top>
+        </safezone>
+      </view>
+      <view id="11939">
+        <name>back</name>
+        <width>16.25</width>
+        <height>16.25</height>
+        <dpi>100</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/11939/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1360/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>331</width>
+          <height>331</height>
+          <left>133</left>
+          <top>33</top>
+        </viewport>
+        <safezone>
+          <width>333</width>
+          <height>333</height>
+          <left>133</left>
+          <top>33</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="prom">
+    <name>PROM - 32" x 52" Perforated Self Adhesive Window Mesh</name>
+    <description>3' x 4.5' Perforated Self Adhesive Window Mesh</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2381/prom_original.png?1329511149</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2381/prom_thumb.png?1329511149</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="9601">
+        <name>3' x 4.5' window mesh</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="10047">
+        <name>front</name>
+        <width>32.0</width>
+        <height>52.0</height>
+        <dpi>100</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/10047/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1233/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>235</width>
+          <height>383</height>
+          <left>168</left>
+          <top>8</top>
+        </viewport>
+        <safezone>
+          <width>222</width>
+          <height>370</height>
+          <left>175</left>
+          <top>15</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="raf3">
+    <name>RAF3 - 3' x 10' Rigid Rectangular A Frame Banner Stand with Case</name>
+    <description></description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3129/raf3_original.png?1352942576</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3129/raf3_thumb.png?1352942576</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15793">
+        <name>front</name>
+        <width>122.0</width>
+        <height>38.0</height>
+        <dpi>72</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15793/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>586</width>
+          <height>181</height>
+          <left>6</left>
+          <top>109</top>
+        </viewport>
+        <safezone>
+          <width>588</width>
+          <height>183</height>
+          <left>6</left>
+          <top>109</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="rubs">
+    <name>RUBS - 33.5" x 83" Roll Up Banners</name>
+    <description>33.5" x 83" Roll Up Banners, includes banner, stand and carry case.</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2657/rubs_original.png?1354564061</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2657/rubs_thumb.png?1354564061</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="11549">
+        <name>front</name>
+        <width>33.5</width>
+        <height>83.0</height>
+        <dpi>72</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/11549/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1215/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>158</width>
+          <height>394</height>
+          <left>221</left>
+          <top>1</top>
+        </viewport>
+        <safezone>
+          <width>160</width>
+          <height>396</height>
+          <left>221</left>
+          <top>1</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="sbdr">
+    <name>SBDR - Photographer Blanket Back Drop</name>
+    <description>60" x 50"  Fleece Blanket Back Drop</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2673/sbdr_original.png?1329511178</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2673/sbdr_thumb.png?1329511178</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="9058">
+        <name>Vinyl</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="11573">
+        <name>front</name>
+        <width>52.0</width>
+        <height>62.0</height>
+        <dpi>72</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/11573/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1232/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>300</width>
+          <height>358</height>
+          <left>151</left>
+          <top>18</top>
+        </viewport>
+        <safezone>
+          <width>279</width>
+          <height>337</height>
+          <left>163</left>
+          <top>30</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="scm">
+    <name>SCM - Car Mat (Set of 4), 2-Front Mats, 2-Rear Mats</name>
+    <description>Universal Car Mat Khaki  or Ash Color (100% Polyester)16.5" x 25"</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2170/scm_original.png?1329511179</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2170/scm_thumb.png?1329511179</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8228">
+        <name>Ash</name>
+        <hex>D3D3D3</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8520">
+        <name>Khaki</name>
+        <hex>DDCCA5</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="8406">
+        <name>top</name>
+        <width>12.0</width>
+        <height>9.0</height>
+        <dpi>100</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/8406/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/950/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>176</width>
+          <height>132</height>
+          <left>212</left>
+          <top>212</top>
+        </viewport>
+        <safezone>
+          <width>178</width>
+          <height>134</height>
+          <left>212</left>
+          <top>212</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="sjf">
+    <name>SJF - Telluride</name>
+    <description>Fleece Jacket</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2048/sjf_original.png?1329511183</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2048/sjf_thumb.png?1329511183</thumb>
+    </images>
+    <sizes>
+      <size id="3136">XS</size>
+      <size id="3137">S</size>
+      <size id="3138">M</size>
+      <size id="3139">L</size>
+      <size id="3140">XL</size>
+      <size id="3141">2X</size>
+      <size id="3142">3X</size>
+      <size id="3143">4X</size>
+      <size id="3144">5X</size>
+      <size id="3145">6X</size>
+    </sizes>
+    <colors>
+      <color id="8232">
+        <name>Black</name>
+        <hex>242425</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8263">
+        <name>Burgundy</name>
+        <hex>8E2344</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8526">
+        <name>Charcoal</name>
+        <hex>717273</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8253">
+        <name>Forest</name>
+        <hex>006847</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8520">
+        <name>Khaki</name>
+        <hex>DDCCA5</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8252">
+        <name>Navy</name>
+        <hex>002654</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8523">
+        <name>Orange</name>
+        <hex>ff7352</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8524">
+        <name>Purple</name>
+        <hex>6a549b</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8250">
+        <name>Red</name>
+        <hex>D81E05</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8254">
+        <name>Royal</name>
+        <hex>0038A8</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8255">
+        <name>Yellow</name>
+        <hex>f9e655</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15188">
+        <name>left chest</name>
+        <width>4.0</width>
+        <height>4.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15188/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/921/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>45</width>
+          <height>45</height>
+          <left>331</left>
+          <top>101</top>
+        </viewport>
+        <safezone>
+          <width>47</width>
+          <height>47</height>
+          <left>331</left>
+          <top>101</top>
+        </safezone>
+      </view>
+      <view id="15182">
+        <name>front</name>
+        <width>12.0</width>
+        <height>14.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15182/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/921/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>164</width>
+          <height>192</height>
+          <left>218</left>
+          <top>96</top>
+        </viewport>
+        <safezone>
+          <width>166</width>
+          <height>194</height>
+          <left>218</left>
+          <top>96</top>
+        </safezone>
+      </view>
+      <view id="15183">
+        <name>back</name>
+        <width>12.0</width>
+        <height>14.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15183/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1048/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>181</width>
+          <height>212</height>
+          <left>203</left>
+          <top>67</top>
+        </viewport>
+        <safezone>
+          <width>183</width>
+          <height>214</height>
+          <left>203</left>
+          <top>67</top>
+        </safezone>
+      </view>
+      <view id="15184">
+        <name>left sleeve</name>
+        <width>3.0</width>
+        <height>12.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15184/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1093/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>36</width>
+          <height>153</height>
+          <left>274</left>
+          <top>109</top>
+        </viewport>
+        <safezone>
+          <width>38</width>
+          <height>155</height>
+          <left>274</left>
+          <top>109</top>
+        </safezone>
+      </view>
+      <view id="15185">
+        <name>right sleeve</name>
+        <width>3.0</width>
+        <height>12.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15185/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1128/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>36</width>
+          <height>153</height>
+          <left>283</left>
+          <top>105</top>
+        </viewport>
+        <safezone>
+          <width>38</width>
+          <height>155</height>
+          <left>283</left>
+          <top>105</top>
+        </safezone>
+      </view>
+      <view id="15193">
+        <name>back bottom left</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15193/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1048/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>71</width>
+          <height>71</height>
+          <left>215</left>
+          <top>300</top>
+        </viewport>
+        <safezone>
+          <width>73</width>
+          <height>73</height>
+          <left>215</left>
+          <top>300</top>
+        </safezone>
+      </view>
+      <view id="15195">
+        <name>back bottom right</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15195/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1048/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>72</width>
+          <height>72</height>
+          <left>316</left>
+          <top>295</top>
+        </viewport>
+        <safezone>
+          <width>74</width>
+          <height>74</height>
+          <left>316</left>
+          <top>295</top>
+        </safezone>
+      </view>
+      <view id="15194">
+        <name>back left shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15194/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1048/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>75</width>
+          <height>75</height>
+          <left>187</left>
+          <top>60</top>
+        </viewport>
+        <safezone>
+          <width>77</width>
+          <height>77</height>
+          <left>187</left>
+          <top>60</top>
+        </safezone>
+      </view>
+      <view id="15196">
+        <name>back right shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15196/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1048/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>74</width>
+          <height>74</height>
+          <left>332</left>
+          <top>60</top>
+        </viewport>
+        <safezone>
+          <width>76</width>
+          <height>76</height>
+          <left>332</left>
+          <top>60</top>
+        </safezone>
+      </view>
+      <view id="15192">
+        <name>front bottom right</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15192/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/921/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>71</width>
+          <height>71</height>
+          <left>220</left>
+          <top>308</top>
+        </viewport>
+        <safezone>
+          <width>73</width>
+          <height>73</height>
+          <left>220</left>
+          <top>308</top>
+        </safezone>
+      </view>
+      <view id="15189">
+        <name>front left shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15189/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/921/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>75</width>
+          <height>75</height>
+          <left>332</left>
+          <top>58</top>
+        </viewport>
+        <safezone>
+          <width>77</width>
+          <height>77</height>
+          <left>332</left>
+          <top>58</top>
+        </safezone>
+      </view>
+      <view id="15191">
+        <name>front right shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15191/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/921/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>74</width>
+          <height>74</height>
+          <left>195</left>
+          <top>59</top>
+        </viewport>
+        <safezone>
+          <width>76</width>
+          <height>76</height>
+          <left>195</left>
+          <top>59</top>
+        </safezone>
+      </view>
+      <view id="15190">
+        <name>front bottom left</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15190/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/921/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>75</width>
+          <height>75</height>
+          <left>309</left>
+          <top>304</top>
+        </viewport>
+        <safezone>
+          <width>77</width>
+          <height>77</height>
+          <left>309</left>
+          <top>304</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="spam">
+    <name>SPAM - 14 oz., Aluminum Coffee Mug</name>
+    <description>14 oz., Insulated aluminum coffee mug</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2088/spam_original.png?1329511189</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2088/spam_thumb.png?1329511189</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8834">
+        <name>Aluminum</name>
+        <hex>666D70</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="8125">
+        <name>front</name>
+        <width>8.5</width>
+        <height>3.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/8125/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1302/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>487</width>
+          <height>170</height>
+          <left>54</left>
+          <top>34</top>
+        </viewport>
+        <safezone>
+          <width>489</width>
+          <height>172</height>
+          <left>54</left>
+          <top>34</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="spcb">
+    <name>SPCB - 11.5" x 8.25" Glass Cutting Board</name>
+    <description>Small Glass Cutting Board</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2097/spcb_original.png?1329511205</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2097/spcb_thumb.png?1329511205</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8844">
+        <name>Clear</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="8136">
+        <name>front</name>
+        <width>11.5</width>
+        <height>8.25</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/8136/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1315/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>445</width>
+          <height>319</height>
+          <left>77</left>
+          <top>39</top>
+        </viewport>
+        <safezone>
+          <width>447</width>
+          <height>321</height>
+          <left>77</left>
+          <top>39</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="spcm">
+    <name>SPCM - 11oz., Ceramic Coffee Mug</name>
+    <description> 11oz., Ceramic coffee mug</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2089/spcm_original.png?1353957025</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2089/spcm_thumb.png?1353957025</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="8126">
+        <name>front</name>
+        <width>8.75</width>
+        <height>3.75</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/8126/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1303/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>457</width>
+          <height>194</height>
+          <left>64</left>
+          <top>100</top>
+        </viewport>
+        <safezone>
+          <width>459</width>
+          <height>196</height>
+          <left>64</left>
+          <top>100</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="spct">
+    <name>SPCT - 3.75" x 3.75" Coaster &amp; Wood Holder (4-Pieces)</name>
+    <description>Coasters with wood holder</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2090/spct_original.png?1329511211</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2090/spct_thumb.png?1329511211</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="8127">
+        <name>front</name>
+        <width>4.25</width>
+        <height>4.25</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/8127/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1305/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>349</width>
+          <height>349</height>
+          <left>130</left>
+          <top>27</top>
+        </viewport>
+        <safezone>
+          <width>351</width>
+          <height>351</height>
+          <left>130</left>
+          <top>27</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="splp">
+    <name>SPLP - 7" x 9" Wood Plaque Large</name>
+    <description>Wood Plaque Large 7"x 9"         </description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2091/splp_original.png?1329511222</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2091/splp_thumb.png?1329511222</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8838">
+        <name>Wood</name>
+        <hex>242425</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="8128">
+        <name>front</name>
+        <width>8.25</width>
+        <height>6.25</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/8128/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1306/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>417</width>
+          <height>316</height>
+          <left>95</left>
+          <top>27</top>
+        </viewport>
+        <safezone>
+          <width>419</width>
+          <height>318</height>
+          <left>95</left>
+          <top>27</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="splsc">
+    <name>SPLSC - 69" X 70" Full Sublimation Shower Curtain</name>
+    <description>69" X 70" Full Sublimation Shower Curtain</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2136/splsc_original.png?1329511226</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2136/splsc_thumb.png?1329511226</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="8326">
+        <name>front</name>
+        <width>71.0</width>
+        <height>72.0</height>
+        <dpi>72</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/8326/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1274/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>380</width>
+          <height>386</height>
+          <left>106</left>
+          <top>4</top>
+        </viewport>
+        <safezone>
+          <width>382</width>
+          <height>388</height>
+          <left>106</left>
+          <top>4</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="splt">
+    <name>SPLT - 70" x 90" Tablecloth Rectangle</name>
+    <description>Polyester rectangle tablecloth</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2142/splt_original.png?1329511229</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2142/splt_thumb.png?1329511229</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="8512">
+        <name>front bottom</name>
+        <width>50.0</width>
+        <height>50.0</height>
+        <dpi>72</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/8512/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1183/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>282</width>
+          <height>282</height>
+          <left>161</left>
+          <top>100</top>
+        </viewport>
+        <safezone>
+          <width>284</width>
+          <height>284</height>
+          <left>161</left>
+          <top>100</top>
+        </safezone>
+      </view>
+      <view id="8334">
+        <name>front middle</name>
+        <width>50.0</width>
+        <height>50.0</height>
+        <dpi>72</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/8334/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1191/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>254</width>
+          <height>254</height>
+          <left>160</left>
+          <top>63</top>
+        </viewport>
+        <safezone>
+          <width>256</width>
+          <height>256</height>
+          <left>160</left>
+          <top>63</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="spmp">
+    <name>SPMP - Mousepad  9.25"x7.75" Polyester Topped 1/4" </name>
+    <description>Mousepad 9.25"x7.75" Polyester Topped 1/4" </description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2093/spmp_original.png?1329511233</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2093/spmp_thumb.png?1329511233</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="8132">
+        <name>front</name>
+        <width>9.5</width>
+        <height>8.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/8132/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1310/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>423</width>
+          <height>355</height>
+          <left>87</left>
+          <top>19</top>
+        </viewport>
+        <safezone>
+          <width>425</width>
+          <height>357</height>
+          <left>87</left>
+          <top>19</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="spnw">
+    <name>SPNW - 14.5"X15.5" Coated Non Woven White Tote</name>
+    <description>14.5"X15.5" Coated Non Woven White Tote</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2949/spnw_original.png?1329511235</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2949/spnw_thumb.png?1329511235</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="11925">
+        <name>front</name>
+        <width>13.5</width>
+        <height>14.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/11925/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1281/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>205</width>
+          <height>212</height>
+          <left>195</left>
+          <top>156</top>
+        </viewport>
+        <safezone>
+          <width>192</width>
+          <height>199</height>
+          <left>203</left>
+          <top>164</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="sub">
+    <name>SUB - 60" X 50" Fleece Blanket</name>
+    <description>60” x 50” Medium Polyester Fleece Blanket - Folded Edges</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2001/sub_original.png?1329511259</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2001/sub_thumb.png?1329511259</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="7812">
+        <name>front</name>
+        <width>62.0</width>
+        <height>52.0</height>
+        <dpi>72</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/7812/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1273/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>322</width>
+          <height>269</height>
+          <left>136</left>
+          <top>16</top>
+        </viewport>
+        <safezone>
+          <width>324</width>
+          <height>271</height>
+          <left>136</left>
+          <top>16</top>
+        </safezone>
+      </view>
+      <view id="10381">
+        <name>back</name>
+        <width>62.0</width>
+        <height>52.0</height>
+        <dpi>100</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/10381/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1351/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>319</width>
+          <height>268</height>
+          <left>137</left>
+          <top>3</top>
+        </viewport>
+        <safezone>
+          <width>321</width>
+          <height>270</height>
+          <left>137</left>
+          <top>3</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="swt">
+    <name>SWT - Adult Crewneck Polyester Fleece Sweatshirt 9.5 oz.</name>
+    <description>Heavyweight Sweatshirt-Gildan9000</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2116/swt_original.png?1354142279</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2116/swt_thumb.png?1354142279</thumb>
+    </images>
+    <sizes>
+      <size id="3137">S</size>
+      <size id="3138">M</size>
+      <size id="3139">L</size>
+      <size id="3140">XL</size>
+      <size id="3141">2X</size>
+      <size id="3142">3X</size>
+    </sizes>
+    <colors>
+      <color id="8228">
+        <name>Ash</name>
+        <hex>D3D3D3</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8232">
+        <name>Black</name>
+        <hex>242425</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="10567">
+        <name>Dark heather</name>
+        <hex>75777a</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="9169">
+        <name>Forest green</name>
+        <hex>006847</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8252">
+        <name>Navy</name>
+        <hex>002654</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8250">
+        <name>Red</name>
+        <hex>D81E05</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="10101">
+        <name>Sand</name>
+        <hex>d4c9c0</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="9411">
+        <name>Sports grey</name>
+        <hex>acadae</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15088">
+        <name>left chest</name>
+        <width>4.0</width>
+        <height>4.0</height>
+        <dpi>300</dpi>
+        <print_mode id="17">dark</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15088/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/724/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>258</width>
+          <height>258</height>
+          <left>300</left>
+          <top>96</top>
+        </viewport>
+        <safezone>
+          <width>260</width>
+          <height>260</height>
+          <left>300</left>
+          <top>96</top>
+        </safezone>
+      </view>
+      <view id="14805">
+        <name>front</name>
+        <width>12.0</width>
+        <height>14.0</height>
+        <dpi>300</dpi>
+        <print_mode id="17">dark</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14805/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/724/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>403</width>
+          <height>471</height>
+          <left>100</left>
+          <top>39</top>
+        </viewport>
+        <safezone>
+          <width>405</width>
+          <height>473</height>
+          <left>100</left>
+          <top>39</top>
+        </safezone>
+      </view>
+      <view id="14802">
+        <name>back</name>
+        <width>12.0</width>
+        <height>14.0</height>
+        <dpi>300</dpi>
+        <print_mode id="17">dark</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14802/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/770/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>184</width>
+          <height>215</height>
+          <left>220</left>
+          <top>42</top>
+        </viewport>
+        <safezone>
+          <width>186</width>
+          <height>217</height>
+          <left>220</left>
+          <top>42</top>
+        </safezone>
+      </view>
+      <view id="14832">
+        <name>left sleeve</name>
+        <width>3.0</width>
+        <height>12.0</height>
+        <dpi>300</dpi>
+        <print_mode id="17">dark</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14832/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/790/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>37</width>
+          <height>154</height>
+          <left>287</left>
+          <top>108</top>
+        </viewport>
+        <safezone>
+          <width>39</width>
+          <height>156</height>
+          <left>287</left>
+          <top>108</top>
+        </safezone>
+      </view>
+      <view id="14835">
+        <name>right sleeve</name>
+        <width>3.0</width>
+        <height>12.0</height>
+        <dpi>300</dpi>
+        <print_mode id="17">dark</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14835/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/806/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>37</width>
+          <height>155</height>
+          <left>276</left>
+          <top>108</top>
+        </viewport>
+        <safezone>
+          <width>39</width>
+          <height>157</height>
+          <left>276</left>
+          <top>108</top>
+        </safezone>
+      </view>
+      <view id="14808">
+        <name>back bottom left</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="17">dark</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14808/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/770/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>76</width>
+          <height>76</height>
+          <left>214</left>
+          <top>298</top>
+        </viewport>
+        <safezone>
+          <width>78</width>
+          <height>78</height>
+          <left>214</left>
+          <top>298</top>
+        </safezone>
+      </view>
+      <view id="14811">
+        <name>back bottom right</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="17">dark</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14811/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/770/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>79</width>
+          <height>79</height>
+          <left>339</left>
+          <top>291</top>
+        </viewport>
+        <safezone>
+          <width>81</width>
+          <height>81</height>
+          <left>339</left>
+          <top>291</top>
+        </safezone>
+      </view>
+      <view id="14814">
+        <name>back left shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="17">dark</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14814/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/770/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>75</width>
+          <height>75</height>
+          <left>199</left>
+          <top>42</top>
+        </viewport>
+        <safezone>
+          <width>77</width>
+          <height>77</height>
+          <left>199</left>
+          <top>42</top>
+        </safezone>
+      </view>
+      <view id="14817">
+        <name>back right shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="17">dark</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14817/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/770/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>76</width>
+          <height>76</height>
+          <left>347</left>
+          <top>42</top>
+        </viewport>
+        <safezone>
+          <width>78</width>
+          <height>78</height>
+          <left>347</left>
+          <top>42</top>
+        </safezone>
+      </view>
+      <view id="14820">
+        <name>front bottom right</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="17">dark</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14820/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/724/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>74</width>
+          <height>74</height>
+          <left>197</left>
+          <top>292</top>
+        </viewport>
+        <safezone>
+          <width>76</width>
+          <height>76</height>
+          <left>197</left>
+          <top>292</top>
+        </safezone>
+      </view>
+      <view id="14823">
+        <name>front left shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="17">dark</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14823/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/724/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>75</width>
+          <height>75</height>
+          <left>324</left>
+          <top>24</top>
+        </viewport>
+        <safezone>
+          <width>77</width>
+          <height>77</height>
+          <left>324</left>
+          <top>24</top>
+        </safezone>
+      </view>
+      <view id="14826">
+        <name>front right shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="17">dark</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14826/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/724/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>75</width>
+          <height>75</height>
+          <left>199</left>
+          <top>24</top>
+        </viewport>
+        <safezone>
+          <width>77</width>
+          <height>77</height>
+          <left>199</left>
+          <top>24</top>
+        </safezone>
+      </view>
+      <view id="14829">
+        <name>front bottom left</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="17">dark</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14829/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/724/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>74</width>
+          <height>74</height>
+          <left>338</left>
+          <top>301</top>
+        </viewport>
+        <safezone>
+          <width>76</width>
+          <height>76</height>
+          <left>338</left>
+          <top>301</top>
+        </safezone>
+      </view>
+      <view id="15089">
+        <name>left chest</name>
+        <width>4.0</width>
+        <height>4.0</height>
+        <dpi>300</dpi>
+        <print_mode id="21">light</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15089/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/724/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>43</width>
+          <height>43</height>
+          <left>344</left>
+          <top>103</top>
+        </viewport>
+        <safezone>
+          <width>45</width>
+          <height>45</height>
+          <left>344</left>
+          <top>103</top>
+        </safezone>
+      </view>
+      <view id="14803">
+        <name>front</name>
+        <width>12.0</width>
+        <height>14.0</height>
+        <dpi>300</dpi>
+        <print_mode id="21">light</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14803/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/724/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>179</width>
+          <height>210</height>
+          <left>212</left>
+          <top>38</top>
+        </viewport>
+        <safezone>
+          <width>181</width>
+          <height>212</height>
+          <left>212</left>
+          <top>38</top>
+        </safezone>
+      </view>
+      <view id="14800">
+        <name>back</name>
+        <width>12.0</width>
+        <height>14.0</height>
+        <dpi>300</dpi>
+        <print_mode id="21">light</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14800/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/770/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>178</width>
+          <height>208</height>
+          <left>224</left>
+          <top>47</top>
+        </viewport>
+        <safezone>
+          <width>180</width>
+          <height>210</height>
+          <left>224</left>
+          <top>47</top>
+        </safezone>
+      </view>
+      <view id="14830">
+        <name>left sleeve</name>
+        <width>3.0</width>
+        <height>12.0</height>
+        <dpi>300</dpi>
+        <print_mode id="21">light</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14830/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/790/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>26</width>
+          <height>110</height>
+          <left>284</left>
+          <top>124</top>
+        </viewport>
+        <safezone>
+          <width>28</width>
+          <height>112</height>
+          <left>284</left>
+          <top>124</top>
+        </safezone>
+      </view>
+      <view id="14833">
+        <name>right sleeve</name>
+        <width>3.0</width>
+        <height>12.0</height>
+        <dpi>300</dpi>
+        <print_mode id="21">light</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14833/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/806/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>26</width>
+          <height>110</height>
+          <left>281</left>
+          <top>124</top>
+        </viewport>
+        <safezone>
+          <width>28</width>
+          <height>112</height>
+          <left>281</left>
+          <top>124</top>
+        </safezone>
+      </view>
+      <view id="14806">
+        <name>back bottom left</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="21">light</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14806/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/770/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>71</width>
+          <height>71</height>
+          <left>213</left>
+          <top>302</top>
+        </viewport>
+        <safezone>
+          <width>73</width>
+          <height>73</height>
+          <left>213</left>
+          <top>302</top>
+        </safezone>
+      </view>
+      <view id="14809">
+        <name>back bottom right</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="21">light</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14809/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/770/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>74</width>
+          <height>74</height>
+          <left>344</left>
+          <top>299</top>
+        </viewport>
+        <safezone>
+          <width>76</width>
+          <height>76</height>
+          <left>344</left>
+          <top>299</top>
+        </safezone>
+      </view>
+      <view id="14812">
+        <name>back left shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="21">light</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14812/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/770/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>76</width>
+          <height>76</height>
+          <left>215</left>
+          <top>36</top>
+        </viewport>
+        <safezone>
+          <width>78</width>
+          <height>78</height>
+          <left>215</left>
+          <top>36</top>
+        </safezone>
+      </view>
+      <view id="14815">
+        <name>back right shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="21">light</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14815/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/770/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>73</width>
+          <height>73</height>
+          <left>337</left>
+          <top>36</top>
+        </viewport>
+        <safezone>
+          <width>75</width>
+          <height>75</height>
+          <left>337</left>
+          <top>36</top>
+        </safezone>
+      </view>
+      <view id="14818">
+        <name>front bottom right</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="21">light</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14818/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/724/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>74</width>
+          <height>74</height>
+          <left>195</left>
+          <top>295</top>
+        </viewport>
+        <safezone>
+          <width>76</width>
+          <height>76</height>
+          <left>195</left>
+          <top>295</top>
+        </safezone>
+      </view>
+      <view id="14821">
+        <name>front left shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="21">light</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14821/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/724/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>74</width>
+          <height>74</height>
+          <left>326</left>
+          <top>24</top>
+        </viewport>
+        <safezone>
+          <width>76</width>
+          <height>76</height>
+          <left>326</left>
+          <top>24</top>
+        </safezone>
+      </view>
+      <view id="14824">
+        <name>front right shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="21">light</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14824/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/724/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>74</width>
+          <height>74</height>
+          <left>198</left>
+          <top>24</top>
+        </viewport>
+        <safezone>
+          <width>76</width>
+          <height>76</height>
+          <left>198</left>
+          <top>24</top>
+        </safezone>
+      </view>
+      <view id="14827">
+        <name>front bottom left</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="21">light</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14827/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/724/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>72</width>
+          <height>72</height>
+          <left>339</left>
+          <top>301</top>
+        </viewport>
+        <safezone>
+          <width>74</width>
+          <height>74</height>
+          <left>339</left>
+          <top>301</top>
+        </safezone>
+      </view>
+      <view id="15090">
+        <name>left chest</name>
+        <width>4.0</width>
+        <height>4.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15090/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/724/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>40</width>
+          <height>40</height>
+          <left>349</left>
+          <top>109</top>
+        </viewport>
+        <safezone>
+          <width>42</width>
+          <height>42</height>
+          <left>349</left>
+          <top>109</top>
+        </safezone>
+      </view>
+      <view id="14804">
+        <name>front</name>
+        <width>12.0</width>
+        <height>14.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14804/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/724/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>180</width>
+          <height>211</height>
+          <left>208</left>
+          <top>42</top>
+        </viewport>
+        <safezone>
+          <width>182</width>
+          <height>213</height>
+          <left>208</left>
+          <top>42</top>
+        </safezone>
+      </view>
+      <view id="14801">
+        <name>back</name>
+        <width>12.0</width>
+        <height>14.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14801/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/770/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>180</width>
+          <height>211</height>
+          <left>223</left>
+          <top>51</top>
+        </viewport>
+        <safezone>
+          <width>182</width>
+          <height>213</height>
+          <left>223</left>
+          <top>51</top>
+        </safezone>
+      </view>
+      <view id="14831">
+        <name>left sleeve</name>
+        <width>3.0</width>
+        <height>12.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14831/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/790/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>37</width>
+          <height>155</height>
+          <left>282</left>
+          <top>115</top>
+        </viewport>
+        <safezone>
+          <width>39</width>
+          <height>157</height>
+          <left>282</left>
+          <top>115</top>
+        </safezone>
+      </view>
+      <view id="14834">
+        <name>right sleeve</name>
+        <width>3.0</width>
+        <height>12.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14834/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/806/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>37</width>
+          <height>154</height>
+          <left>270</left>
+          <top>102</top>
+        </viewport>
+        <safezone>
+          <width>39</width>
+          <height>156</height>
+          <left>270</left>
+          <top>102</top>
+        </safezone>
+      </view>
+      <view id="14807">
+        <name>back bottom left</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14807/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/770/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>75</width>
+          <height>75</height>
+          <left>215</left>
+          <top>299</top>
+        </viewport>
+        <safezone>
+          <width>77</width>
+          <height>77</height>
+          <left>215</left>
+          <top>299</top>
+        </safezone>
+      </view>
+      <view id="14810">
+        <name>back bottom right</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14810/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/770/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>74</width>
+          <height>74</height>
+          <left>343</left>
+          <top>297</top>
+        </viewport>
+        <safezone>
+          <width>76</width>
+          <height>76</height>
+          <left>343</left>
+          <top>297</top>
+        </safezone>
+      </view>
+      <view id="14813">
+        <name>back left shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14813/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/770/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>76</width>
+          <height>76</height>
+          <left>200</left>
+          <top>42</top>
+        </viewport>
+        <safezone>
+          <width>78</width>
+          <height>78</height>
+          <left>200</left>
+          <top>42</top>
+        </safezone>
+      </view>
+      <view id="14816">
+        <name>back right shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14816/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/770/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>74</width>
+          <height>74</height>
+          <left>350</left>
+          <top>42</top>
+        </viewport>
+        <safezone>
+          <width>76</width>
+          <height>76</height>
+          <left>350</left>
+          <top>42</top>
+        </safezone>
+      </view>
+      <view id="14819">
+        <name>front bottom right</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14819/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/724/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>78</width>
+          <height>78</height>
+          <left>196</left>
+          <top>289</top>
+        </viewport>
+        <safezone>
+          <width>80</width>
+          <height>80</height>
+          <left>196</left>
+          <top>289</top>
+        </safezone>
+      </view>
+      <view id="14822">
+        <name>front left shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14822/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/724/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>76</width>
+          <height>76</height>
+          <left>321</left>
+          <top>24</top>
+        </viewport>
+        <safezone>
+          <width>78</width>
+          <height>78</height>
+          <left>321</left>
+          <top>24</top>
+        </safezone>
+      </view>
+      <view id="14825">
+        <name>front right shoulder</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14825/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/724/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>78</width>
+          <height>78</height>
+          <left>196</left>
+          <top>24</top>
+        </viewport>
+        <safezone>
+          <width>80</width>
+          <height>80</height>
+          <left>196</left>
+          <top>24</top>
+        </safezone>
+      </view>
+      <view id="14828">
+        <name>front bottom left</name>
+        <width>6.0</width>
+        <height>6.0</height>
+        <dpi>300</dpi>
+        <print_mode id="24">white</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/14828/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/724/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>74</width>
+          <height>74</height>
+          <left>336</left>
+          <top>297</top>
+        </viewport>
+        <safezone>
+          <width>76</width>
+          <height>76</height>
+          <left>336</left>
+          <top>297</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+</products>

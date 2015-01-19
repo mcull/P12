@@ -19,6 +19,14 @@
         </div>
       </div>
       <div class="row">
+        <div class="small-3 columns">
+          <label for="name" class="right inline">Tags</label>
+        </div>
+        <div class="small-9 columns">
+          <%= f.text_area :tags, size: "24x3" %><br>
+        </div>
+      </div>
+      <div class="row">
         <div class="small-4 small-offset-8 columns" style="text-align:center">
           <div class="row">
             <div class="small-6 columns <%= (@design.persisted?) ? "" : "small-offset-6" %>">

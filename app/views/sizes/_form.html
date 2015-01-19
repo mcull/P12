@@ -1,30 +1,51 @@
 <%= form_for size do |f| %>
   <%= f.hidden_field(:active, :value => 1) %>
   <div class="row">
-    <div class="large-12 columns">
-      <div class="row collapse">
-        <div class="large-5 medium-5 small-11 columns">
-          <%= f.text_field :name, 'placeholder' => 'New Size' %>
+  <div class="small-9 columns">
+
+  <div class="row">
+    <div class="small-3 columns">
+      <label for="name" class="right inline">Name</label>
+    </div>
+    <div class="small-9 columns">
+      <%= f.text_field :name, 'placeholder' => 'New Size' %>
+    </div>
+  </div>
+  <div class="row">
+    <div class="small-3 columns">
+      <label for="contact_email" class="right inline">Additional Price</label>
+    </div>
+    <div class="small-9 columns">
+      <%= f.text_field :additional_price, 'placeholder' => '0.00' %>
+    </div>
+  </div>
+  <div class="row">
+    <div class="small-4 small-offset-8 columns" style="text-align:center">
+      <div class="row">
+        <div class="small-6 columns <%= (size.persisted?) ? "" : "small-offset-6" %>">
+          <%= f.button raw('<i class="fa fa-floppy-o"></i>'), 'class'=>'button info small' %>
         </div>
-        <div class="small-1 columns">
-          <%= f.button raw('<i class="fa fa-floppy-o"></i>'), 'class'=>'button info postfix' %>
+        <% if size.persisted? then %>
+        <div class="small-6 columns">
+          <%= link_to raw('<i class="fa fa-times"></i>'), size, method: :delete, 'class'=>'button alert small' %>
         </div>
-        <div class="small-1 columns">
-          <% if size.persisted? then %>
-            <%= link_to raw('<i class="fa fa-times"></i>'), size, method: :delete, 'class'=>'button alert postfix' %>
-          <% end %>
-        </div>
-        <div class="large-5 medium-6 small-0 columns"></div>
+        <% end %>
       </div>
     </div>
   </div>
+
+
   <%= render partial: "shared/new_link", locals: {obj: @size, show: @size.persisted? } %>
   <% allSizes.each do |s| %>
   <div class="row">
     <div class="small-2 columns"><%= link_to raw('<i class="fa fa-caret-square-o-up"></i>'), size_path(s, :sort_order => s.sort_order - 1), :method => :put %> <%= link_to raw('<i class="fa fa-caret-square-o-down"></i>'), size_path(s, :sort_order => s.sort_order + 1), :method => :put %> <%= s.sort_order %></div>
-    <div class="small-10 columns">
+    <div class="small-8 columns">
       <%= link_to raw('<i class="fa fa-pencil-square-o"></i>' + s.name), edit_size_path(s) %></a>
+    </div>
+    <div class="small-2 columns">
+      +$<%= (s.additional_price.blank?) ? "0.00" : number_with_precision(s.additional_price, precision:2) %>
     </div>
   </div>
   <% end %>
 <% end %>
+</div>

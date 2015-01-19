@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products date="2015-01-19" sku_search="" text_search="">
+  <product code="ac50">
+    <name>ALUMINUM BLANKET CLAMP 50"</name>
+    <description>ALUMINUM BLANKET CLAMP 50"</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3122/AC50_original.jpg?1343974697</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3122/AC50_thumb.jpg?1343974697</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8834">
+        <name>Aluminum</name>
+        <hex>666D70</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+    </views>
+  </product>
+  <product code="ar57">
+    <name>5’ x 7’ Area Rug</name>
+    <description>5’ x 7’ Area Rug -Non -slip bottom, polyester face, durable construction</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2998/ar57_original.png?1353538142</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2998/ar57_thumb.png?1353538142</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15145">
+        <name>front</name>
+        <width>86.5</width>
+        <height>62.5</height>
+        <dpi>72</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15145/viewport.jpg</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>551</width>
+          <height>397</height>
+          <left>23</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>527</width>
+          <height>373</height>
+          <left>36</left>
+          <top>13</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="ar81">
+    <name>8’ x 10’ Area Rug</name>
+    <description>8’ x 10’ Area Rug -Non -slip bottom, polyester face, durable construction</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2999/ar81_original.png?1353538540</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2999/ar81_thumb.png?1353538540</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15314">
+        <name>front</name>
+        <width>122.0</width>
+        <height>98.0</height>
+        <dpi>72</dpi>
+        <print_mode id="18">full_sub</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15314/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/891/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>499</width>
+          <height>400</height>
+          <left>50</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>485</width>
+          <height>386</height>
+          <left>58</left>
+          <top>8</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="bcp-tall">
+    <name>BCP - Worthington Tall</name>
+    <description>Men's 7oz 60/40 Cotton Polyester Ring Spun Combed Cotton Pique Short Sleeve Sport Shirt</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3105/bcp-tall_original.jpg?1341497541</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3105/bcp-tall_thumb.jpg?1341497541</thumb>
+    </images>
+    <sizes>
+      <size id="3742">LT</size>
+      <size id="3743">XLT</size>
+      <size id="3744">2XLT</size>
+      <size id="3745">3XLT</size>
+      <size id="6203">6XLT</size>
+      <size id="6201">4XLT</size>
+    </sizes>
+    <colors>
+      <color id="8228">
+        <name>Ash</name>
+        <hex>D3D3D3</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8232">
+        <name>Black</name>
+        <hex>242425</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8252">
+        <name>Navy</name>
+        <hex>002654</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+    </views>
+  </product>
+  <product code="c118">
+    <name>80”W x 84”L Unlined Woven Curtain set -100% Polyester, Non-wrinkle. Includes 2 panels</name>
+    <description>112”W x 80”L Lined Woven Curtain set -100% Polyester, Non-wrinkle. Includes 2 panels</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3012/c118_original.jpg?1354045593</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3012/c118_thumb.jpg?1354045593</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15765">
+        <name>front</name>
+        <width>114.0</width>
+        <height>82.0</height>
+        <dpi>72</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15765/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>558</width>
+          <height>401</height>
+          <left>21</left>
+          <top>-5</top>
+        </viewport>
+        <safezone>
+          <width>560</width>
+          <height>403</height>
+          <left>21</left>
+          <top>-5</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="c805">
+    <name>80”W x 54”L Lined Woven Curtain set</name>
+    <description>80”W x 54”L Lined Woven Curtain set -100% Polyester, Non-wrinkle. Includes 2 panels</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3006/c805_original.jpg?1354045424</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3006/c805_thumb.jpg?1354045424</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15763">
+        <name>front</name>
+        <width>82.0</width>
+        <height>56.0</height>
+        <dpi>72</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15763/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>581</width>
+          <height>396</height>
+          <left>8</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>583</width>
+          <height>398</height>
+          <left>8</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="c806">
+    <name>C806 - 80”W x 63”L Lined Woven Curtain set</name>
+    <description>80”W x 63”L Lined Woven Curtain set -100% Polyester, Non-wrinkle. Includes 2 panels</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3008/c806_original.jpg?1354045505</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3008/c806_thumb.jpg?1354045505</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15063">
+        <name>front</name>
+        <width>82.0</width>
+        <height>65.0</height>
+        <dpi>72</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15063/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>503</width>
+          <height>396</height>
+          <left>47</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>493</width>
+          <height>386</height>
+          <left>53</left>
+          <top>6</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="c808">
+    <name>80”W x 84”L Lined Woven Curtain set</name>
+    <description>80”W x 84”L Lined Woven Curtain set -100% Polyester, Non-wrinkle. Includes 2 panels</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3010/c808_original.jpg?1354045547</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3010/c808_thumb.jpg?1354045547</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15764">
+        <name>front</name>
+        <width>82.0</width>
+        <height>86.0</height>
+        <dpi>72</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15764/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>376</width>
+          <height>394</height>
+          <left>110</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>378</width>
+          <height>396</height>
+          <left>110</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="catcovb">
+    <name>CATCOVB - Collection Custom Catalog Cover</name>
+    <description>Collection Custom Catalog Cover</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2211/catcovb_original.png?1329510851</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2211/catcovb_thumb.png?1329510851</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8942">
+        <name>100 lb gloss cover</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="9207">
+        <name>front cover</name>
+        <width>381.0</width>
+        <height>310.0</height>
+        <dpi>44</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/9207/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1409/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>489.612903225806451613</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>492</width>
+          <height>400</height>
+          <left>159</left>
+          <top>55</top>
+        </safezone>
+      </view>
+      <view id="9213">
+        <name>back cover</name>
+        <width>381.0</width>
+        <height>310.0</height>
+        <dpi>44</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/9213/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>489.612903225806451613</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>492</width>
+          <height>400</height>
+          <left>159</left>
+          <top>55</top>
+        </safezone>
+      </view>
+      <view id="9215">
+        <name>back cover</name>
+        <width>381.0</width>
+        <height>310.0</height>
+        <dpi>30</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/9215/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>489.612903225806451613</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>492</width>
+          <height>400</height>
+          <left>159</left>
+          <top>55</top>
+        </safezone>
+      </view>
+      <view id="9211">
+        <name>inside back cover</name>
+        <width>384.0</width>
+        <height>312.0</height>
+        <dpi>44</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/9211/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1415/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>490.307692307692307692</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>492</width>
+          <height>400</height>
+          <left>157</left>
+          <top>53</top>
+        </safezone>
+      </view>
+      <view id="9209">
+        <name>inside front cover</name>
+        <width>384.0</width>
+        <height>312.0</height>
+        <dpi>44</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/9209/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1411/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>490.307692307692307692</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>492</width>
+          <height>400</height>
+          <left>157</left>
+          <top>53</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="cij">
+    <name>CIJ - Manchester</name>
+    <description>BONDED  MICROFIBRE CITY JACKET</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3096/cij_original.jpg?1341349617</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3096/cij_thumb.jpg?1341349617</thumb>
+    </images>
+    <sizes>
+      <size id="3531">XXS</size>
+      <size id="3136">XS</size>
+      <size id="3137">S</size>
+      <size id="3138">M</size>
+      <size id="3139">L</size>
+      <size id="3140">XL</size>
+      <size id="3141">2X</size>
+      <size id="3142">3X</size>
+      <size id="3143">4X</size>
+      <size id="3144">5X</size>
+      <size id="3145">6X</size>
+    </sizes>
+    <colors>
+      <color id="8232">
+        <name>Black</name>
+        <hex>242425</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="11729">
+        <name>Grey</name>
+        <hex>666D70</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8252">
+        <name>Navy</name>
+        <hex>002654</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+    </views>
+  </product>
+  <product code="ciw">
+    <name>CIW - Lady Manchester</name>
+    <description>WOMEN’S  BONDED MICROFIBRE CITY JACKET</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3094/ciw_original.jpg?1341348252</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3094/ciw_thumb.jpg?1341348252</thumb>
+    </images>
+    <sizes>
+      <size id="3136">XS</size>
+      <size id="3137">S</size>
+      <size id="3138">M</size>
+      <size id="3139">L</size>
+      <size id="3140">XL</size>
+      <size id="3141">2X</size>
+      <size id="3142">3X</size>
+      <size id="3143">4X</size>
+      <size id="3144">5X</size>
+    </sizes>
+    <colors>
+      <color id="8232">
+        <name>Black</name>
+        <hex>242425</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8608">
+        <name>Periwinkle/peri</name>
+        <hex>9dabe2</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+    </views>
+  </product>
+  <product code="clec">
+    <name>CLEC - 1/4" Economy 4 Pieces Coaster Set</name>
+    <description>4 Pieces Coaster Set with Wood Stand - Rounded edges</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3070/clec_original.png?1353505240</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3070/clec_thumb.png?1353505240</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15266">
+        <name>front</name>
+        <width>4.5</width>
+        <height>4.5</height>
+        <dpi>300</dpi>
+        <print_mode id="18">full_sub</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15266/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>342</width>
+          <height>342</height>
+          <left>125</left>
+          <top>26</top>
+        </viewport>
+        <safezone>
+          <width>268</width>
+          <height>268</height>
+          <left>163</left>
+          <top>64</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="ct24">
+    <name>CT24 - Acoustic Ceiling Tile</name>
+    <description>CT24 - 2' x 4' Ceiling Tile</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2978/ct24_original.png?1354049712</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2978/ct24_thumb.png?1354049712</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15012">
+        <name>front</name>
+        <width>50.0</width>
+        <height>26.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15012/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>596</width>
+          <height>309</height>
+          <left>1</left>
+          <top>44</top>
+        </viewport>
+        <safezone>
+          <width>598</width>
+          <height>311</height>
+          <left>1</left>
+          <top>44</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="cwj-tall">
+    <name>CWJ - Cheyenne Tall</name>
+    <description>MEN’S 12OZ HEAVYWEIGHT COTTON DUCK QUILTED WORKJACKET </description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3100/cwj-tall_original.jpg?1341509891</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3100/cwj-tall_thumb.jpg?1341509891</thumb>
+    </images>
+    <sizes>
+      <size id="3742">LT</size>
+      <size id="3743">XLT</size>
+      <size id="3744">2XLT</size>
+      <size id="3745">3XLT</size>
+    </sizes>
+    <colors>
+      <color id="8252">
+        <name>Navy</name>
+        <hex>002654</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="11715">
+        <name>Spice</name>
+        <hex>ce723f</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+    </views>
+  </product>
+  <product code="duvsam">
+    <name>DUVSAM - Duvet Sample</name>
+    <description></description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="12041">
+        <name>front</name>
+        <width>13.0</width>
+        <height>13.0</height>
+        <dpi>150</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="hw35">
+    <name>HW35 - 3' x 5' 18oz Vinyl Banner</name>
+    <description>Heavyweight 2 yr UV coated Scrim Laminated Vinyl Banner</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3128/hw35_original.png?1353690912</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3128/hw35_thumb.png?1353690912</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15140">
+        <name>front</name>
+        <width>60.0</width>
+        <height>38.0</height>
+        <dpi>72</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15140/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>578</width>
+          <height>354</height>
+          <left>10</left>
+          <top>22</top>
+        </viewport>
+        <safezone>
+          <width>580</width>
+          <height>356</height>
+          <left>10</left>
+          <top>22</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="hwj-tall">
+    <name>HWJ - Cimmaron Tall</name>
+    <description>MEN’S 12OZ HEAVYWEIGHT HOODED COTTON DUCK QUILTED WORKJACKET</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3099/hwj-tall_original.jpg?1341509859</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3099/hwj-tall_thumb.jpg?1341509859</thumb>
+    </images>
+    <sizes>
+      <size id="3742">LT</size>
+      <size id="3743">XLT</size>
+      <size id="3744">2XLT</size>
+      <size id="3745">3XLT</size>
+    </sizes>
+    <colors>
+      <color id="8252">
+        <name>Navy</name>
+        <hex>002654</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="11715">
+        <name>Spice</name>
+        <hex>ce723f</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+    </views>
+  </product>
+  <product code="jcb">
+    <name>JCB - Chenille Jacquard</name>
+    <description>MICRO-CHENILLE JACQUARD BLANKET</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3102/jcb_original.jpg?1341362721</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3102/jcb_thumb.jpg?1341362721</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8256">
+        <name>Burgandy</name>
+        <hex>8E2344</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="11864">
+        <name>Charcoal/pewter</name>
+        <hex>666D70</hex>
+        <second_hex>666D70</second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15105">
+        <name>corner</name>
+        <width>311.0</width>
+        <height>311.0</height>
+        <dpi>100</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15105/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+      <view id="15106">
+        <name>straight</name>
+        <width>311.0</width>
+        <height>311.0</height>
+        <dpi>100</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15106/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="kcs">
+    <name>Full Sub KCS - Durango Jr. Youth Crewneck / Full Sublimation Shirt</name>
+    <description>Kids Full Sublimation Shirt</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2441/kcs_original.png?1329510985</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2441/kcs_thumb.png?1329510985</thumb>
+    </images>
+    <sizes>
+      <size id="3136">XS</size>
+      <size id="3137">S</size>
+      <size id="3138">M</size>
+      <size id="3139">L</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="10505">
+        <name>front</name>
+        <width>35.0</width>
+        <height>31.0</height>
+        <dpi>100</dpi>
+        <print_mode id="18">full_sub</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/10505/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/869/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>352</width>
+          <height>312</height>
+          <left>121</left>
+          <top>32</top>
+        </viewport>
+        <safezone>
+          <width>354</width>
+          <height>314</height>
+          <left>121</left>
+          <top>32</top>
+        </safezone>
+      </view>
+      <view id="10507">
+        <name>back</name>
+        <width>35.0</width>
+        <height>31.0</height>
+        <dpi>100</dpi>
+        <print_mode id="18">full_sub</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/10507/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/898/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>352</width>
+          <height>312</height>
+          <left>122</left>
+          <top>32</top>
+        </viewport>
+        <safezone>
+          <width>354</width>
+          <height>314</height>
+          <left>122</left>
+          <top>32</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="kds">
+    <name>KDS - Dundee Jr.</name>
+    <description>YOUTH WOVEN MICROFIBRE SPORT SHORT</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3108/kds_original.jpg?1343135877</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3108/kds_thumb.jpg?1343135877</thumb>
+    </images>
+    <sizes>
+      <size id="3136">XS</size>
+      <size id="3137">S</size>
+      <size id="3138">M</size>
+      <size id="3139">L</size>
+    </sizes>
+    <colors>
+      <color id="8232">
+        <name>Black</name>
+        <hex>242425</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8253">
+        <name>Forest</name>
+        <hex>006847</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8252">
+        <name>Navy</name>
+        <hex>002654</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8250">
+        <name>Red</name>
+        <hex>D81E05</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8254">
+        <name>Royal</name>
+        <hex>0038A8</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+    </views>
+  </product>
+  <product code="ksb">
+    <name>KSB - Douglas Jr. Bottom</name>
+    <description>YOUTH MICROFIBRE MODULAR WARM-UP PANTS</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3114/ksb_original.jpg?1341601870</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3114/ksb_thumb.jpg?1341601870</thumb>
+    </images>
+    <sizes>
+      <size id="3137">S</size>
+      <size id="3138">M</size>
+      <size id="3139">L</size>
+    </sizes>
+    <colors>
+      <color id="8232">
+        <name>Black</name>
+        <hex>242425</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8252">
+        <name>Navy</name>
+        <hex>002654</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8250">
+        <name>Red</name>
+        <hex>D81E05</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8254">
+        <name>Royal</name>
+        <hex>0038A8</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+    </views>
+  </product>
+  <product code="kst">
+    <name>KST - Douglas Jr. Top</name>
+    <description>YOUTH MICROFIBRE MODULAR WARM-UP JACKET</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3113/kst_original.jpg?1341601513</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3113/kst_thumb.jpg?1341601513</thumb>
+    </images>
+    <sizes>
+      <size id="3137">S</size>
+      <size id="3138">M</size>
+      <size id="3139">L</size>
+    </sizes>
+    <colors>
+      <color id="8232">
+        <name>Black</name>
+        <hex>242425</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8252">
+        <name>Navy</name>
+        <hex>002654</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8250">
+        <name>Red</name>
+        <hex>D81E05</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8254">
+        <name>Royal</name>
+        <hex>0038A8</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+    </views>
+  </product>
+  <product code="lc45">
+    <name>40”W x 54”L Lined Woven Curtain set</name>
+    <description>40”W x 54”L Lined Woven Curtain set -100% Polyester, Non-wrinkle. Includes 2 panels</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3000/lc45_original.jpg?1354045087</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3000/lc45_thumb.jpg?1354045087</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15760">
+        <name>front</name>
+        <width>46.0</width>
+        <height>56.0</height>
+        <dpi>72</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15760/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>327</width>
+          <height>398</height>
+          <left>135</left>
+          <top>-2</top>
+        </viewport>
+        <safezone>
+          <width>329</width>
+          <height>400</height>
+          <left>135</left>
+          <top>-2</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="lc46">
+    <name>40”W x 63”L Lined Woven Curtain set</name>
+    <description>40”W x 63”L Lined Woven Curtain set -100% Polyester, Non-wrinkle. Includes 2 panels</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3002/lc46_original.jpg?1354045248</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3002/lc46_thumb.jpg?1354045248</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15761">
+        <name>front</name>
+        <width>42.0</width>
+        <height>65.0</height>
+        <dpi>72</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15761/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>255</width>
+          <height>395</height>
+          <left>171</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>257</width>
+          <height>397</height>
+          <left>171</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+</products>

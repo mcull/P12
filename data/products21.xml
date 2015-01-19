@@ -1,0 +1,1171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products date="2015-01-19" sku_search="" text_search="">
+  <product code="hw58">
+    <name>HW58 - 5' x 8' 18oz Vinyl Banner</name>
+    <description>5' x 8' 18oz Vinyl Banner</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2803/hw58_original.png?1329510952</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2803/hw58_thumb.png?1329510952</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="9058">
+        <name>Vinyl</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="11707">
+        <name>front</name>
+        <width>98.0</width>
+        <height>62.0</height>
+        <dpi>72</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/11707/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1553/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>548</width>
+          <height>346</height>
+          <left>25</left>
+          <top>26</top>
+        </viewport>
+        <safezone>
+          <width>550</width>
+          <height>348</height>
+          <left>25</left>
+          <top>26</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="lplsc">
+    <name>LPLSC - 90"x70" Full Sublimation Shower Curtain</name>
+    <description>Sublimated Shower Curtain. Durable Construction creates a useful and versatile advertising or decorative piece</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3173/lplsc_original.png?1374787386</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3173/lplsc_thumb.png?1374787386</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15751">
+        <name>front</name>
+        <width>71.0</width>
+        <height>92.0</height>
+        <dpi>100</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15751/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>307</width>
+          <height>399</height>
+          <left>145</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>309</width>
+          <height>401</height>
+          <left>145</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="ar35">
+    <name>3’ x 5’ Area Rug</name>
+    <description>3’ x 5’ Area Rug -Non -slip bottom, polyester face, durable construction</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3177/AR35_original.png?1373983681</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3177/AR35_thumb.png?1373983681</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15768">
+        <name>front</name>
+        <width>62.0</width>
+        <height>38.0</height>
+        <dpi>100</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15768/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>572</width>
+          <height>350</height>
+          <left>14</left>
+          <top>23</top>
+        </viewport>
+        <safezone>
+          <width>537</width>
+          <height>315</height>
+          <left>33</left>
+          <top>42</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="b7331">
+    <name>12oz Grand Pilsner Glass</name>
+    <description>12oz Grand Pilsner Glass</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15926">
+        <name>front</name>
+        <width>3.0</width>
+        <height>3.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="bd16">
+    <name>BD16 - 16”x16” Burlap Pillow double sided print-NO INSERT</name>
+    <description>BD16 - 16”x16” Burlap Pillow double sided print-NO INSERT</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3261/bd16_original.png?1384350706</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3261/bd16_thumb.png?1384350706</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15910">
+        <name>front</name>
+        <width>17.0</width>
+        <height>17.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15910/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>369</width>
+          <height>369</height>
+          <left>119</left>
+          <top>9</top>
+        </viewport>
+        <safezone>
+          <width>371</width>
+          <height>371</height>
+          <left>119</left>
+          <top>9</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="dqd">
+    <name>DQD - Queen  Duvet Cover with Burlap one side and Light other side, single sided sublimated</name>
+    <description>DQD - Queen  Duvet Cover with Burlap one side and Light other side, single sided sublimated</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3248/dqd_original.png?1382479326</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3248/dqd_thumb.png?1382479326</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15889">
+        <name>front</name>
+        <width>90.0</width>
+        <height>90.0</height>
+        <dpi>72</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15889/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>465</width>
+          <height>394</height>
+          <left>68</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>467</width>
+          <height>396</height>
+          <left>68</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="du18">
+    <name>DU18 - URBAN OUTFITTERS 18X18 BURLAP PILLOW PRINTED 2 SIDE WITH OUR INSERT</name>
+    <description>URBAN OUTFITTERS 18X18 BURLAP PILLOW PRINTED 2 SIDE WITH OUR INSERT</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3240/du18_original.png?1382475293</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3240/du18_thumb.png?1382475293</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15875">
+        <name>front</name>
+        <width>38.0</width>
+        <height>19.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15875/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>371</width>
+          <height>371</height>
+          <left>118</left>
+          <top>10</top>
+        </viewport>
+        <safezone>
+          <width>373</width>
+          <height>373</height>
+          <left>118</left>
+          <top>10</top>
+        </safezone>
+      </view>
+      <view id="15876">
+        <name>back</name>
+        <width>38.0</width>
+        <height>19.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15876/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>371</width>
+          <height>371</height>
+          <left>118</left>
+          <top>10</top>
+        </viewport>
+        <safezone>
+          <width>373</width>
+          <height>373</height>
+          <left>118</left>
+          <top>10</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="fl23">
+    <name>FL23 - 2' x 3' Mesh Polyester Flag</name>
+    <description>One sided Print Flag with Grommets included</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3036/fl23_original.png?1352941715</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3036/fl23_thumb.png?1352941715</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15175">
+        <name>front</name>
+        <width>38.0</width>
+        <height>26.0</height>
+        <dpi>100</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15175/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>513</width>
+          <height>350</height>
+          <left>42</left>
+          <top>24</top>
+        </viewport>
+        <safezone>
+          <width>461</width>
+          <height>298</height>
+          <left>69</left>
+          <top>51</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="hw510">
+    <name>HW510 - 5' x 10' 18oz Vinyl Banner</name>
+    <description>5' x 10' 18oz Vinyl Banner</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2807/hw510_original.png?1329510950</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2807/hw510_thumb.png?1329510950</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="9058">
+        <name>Vinyl</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="11711">
+        <name>front</name>
+        <width>122.0</width>
+        <height>62.0</height>
+        <dpi>72</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/11711/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1556/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>544</width>
+          <height>275</height>
+          <left>28</left>
+          <top>61</top>
+        </viewport>
+        <safezone>
+          <width>546</width>
+          <height>277</height>
+          <left>28</left>
+          <top>61</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="md16">
+    <name>MD16 – 16x20 closed back canvas gallery wrap</name>
+    <description>MD16 – 16x20 closed back canvas gallery wrap</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3184/md16_original.jpg?1375188080</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3184/md16_thumb.jpg?1375188080</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15812">
+        <name>front</name>
+        <width>23.75</width>
+        <height>19.75</height>
+        <dpi>150</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15812/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>473</width>
+          <height>393</height>
+          <left>63</left>
+          <top>1</top>
+        </viewport>
+        <safezone>
+          <width>475</width>
+          <height>395</height>
+          <left>63</left>
+          <top>1</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="wm23 - 2'x3' wall mural display">
+    <name>WM23 - 2'x3' wall mural display</name>
+    <description>WM23 - 2'x3' wall mural display</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15846">
+        <name>front</name>
+        <width>24.0</width>
+        <height>36.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>264.666666666666666667</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>267</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="b7332">
+    <name>17oz Bubble Pint Glass</name>
+    <description>17oz Bubble Pint Glass</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15927">
+        <name>front</name>
+        <width>3.0</width>
+        <height>3.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="di16">
+    <name>Burlap Pillow printed 2 side 16x16 pillow  - with insert</name>
+    <description>Burlap Pillow printed 2 side 16x16 pillow  - with insert</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3241/di16_original.png?1382475847</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3241/di16_thumb.png?1382475847</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15877">
+        <name>front</name>
+        <width>17.0</width>
+        <height>17.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15877/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>365</width>
+          <height>365</height>
+          <left>120</left>
+          <top>13</top>
+        </viewport>
+        <safezone>
+          <width>367</width>
+          <height>367</height>
+          <left>120</left>
+          <top>13</top>
+        </safezone>
+      </view>
+      <view id="15878">
+        <name>back</name>
+        <width>17.0</width>
+        <height>17.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15878/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>370</width>
+          <height>370</height>
+          <left>120</left>
+          <top>9</top>
+        </viewport>
+        <safezone>
+          <width>372</width>
+          <height>372</height>
+          <left>120</left>
+          <top>9</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="dpm">
+    <name>Turpalin Waterproof Mat for water &amp; food bowls</name>
+    <description>Turpalin Waterproof Mat for water &amp; food bowls</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15994">
+        <name>front</name>
+        <width>18.5</width>
+        <height>14.5</height>
+        <dpi>100</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15994/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>506</width>
+          <height>396</height>
+          <left>44</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>508</width>
+          <height>398</height>
+          <left>44</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="fl35">
+    <name>FL35 - 3' x 5' Mesh Polyester Flag</name>
+    <description>One sided Print Flag with Grommets included</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3037/fl35_original.png?1352942038</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3037/fl35_thumb.png?1352942038</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15776">
+        <name>front</name>
+        <width>62.0</width>
+        <height>38.0</height>
+        <dpi>100</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15776/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>580</width>
+          <height>355</height>
+          <left>7</left>
+          <top>20</top>
+        </viewport>
+        <safezone>
+          <width>582</width>
+          <height>357</height>
+          <left>7</left>
+          <top>20</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="fm23">
+    <name>FM23-Non Slip Floormat 2’ x 3’</name>
+    <description>FM23-Non Slip Floormat 2’ x 3’</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="16008">
+        <name>front</name>
+        <width>38.0</width>
+        <height>26.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/16008/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>574</width>
+          <height>392</height>
+          <left>11</left>
+          <top>1</top>
+        </viewport>
+        <safezone>
+          <width>576</width>
+          <height>394</height>
+          <left>11</left>
+          <top>1</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="hw512">
+    <name>HW512 - 5' x 12' 18oz Vinyl Banner</name>
+    <description>5' x 12' 18oz Vinyl Banner</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2811/hw512_original.png?1329510950</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2811/hw512_thumb.png?1329510950</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="9058">
+        <name>Vinyl</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="11715">
+        <name>front</name>
+        <width>146.0</width>
+        <height>62.0</height>
+        <dpi>72</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/11715/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1558/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>563</width>
+          <height>238</height>
+          <left>18</left>
+          <top>80</top>
+        </viewport>
+        <safezone>
+          <width>546</width>
+          <height>221</height>
+          <left>28</left>
+          <top>90</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="wkdc">
+    <name>WKDC - Woven King Duvet</name>
+    <description>WKDC - Woven King Duvet</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3249/wkdc_original.png?1382739763</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3249/wkdc_thumb.png?1382739763</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15890">
+        <name>front</name>
+        <width>106.0</width>
+        <height>90.0</height>
+        <dpi>72</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15890/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>378</width>
+          <height>320</height>
+          <left/>
+          <top/>
+        </viewport>
+        <safezone>
+          <width>380</width>
+          <height>322</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="cap20">
+    <name>CAP20 - Khaki Hat</name>
+    <description>Khaki Hat</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8520">
+        <name>Khaki</name>
+        <hex>DDCCA5</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15939">
+        <name>front</name>
+        <width>3.0</width>
+        <height>3.0</height>
+        <dpi>300</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="di18">
+    <name>di18 - Burlap Pillow printed 2 side 18x18 pillow  - with insert</name>
+    <description>di18 Burlap Pillow printed 2 side 18x18 pillow  - with insert</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3242/di18_original.png?1382476241</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3242/di18_thumb.png?1382476241</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15879">
+        <name>front</name>
+        <width>20.0</width>
+        <height>20.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15879/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>367</width>
+          <height>367</height>
+          <left>120</left>
+          <top>13</top>
+        </viewport>
+        <safezone>
+          <width>369</width>
+          <height>369</height>
+          <left>120</left>
+          <top>13</top>
+        </safezone>
+      </view>
+      <view id="15880">
+        <name>back</name>
+        <width>20.0</width>
+        <height>20.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15880/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>368</width>
+          <height>368</height>
+          <left>120</left>
+          <top>10</top>
+        </viewport>
+        <safezone>
+          <width>370</width>
+          <height>370</height>
+          <left>120</left>
+          <top>10</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="hw515">
+    <name>HW515 - 5' x 15' 18oz Vinyl Banner</name>
+    <description>5' x 15' 18oz Vinyl Banner</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2819/hw515_original.png?1329510951</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2819/hw515_thumb.png?1329510951</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="9058">
+        <name>Vinyl</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="11723">
+        <name>front</name>
+        <width>182.0</width>
+        <height>62.0</height>
+        <dpi>72</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/11723/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1566/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>529</width>
+          <height>179</height>
+          <left>35</left>
+          <top>109</top>
+        </viewport>
+        <safezone>
+          <width>516</width>
+          <height>166</height>
+          <left>42</left>
+          <top>116</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="lfp">
+    <name>LFP Felt Pennant</name>
+    <description>LFP Felt Pennant Pennant 30"  </description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3176/lfp_original.png?1372170661</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3176/lfp_thumb.png?1372170661</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15795">
+        <name>front</name>
+        <width>31.0</width>
+        <height>13.0</height>
+        <dpi>300</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15795/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>589</width>
+          <height>246</height>
+          <left>6</left>
+          <top>78</top>
+        </viewport>
+        <safezone>
+          <width>591</width>
+          <height>248</height>
+          <left>6</left>
+          <top>78</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="md80">
+    <name>Wrapped Canvas 8x10</name>
+    <description>MD80 – 8x10 closed back canvas gallery wrap</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3191/md80_original.jpg?1379994686</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3191/md80_thumb.jpg?1379994686</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15824">
+        <name>front</name>
+        <width>13.0</width>
+        <height>11.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15824/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>467</width>
+          <height>395</height>
+          <left>64</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>469</width>
+          <height>397</height>
+          <left>64</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="qlfs">
+    <name>LIGHWEIGHT MATERIAL Queen Fitted Sheet 60" x 80 ",  single sided sublimation</name>
+    <description>LIGHWEIGHT MATERIAL Queen Fitted Sheet 60" x 80 ",  single sided sublimation</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15966">
+        <name>front</name>
+        <width>99.5</width>
+        <height>120.0</height>
+        <dpi>72</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15966/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>331</width>
+          <height>400</height>
+          <left>134</left>
+          <top>-2</top>
+        </viewport>
+        <safezone>
+          <width>333</width>
+          <height>402</height>
+          <left>134</left>
+          <top>-2</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="di20">
+    <name>DI20 - Burlap Pillow printed 2 side 20x20 pillow  - with insert</name>
+    <description>DI20 - Burlap Pillow printed 2 side 20x20 pillow  - with insert</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3243/di20_original.png?1382476544</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3243/di20_thumb.png?1382476544</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15881">
+        <name>front</name>
+        <width>22.0</width>
+        <height>22.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15881/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>366</width>
+          <height>366</height>
+          <left>120</left>
+          <top>11</top>
+        </viewport>
+        <safezone>
+          <width>368</width>
+          <height>368</height>
+          <left>120</left>
+          <top>11</top>
+        </safezone>
+      </view>
+      <view id="15882">
+        <name>back</name>
+        <width>22.0</width>
+        <height>22.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15882/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>371</width>
+          <height>371</height>
+          <left>116</left>
+          <top>12</top>
+        </viewport>
+        <safezone>
+          <width>373</width>
+          <height>373</height>
+          <left>116</left>
+          <top>12</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+</products>

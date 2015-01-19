@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products date="2015-01-19" sku_search="" text_search="">
+  <product code="md162">
+    <name>MD162 – 16x20 closed back canvas gallery wrap</name>
+    <description>MD162 – 16x20 closed back canvas gallery wrap</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3198/md162_original.jpg?1379957034</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3198/md162_thumb.jpg?1379957034</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15833">
+        <name>front</name>
+        <width>19.0</width>
+        <height>23.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15833/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>326</width>
+          <height>395</height>
+          <left>135</left>
+          <top>1</top>
+        </viewport>
+        <safezone>
+          <width>328</width>
+          <height>397</height>
+          <left>135</left>
+          <top>1</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="hw88">
+    <name>HW88 - 8' x 8' 18oz Vinyl Banner</name>
+    <description>8' x 8' 18oz Vinyl Banner</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2841/hw88_original.png?1329510957</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2841/hw88_thumb.png?1329510957</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="9058">
+        <name>Vinyl</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="11745">
+        <name>front</name>
+        <width>98.0</width>
+        <height>98.0</height>
+        <dpi>72</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/11745/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1586/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>352</width>
+          <height>352</height>
+          <left>123</left>
+          <top>24</top>
+        </viewport>
+        <safezone>
+          <width>336</width>
+          <height>336</height>
+          <left>132</left>
+          <top>33</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="md164">
+    <name>MD164 – 16x24 closed back canvas gallery wrap</name>
+    <description>MD164 – 16x24 closed back canvas gallery wrap</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3199/md164_original.jpg?1379957502</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3199/md164_thumb.jpg?1379957502</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15834">
+        <name>front</name>
+        <width>19.0</width>
+        <height>27.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15834/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>281</width>
+          <height>401</height>
+          <left>155</left>
+          <top>-5</top>
+        </viewport>
+        <safezone>
+          <width>283</width>
+          <height>403</height>
+          <left>155</left>
+          <top>-5</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="pc40">
+    <name>LIGHT WEIGHT MATERIAL Single Sided sublimated  40"x20" -TOTAL 1 KING PILLOWCASE </name>
+    <description>LIGHT WEIGHT MATERIAL Single Sided sublimated  40"x20" -TOTAL 1 KING PILLOWCASE </description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3309/PC40_original.jpg?1401913391</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3309/PC40_thumb.jpg?1401913391</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15965">
+        <name>front</name>
+        <width>42.0</width>
+        <height>22.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15965/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>581</width>
+          <height>303</height>
+          <left>10</left>
+          <top>47</top>
+        </viewport>
+        <safezone>
+          <width>583</width>
+          <height>305</height>
+          <left>10</left>
+          <top>47</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="gat">
+    <name>Gatorade Necker</name>
+    <description>Gatorade Necker</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3330/GAT_original.png?1406224870</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3330/GAT_thumb.png?1406224870</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8232">
+        <name>Black</name>
+        <hex>242425</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8250">
+        <name>Red</name>
+        <hex>D81E05</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+      <color id="8255">
+        <name>Yellow</name>
+        <hex>f9e655</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15986">
+        <name>front</name>
+        <width>3.0</width>
+        <height>3.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+      <view id="15987">
+        <name>back</name>
+        <width>3.0</width>
+        <height>3.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="hw810">
+    <name>HW810 - 8' x 10' 18oz Vinyl Banner</name>
+    <description>8' x 10' 18oz Vinyl Banner</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2843/hw810_original.png?1329510955</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2843/hw810_thumb.png?1329510955</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="9058">
+        <name>Vinyl</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="11747">
+        <name>front</name>
+        <width>122.0</width>
+        <height>98.0</height>
+        <dpi>72</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/11747/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1588/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>441</width>
+          <height>354</height>
+          <left>79</left>
+          <top>23</top>
+        </viewport>
+        <safezone>
+          <width>425</width>
+          <height>338</height>
+          <left>88</left>
+          <top>32</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="md185">
+    <name>MD182 – 18x24 closed back canvas gallery wrap</name>
+    <description>MD182 – 18x24 closed back canvas gallery wrap</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15976">
+        <name>front</name>
+        <width>21.0</width>
+        <height>27.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15976/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>306</width>
+          <height>395</height>
+          <left>144</left>
+          <top>1</top>
+        </viewport>
+        <safezone>
+          <width>308</width>
+          <height>397</height>
+          <left>144</left>
+          <top>1</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="md20s">
+    <name>MD20S – 20x20 closed back canvas gallery wrap</name>
+    <description>MD20S – 20x20 closed back canvas gallery wrap</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3200/md20s_original.jpg?1379958433</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3200/md20s_thumb.jpg?1379958433</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15835">
+        <name>front</name>
+        <width>23.0</width>
+        <height>23.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15835/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>392</width>
+          <height>392</height>
+          <left>102</left>
+          <top>1</top>
+        </viewport>
+        <safezone>
+          <width>394</width>
+          <height>394</height>
+          <left>102</left>
+          <top>1</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="pu23">
+    <name>PU23 - Pillow Sham - set of 1 - 30"x20" - single sided sublimated total 2 pillow cases</name>
+    <description>PU23 - Pillow Sham - set of 1 - 30"x20" - single sided sublimated</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3268/pu23_original.jpg?1386163669</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3268/pu23_thumb.jpg?1386163669</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15922">
+        <name>front</name>
+        <width>32.0</width>
+        <height>22.0</height>
+        <dpi>100</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15922/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>563</width>
+          <height>386</height>
+          <left>16</left>
+          <top>3</top>
+        </viewport>
+        <safezone>
+          <width>565</width>
+          <height>388</height>
+          <left>16</left>
+          <top>3</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="qlts">
+    <name>QUEEN TOP SHEET Lightweight Material 90”x102”</name>
+    <description>QUEEN TOP SHEET Lightweight Material 90”x102”</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15967">
+        <name>front</name>
+        <width>92.0</width>
+        <height>104.0</height>
+        <dpi>72</dpi>
+        <print_mode id="18">full_sub</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15967/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>350</width>
+          <height>397</height>
+          <left>123</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>352</width>
+          <height>399</height>
+          <left>123</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="uc84">
+    <name>Unlined Woven Curtain</name>
+    <description>Unlined Woven Curtain set 60”W x 84”L</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15969">
+        <name>front</name>
+        <width>82.0</width>
+        <height>62.0</height>
+        <dpi>100</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15969/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>521</width>
+          <height>394</height>
+          <left>38</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>523</width>
+          <height>396</height>
+          <left>38</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="hw812">
+    <name>HW812 - 8' x 12' 18oz Vinyl Banner</name>
+    <description>8' x 12' 18oz Vinyl Banner</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2845/hw812_original.png?1329510956</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2845/hw812_thumb.png?1329510956</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="9058">
+        <name>Vinyl</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="11749">
+        <name>front</name>
+        <width>146.0</width>
+        <height>98.0</height>
+        <dpi>72</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/11749/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1591/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>493</width>
+          <height>330</height>
+          <left>53</left>
+          <top>34</top>
+        </viewport>
+        <safezone>
+          <width>478</width>
+          <height>315</height>
+          <left>61</left>
+          <top>42</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="md204">
+    <name>MD204 – 20x24 closed back canvas gallery wrap</name>
+    <description>MD204 – 20x24 closed back canvas gallery wrap</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3201/md204_original.jpg?1379960617</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3201/md204_thumb.jpg?1379960617</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15836">
+        <name>front</name>
+        <width>27.75</width>
+        <height>23.75</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15836/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>466</width>
+          <height>398</height>
+          <left>65</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>468</width>
+          <height>400</height>
+          <left>65</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="pu26e">
+    <name>PU26E - Pillow Sham - set of 1 - 26"x20" - single sided sublimated with envelope closure</name>
+    <description>PU26E - Pillow Sham - set of 1 - 26"x20" - single sided sublimated with envelope closure</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15923">
+        <name>front</name>
+        <width>28.0</width>
+        <height>22.0</height>
+        <dpi>100</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>507.090909090909090909</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>509</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="tin">
+    <name>PLAYING CARD TIN</name>
+    <description>PLAYING CARD TIN</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8285">
+        <name>Pewter</name>
+        <hex>666D70</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15988">
+        <name>front</name>
+        <width>2.0</width>
+        <height>2.0</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>258</width>
+          <height>258</height>
+          <left>95</left>
+          <top>73</top>
+        </viewport>
+        <safezone>
+          <width>260</width>
+          <height>260</height>
+          <left>95</left>
+          <top>73</top>
+        </safezone>
+      </view>
+      <view id="16045">
+        <name>initials</name>
+        <width>2.0</width>
+        <height>0.725</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>258</width>
+          <height>258</height>
+          <left>95</left>
+          <top>73</top>
+        </viewport>
+        <safezone>
+          <width>260</width>
+          <height>260</height>
+          <left>95</left>
+          <top>73</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="tlts">
+    <name>TWIN TOP SHEET XL Lightweight Material 66”x100”</name>
+    <description>TWIN TOP SHEET XL Lightweight Material 66”x100”</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15978">
+        <name>front</name>
+        <width>68.0</width>
+        <height>102.0</height>
+        <dpi>72</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15978/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>264</width>
+          <height>397</height>
+          <left>167</left>
+          <top>2</top>
+        </viewport>
+        <safezone>
+          <width>266</width>
+          <height>399</height>
+          <left>167</left>
+          <top>2</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="wt50">
+    <name>WALL TAPESTRY 50”x60” lightweight Material</name>
+    <description>WALL TAPESTRY 50”x60” lightweight Material</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15984">
+        <name>front</name>
+        <width>62.0</width>
+        <height>52.0</height>
+        <dpi>72</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15984/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>477</width>
+          <height>400</height>
+          <left>60</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>479</width>
+          <height>402</height>
+          <left>60</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="hw815">
+    <name>HW815 - 8' x 15' 18oz Vinyl Banner</name>
+    <description>5' x 15' 18oz Vinyl Banner</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2847/hw815_original.png?1329510956</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2847/hw815_thumb.png?1329510956</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="9058">
+        <name>Vinyl</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="11751">
+        <name>front</name>
+        <width>182.0</width>
+        <height>98.0</height>
+        <dpi>72</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/11751/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1593/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>527</width>
+          <height>282</height>
+          <left>36</left>
+          <top>59</top>
+        </viewport>
+        <safezone>
+          <width>514</width>
+          <height>270</height>
+          <left>43</left>
+          <top>66</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="lc65">
+    <name>LC65 - linen cotton canvas 55-45 - 6.5 oz</name>
+    <description></description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="16003">
+        <name>front</name>
+        <width>54.0</width>
+        <height>36.0</height>
+        <dpi>100</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>598.0</width>
+          <height>398.0</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>600</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="md203">
+    <name>MD203 – 20x30 closed back canvas gallery wrap</name>
+    <description>MD203 – 20x30 closed back canvas gallery wrap</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3202/md203_original.jpg?1379961414</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3202/md203_thumb.jpg?1379961414</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15837">
+        <name>front</name>
+        <width>23.0</width>
+        <height>33.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15837/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>274</width>
+          <height>395</height>
+          <left>158</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>276</width>
+          <height>397</height>
+          <left>158</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="pu23e">
+    <name>PU23E Pillow Sham - set of 1 - 30"x20" - single sided sublimated with envelope closure</name>
+    <description>PU23E Pillow Sham - set of 1 - 30"x20" - single sided sublimated with envelope closure</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15924">
+        <name>pu23e</name>
+        <width>32.0</width>
+        <height>22.0</height>
+        <dpi>100</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>579.818181818181818182</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>582</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="scb">
+    <name>Small dog or cat bowl</name>
+    <description>Small dog or cat bowl</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15995">
+        <name>front</name>
+        <width>16.0</width>
+        <height>2.5</height>
+        <dpi>100</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15995/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>597</width>
+          <height>91</height>
+          <left>0</left>
+          <top>150</top>
+        </viewport>
+        <safezone>
+          <width>599</width>
+          <height>93</height>
+          <left>0</left>
+          <top>150</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="tlfs">
+    <name>TWIN FITTED SHEET XL  Lightweight Material 39”x80”</name>
+    <description>TWIN FITTED SHEET XL  Lightweight Material 39”x80”</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15979">
+        <name>front</name>
+        <width>70.0</width>
+        <height>111.0</height>
+        <dpi>72</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15979/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>250</width>
+          <height>399</height>
+          <left>173</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>252</width>
+          <height>401</height>
+          <left>173</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="wt60">
+    <name>ALL TAPESTRY 60”x80” lightweight Material</name>
+    <description>ALL TAPESTRY 60”x80” lightweight Material</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15985">
+        <name>front</name>
+        <width>82.0</width>
+        <height>62.0</height>
+        <dpi>72</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15985/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>526</width>
+          <height>397</height>
+          <left>37</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>528</width>
+          <height>399</height>
+          <left>37</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+</products>

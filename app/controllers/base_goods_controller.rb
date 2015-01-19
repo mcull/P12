@@ -14,8 +14,11 @@ class BaseGoodsController < ApplicationController
           bg_color.color_id = c
           bg_color.base_good_id = id
           bg_color.save
+          puts(">>> JUST TRIED SAVING COLOR...?")
         end
       end
+    else
+      puts(">>>BLANK?? COLOR...?")
     end
   end
 

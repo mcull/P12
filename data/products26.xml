@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products date="2015-01-19" sku_search="" text_search="">
+  <product code="wm44 - 4'x4' wall mural display">
+    <name>WM44 - 4'x4' wall mural display</name>
+    <description>WM44 - 4'x4' wall mural display</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15858">
+        <name>front</name>
+        <width>48.0</width>
+        <height>48.0</height>
+        <dpi>200</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="slc653">
+    <name>3 Yards Linen/Cotton 6.5oz 54” W x  108” H</name>
+    <description>3 Yards Linen/Cotton 6.5oz 54” W x  108” H</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="16022">
+        <name>front</name>
+        <width>54.0</width>
+        <height>108.0</height>
+        <dpi>72</dpi>
+        <print_mode id="20">paper</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>198.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>200</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="wm45 - 4'x4'10&quot; wall mural display">
+    <name>WM45 - 4'x4'10" wall mural display</name>
+    <description>WM45 - 4'x4'10" wall mural display</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15859">
+        <name>front</name>
+        <width>38.0</width>
+        <height>28.0</height>
+        <dpi>200</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>540.857142857142857143</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>543</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="slc654">
+    <name>4 Yards Linen/Cotton 6.5oz 54” W x  144” H</name>
+    <description>4 Yards Linen/Cotton 6.5oz 54” W x  144” H</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="16023">
+        <name>front</name>
+        <width>54.0</width>
+        <height>144.0</height>
+        <dpi>100</dpi>
+        <print_mode id="20">paper</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>148.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>150</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="wm46 - 4'x5'10&quot; wall mural display">
+    <name>WM46 - 4'x5'10" wall mural display</name>
+    <description>WM46 - 4'x5'10" wall mural display</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15860">
+        <name>front</name>
+        <width>70.0</width>
+        <height>28.0</height>
+        <dpi>200</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>598</width>
+          <height>238.0</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>600</width>
+          <height>240</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="slc655">
+    <name>5 Yards Linen/Cotton 6.5oz  54” W x  180” H</name>
+    <description>5 Yards Linen/Cotton 6.5oz  54” W x  180” H</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="16024">
+        <name>front</name>
+        <width>54.0</width>
+        <height>180.0</height>
+        <dpi>72</dpi>
+        <print_mode id="20">paper</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>118.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>120</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="scv951">
+    <name>1 Yard 100% Cotton Canvas 9.5oz 54” W x  36” H</name>
+    <description>1 Yard 100% Cotton Canvas 9.5oz 54” W x  36” H</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="16025">
+        <name>front</name>
+        <width>54.0</width>
+        <height>36.0</height>
+        <dpi>100</dpi>
+        <print_mode id="20">paper</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>598.0</width>
+          <height>398.0</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>600</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="wm48 - 4'x7'10&quot; - wall mural display">
+    <name>WM48 - 4'x7'10" - wall mural display</name>
+    <description>WM48 - 4'x7'10" - wall mural display</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15862">
+        <name>front</name>
+        <width>92.0</width>
+        <height>28.0</height>
+        <dpi>200</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>598</width>
+          <height>180.608695652173913043</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>600</width>
+          <height>183</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="scv952">
+    <name>2 Yards 100% Cotton Canvas 9.5oz 54” W x  72” H</name>
+    <description>2 Yards 100% Cotton Canvas 9.5oz 54” W x  72” H</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="16026">
+        <name>front</name>
+        <width>54.0</width>
+        <height>72.0</height>
+        <dpi>100</dpi>
+        <print_mode id="20">paper</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>298.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>300</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="wm55 - 4'10&quot;x4'10&quot; - wall mural display">
+    <name>WM55 - 4'10"x4'10" - wall mural display</name>
+    <description>WM55 - 4'10"x4'10" - wall mural display</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15863">
+        <name>front</name>
+        <width>58.0</width>
+        <height>58.0</height>
+        <dpi>200</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="scv953">
+    <name>3 Yards 100% Cotton Canvas 9.5oz 54” W x  108” H</name>
+    <description>3 Yards 100% Cotton Canvas 9.5oz 54” W x  108” H</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="16027">
+        <name>front</name>
+        <width>54.0</width>
+        <height>108.0</height>
+        <dpi>72</dpi>
+        <print_mode id="20">paper</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>198.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>200</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="scv954">
+    <name>4 Yards 100% Cotton Canvas 9.5oz 54” W x  144” H</name>
+    <description>4 Yards 100% Cotton Canvas 9.5oz 54” W x  144” H</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="16028">
+        <name>front</name>
+        <width>54.0</width>
+        <height>144.0</height>
+        <dpi>72</dpi>
+        <print_mode id="20">paper</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>148.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>150</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="wm57 - 4'10&quot;x6'10&quot; - wall mural display">
+    <name>WM57 - 4'10"x6'10" - wall mural display</name>
+    <description>WM57 - 4'10"x6'10" - wall mural display</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15865">
+        <name>front</name>
+        <width>82.0</width>
+        <height>58.0</height>
+        <dpi>200</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>563.517241379310344828</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>566</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="scv955">
+    <name>5 Yards 100% Cotton Canvas 9.5oz 54” W x  180” H</name>
+    <description>5 Yards 100% Cotton Canvas 9.5oz 54” W x  180” H</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="16029">
+        <name>front</name>
+        <width>54.0</width>
+        <height>180.0</height>
+        <dpi>72</dpi>
+        <print_mode id="20">paper</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>118.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>120</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="wm58 - 4'10&quot;x7'10&quot; - wall mural display">
+    <name>WM58 - 4'10"x7'10" - wall mural display</name>
+    <description>WM58 - 4'10"x7'10" - wall mural display</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15866">
+        <name>front</name>
+        <width>94.0</width>
+        <height>58.0</height>
+        <dpi>200</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>598</width>
+          <height>368.212765957446808511</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>600</width>
+          <height>370</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="cs16">
+    <name>”16 x 16” 100% Coated Synthetic Polyester Double sided print  Cover no insert  </name>
+    <description>”16 x 16” 100% Coated Synthetic Polyester Double sided print  Cover no insert  </description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="16030">
+        <name>front</name>
+        <width>16.0</width>
+        <height>16.0</height>
+        <dpi>300</dpi>
+        <print_mode id="20">paper</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+      <view id="16037">
+        <name>single</name>
+        <width>16.0</width>
+        <height>16.0</height>
+        <dpi>300</dpi>
+        <print_mode id="20">paper</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="cs18">
+    <name>”18 x 18” 100% Coated Synthetic Polyester Double sided print Cover no insert  </name>
+    <description>”18 x 18” 100% Coated Synthetic Polyester Double sided print Cover no insert  </description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="16031">
+        <name>front</name>
+        <width>18.0</width>
+        <height>18.0</height>
+        <dpi>300</dpi>
+        <print_mode id="20">paper</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+      <view id="16038">
+        <name>single</name>
+        <width>18.0</width>
+        <height>18.0</height>
+        <dpi>300</dpi>
+        <print_mode id="20">paper</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="wm67 - 5'10&quot;x6'10&quot; -  wall mural display">
+    <name>WM67 - 5'10"x6'10" -  wall mural display</name>
+    <description>WM67 - 5'10"x6'10" -  wall mural display</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15868">
+        <name>front</name>
+        <width>82.0</width>
+        <height>70.0</height>
+        <dpi>200</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>466.571428571428571429</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>469</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="cs20">
+    <name>”20 x 20” 100% Coated Synthetic Polyester Double sided print Cover no insert  </name>
+    <description>”20 x 20” 100% Coated Synthetic Polyester Double sided print Cover no insert  </description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="16032">
+        <name>front</name>
+        <width>20.0</width>
+        <height>20.0</height>
+        <dpi>300</dpi>
+        <print_mode id="20">paper</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+      <view id="16039">
+        <name>single</name>
+        <width>20.0</width>
+        <height>20.0</height>
+        <dpi>300</dpi>
+        <print_mode id="20">paper</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="wm68 - 5'10&quot;x7'10&quot; - wall mural display">
+    <name>WM68 - 5'10"x7'10" - wall mural display</name>
+    <description>WM68 - 5'10"x7'10" - wall mural display</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15869">
+        <name>front</name>
+        <width>94.0</width>
+        <height>70.0</height>
+        <dpi>200</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>535.142857142857142857</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>537</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="ci16">
+    <name>”16 x 16” 100% Coated Synthetic Polyester Double sided print Cover with pillow insert  </name>
+    <description>”16 x 16” 100% Coated Synthetic Polyester Double sided print Cover with pillow insert  </description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="16033">
+        <name>front</name>
+        <width>16.0</width>
+        <height>16.0</height>
+        <dpi>300</dpi>
+        <print_mode id="20">paper</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+      <view id="16040">
+        <name>single</name>
+        <width>16.0</width>
+        <height>16.0</height>
+        <dpi>300</dpi>
+        <print_mode id="20">paper</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="wm77 - 6'10&quot;x6'10&quot; - wall mural display">
+    <name>WM77 - 6'10"x6'10" - wall mural display</name>
+    <description>WM77 - 6'10"x6'10" - wall mural display</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15870">
+        <name>front</name>
+        <width>82.0</width>
+        <height>82.0</height>
+        <dpi>200</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+</products>

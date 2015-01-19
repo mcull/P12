@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products date="2015-01-19" sku_search="" text_search="">
+  <product code="ci18">
+    <name>” 18x 18” 100% Coated Synthetic Polyester Double sided print Cover with pillow insert </name>
+    <description>” 18x 18” 100% Coated Synthetic Polyester Double sided print Cover with pillow insert </description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="16034">
+        <name>front</name>
+        <width>18.0</width>
+        <height>18.0</height>
+        <dpi>300</dpi>
+        <print_mode id="20">paper</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+      <view id="16041">
+        <name>single</name>
+        <width>18.0</width>
+        <height>18.0</height>
+        <dpi>300</dpi>
+        <print_mode id="20">paper</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="wm78 - 6'10&quot;x7'10&quot; - wall mural display">
+    <name>WM78 - 6'10"x7'10" - wall mural display</name>
+    <description>WM78 - 6'10"x7'10" - wall mural display</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15871">
+        <name>front</name>
+        <width>94.0</width>
+        <height>82.0</height>
+        <dpi>200</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>456.536585365853658537</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>459</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="ci20">
+    <name>  ”20 x 20”w  100% Coated Synthetic Polyester Double sided print Cover with pillow  insert </name>
+    <description>  ”20 x 20”w  100% Coated Synthetic Polyester Double sided print Cover with pillow  insert </description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="16035">
+        <name>front</name>
+        <width>20.0</width>
+        <height>20.0</height>
+        <dpi>300</dpi>
+        <print_mode id="20">paper</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+      <view id="16042">
+        <name>single</name>
+        <width>20.0</width>
+        <height>20.0</height>
+        <dpi>300</dpi>
+        <print_mode id="20">paper</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="wm88 - 7'10&quot;x7'10&quot; - wall mural display">
+    <name>WM88 - 7'10"x7'10" - wall mural display</name>
+    <description>WM88 - 7'10"x7'10" - wall mural display</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15872">
+        <name>front</name>
+        <width>94.0</width>
+        <height>94.0</height>
+        <dpi>200</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="mdt">
+    <name>MDT – 16x20 TEST PROD- canvas gallery wrap</name>
+    <description>MDT – 16x20 TEST PROD- canvas gallery wrap</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15893">
+        <name>front</name>
+        <width>23.75</width>
+        <height>19.75</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>479.01265822784810126582278481</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>481</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="md142">
+    <name>MD142 – 14x20 closed back canvas gallery wrap</name>
+    <description>MD142 – 14x20 closed back canvas gallery wrap</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15975">
+        <name>front</name>
+        <width>17.0</width>
+        <height>23.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15975/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>294</width>
+          <height>399</height>
+          <left>150</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>296</width>
+          <height>401</height>
+          <left>150</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="md24s">
+    <name>MD24s – 24x24 closed back canvas gallery wrap</name>
+    <description>MD24s – 24x24 closed back canvas gallery wrap</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15977">
+        <name>front</name>
+        <width>27.0</width>
+        <height>27.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15977/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>397</width>
+          <height>397</height>
+          <left>99</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>399</width>
+          <height>399</height>
+          <left>99</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="md243">
+    <name>MD243 – 24x30 closed back canvas gallery wrap</name>
+    <description>MD243 – 24x30 closed back canvas gallery wrap</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="16009">
+        <name>front</name>
+        <width>34.5</width>
+        <height>28.5</height>
+        <dpi>100</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/16009/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>476</width>
+          <height>393</height>
+          <left>64</left>
+          <top>5</top>
+        </viewport>
+        <safezone>
+          <width>478</width>
+          <height>395</height>
+          <left>64</left>
+          <top>5</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+</products>

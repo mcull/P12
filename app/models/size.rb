@@ -5,6 +5,7 @@ class Size
 
   field :name
   field :sort_order, :integer
+  field :additional_price, :float
   field :active, :integer
 
   validates_presence_of :name

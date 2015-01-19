@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products date="2015-01-19" sku_search="" text_search="">
+  <product code="hw520">
+    <name>HW520 - 5' x 20' 18oz Vinyl Banner</name>
+    <description>5' x 20' 18oz Vinyl Banner</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2823/hw520_original.png?1329510951</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2823/hw520_thumb.png?1329510951</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="9058">
+        <name>Vinyl</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="11727">
+        <name>front</name>
+        <width>242.0</width>
+        <height>62.0</height>
+        <dpi>72</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/11727/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1570/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>560</width>
+          <height>142</height>
+          <left>19</left>
+          <top>127</top>
+        </viewport>
+        <safezone>
+          <width>550</width>
+          <height>132</height>
+          <left>25</left>
+          <top>133</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="md10s">
+    <name>MD10S – 10x10 closed back canvas gallery wrap</name>
+    <description>MD10S – 10x10 closed back canvas gallery wrap</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3192/MD10S_original.jpg?1379699218</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3192/MD10S_thumb.jpg?1379699218</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15827">
+        <name>front</name>
+        <width>13.0</width>
+        <height>13.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15827/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>394</width>
+          <height>394</height>
+          <left>101</left>
+          <top>1</top>
+        </viewport>
+        <safezone>
+          <width>396</width>
+          <height>396</height>
+          <left>101</left>
+          <top>1</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="twinset">
+    <name>Twin Set</name>
+    <description>Twin Set</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15940">
+        <name>multi</name>
+        <width>70.0</width>
+        <height>90.0</height>
+        <dpi>100</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>309.111111111111111111</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>311</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="di26">
+    <name>DI26 - Burlap Pillow printed 2 side 26x26 pillow  - with insert</name>
+    <description>Burlap Pillow printed 2 side 26x26 pillow  - with insert</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3244/di26_original.png?1382477150</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3244/di26_thumb.png?1382477150</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15884">
+        <name>front</name>
+        <width>28.0</width>
+        <height>28.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15884/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>373</width>
+          <height>373</height>
+          <left>115</left>
+          <top>7</top>
+        </viewport>
+        <safezone>
+          <width>375</width>
+          <height>375</height>
+          <left>115</left>
+          <top>7</top>
+        </safezone>
+      </view>
+      <view id="15885">
+        <name>back</name>
+        <width>28.0</width>
+        <height>28.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15885/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>363</width>
+          <height>363</height>
+          <left>121</left>
+          <top>16</top>
+        </viewport>
+        <safezone>
+          <width>365</width>
+          <height>365</height>
+          <left>121</left>
+          <top>16</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="hw66">
+    <name>HW66 - 6' x 6' 18oz Vinyl Banner</name>
+    <description>6' x 6' 18oz Vinyl Banner</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2835/hw66_original.png?1329510954</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2835/hw66_thumb.png?1329510954</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="9058">
+        <name>Vinyl</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="11739">
+        <name>front</name>
+        <width>74.0</width>
+        <height>74.0</height>
+        <dpi>72</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/11739/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1581/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>362</width>
+          <height>362</height>
+          <left>126</left>
+          <top>17</top>
+        </viewport>
+        <safezone>
+          <width>339</width>
+          <height>339</height>
+          <left>138</left>
+          <top>29</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="md12s">
+    <name>MD12S – 12x12 closed back canvas gallery wrap</name>
+    <description>MD12S – 12x12 closed back canvas gallery wrap</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3193/md12s_original.jpg?1379715705</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3193/md12s_thumb.jpg?1379715705</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15828">
+        <name>front</name>
+        <width>15.0</width>
+        <height>15.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15828/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>393</width>
+          <height>393</height>
+          <left>100</left>
+          <top>2</top>
+        </viewport>
+        <safezone>
+          <width>395</width>
+          <height>395</height>
+          <left>100</left>
+          <top>2</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="queenset">
+    <name>Queen Set</name>
+    <description>Queen Set</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15941">
+        <name>multi</name>
+        <width>90.0</width>
+        <height>90.0</height>
+        <dpi>100</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="bd18">
+    <name>BD18 - 18”x18” Burlap Pillow double sided print-NO INSERT</name>
+    <description>BD18 - 18”x18” Burlap Pillow double sided print-NO INSERT</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3262/bd18_original.png?1384351108</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3262/bd18_thumb.png?1384351108</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15912">
+        <name>front</name>
+        <width>19.0</width>
+        <height>19.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15912/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>363</width>
+          <height>363</height>
+          <left>119</left>
+          <top>13</top>
+        </viewport>
+        <safezone>
+          <width>365</width>
+          <height>365</height>
+          <left>119</left>
+          <top>13</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="hw68">
+    <name>HW68 - 6' x 8' 18oz Vinyl Banner</name>
+    <description>6' x 8' 18oz Vinyl Banner</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2837/hw68_original.png?1329510955</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2837/hw68_thumb.png?1329510955</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="9058">
+        <name>Vinyl</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="11741">
+        <name>front</name>
+        <width>98.0</width>
+        <height>74.0</height>
+        <dpi>72</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/11741/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1584/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>453</width>
+          <height>342</height>
+          <left>70</left>
+          <top>29</top>
+        </viewport>
+        <safezone>
+          <width>432</width>
+          <height>321</height>
+          <left>82</left>
+          <top>41</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="kingset">
+    <name>King Set</name>
+    <description>King Set</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15942">
+        <name>multi</name>
+        <width>106.0</width>
+        <height>100.0</height>
+        <dpi>100</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>422.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>424</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="md114">
+    <name>MD114 – 11x14 closed back canvas gallery wrap</name>
+    <description>MD114 – 11x14 closed back canvas gallery wrap</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3194/md114_original.jpg?1379716294</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3194/md114_thumb.jpg?1379716294</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15829">
+        <name>front</name>
+        <width>14.0</width>
+        <height>17.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15829/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>326</width>
+          <height>396</height>
+          <left>135</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>328</width>
+          <height>398</height>
+          <left>135</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="bd20">
+    <name>BD20 - 20”x20” Burlap Pillow double sided print-NO INSERT</name>
+    <description>BD20 - 20”x20” Burlap Pillow double sided print-NO INSERT</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3263/bd20_original.png?1384351575</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3263/bd20_thumb.png?1384351575</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15914">
+        <name>front</name>
+        <width>21.0</width>
+        <height>21.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15914/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>368</width>
+          <height>368</height>
+          <left>117</left>
+          <top>11</top>
+        </viewport>
+        <safezone>
+          <width>370</width>
+          <height>370</height>
+          <left>117</left>
+          <top>11</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="case10">
+    <name>CASE10 – MarkTen Case - Black</name>
+    <description>MarkTen Case - Black</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8232">
+        <name>Black</name>
+        <hex>242425</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15955">
+        <name>front</name>
+        <width>2.0</width>
+        <height>0.5</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>598</width>
+          <height>148.0</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>600</width>
+          <height>150</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="hw610">
+    <name>HW610 - 6' x 10' 18oz Vinyl Banner</name>
+    <description>6' x 10' 18oz Vinyl Banner</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2825/hw610_original.png?1329510953</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2825/hw610_thumb.png?1329510953</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="9058">
+        <name>Vinyl</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="11729">
+        <name>front</name>
+        <width>122.0</width>
+        <height>74.0</height>
+        <dpi>72</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/11729/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1571/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>545</width>
+          <height>330</height>
+          <left>26</left>
+          <top>34</top>
+        </viewport>
+        <safezone>
+          <width>525</width>
+          <height>310</height>
+          <left>37</left>
+          <top>45</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="md102">
+    <name>MD102 – 10x20 closed back canvas gallery wrap</name>
+    <description>MD102 – 10x20 closed back canvas gallery wrap</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3195/md102_original.jpg?1379716865</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3195/md102_thumb.jpg?1379716865</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15830">
+        <name>front</name>
+        <width>13.0</width>
+        <height>23.0</height>
+        <dpi>300</dpi>
+        <print_mode id="18">full_sub</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15830/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>226</width>
+          <height>401</height>
+          <left>186</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>228</width>
+          <height>403</height>
+          <left>186</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="bd22">
+    <name>BD22 - 22”x22” Burlap Pillow double sided print</name>
+    <description>BD22- 22”x22” Burlap Pillow double sided print</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3264/bd22_original.png?1384351987</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3264/bd22_thumb.png?1384351987</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15916">
+        <name>front</name>
+        <width>23.0</width>
+        <height>23.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15916/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>398.0</width>
+          <height>398</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>400</width>
+          <height>400</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="case40">
+    <name>CASE40 – MarkTen Case – White</name>
+    <description>MarkTen Case – White</description>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15956">
+        <name>front</name>
+        <width>2.0</width>
+        <height>0.5</height>
+        <dpi>300</dpi>
+        <print_mode id="19">laser</print_mode>
+        <image_url></image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>598</width>
+          <height>148.0</height>
+          <left>0</left>
+          <top>0</top>
+        </viewport>
+        <safezone>
+          <width>600</width>
+          <height>150</height>
+          <left>0</left>
+          <top>0</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="hw612">
+    <name>HW612 - 6' x 12' 18oz Vinyl Banner</name>
+    <description>6' x 12' 18oz Vinyl Banner</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2827/hw612_original.png?1329510953</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2827/hw612_thumb.png?1329510953</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="9058">
+        <name>Vinyl</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="11731">
+        <name>front</name>
+        <width>146.0</width>
+        <height>74.0</height>
+        <dpi>72</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/11731/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1574/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>541</width>
+          <height>273</height>
+          <left>28</left>
+          <top>61</top>
+        </viewport>
+        <safezone>
+          <width>524</width>
+          <height>256</height>
+          <left>37</left>
+          <top>70</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="md128">
+    <name>MD128 – 12x18 closed back canvas gallery wrap</name>
+    <description>MD128 – 12x18 closed back canvas gallery wrap</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3196/md128_original.jpg?1379717616</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3196/md128_thumb.jpg?1379717616</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15831">
+        <name>front</name>
+        <width>15.0</width>
+        <height>21.0</height>
+        <dpi>300</dpi>
+        <print_mode id="18">full_sub</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15831/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>283</width>
+          <height>397</height>
+          <left>156</left>
+          <top>-1</top>
+        </viewport>
+        <safezone>
+          <width>285</width>
+          <height>399</height>
+          <left>156</left>
+          <top>-1</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="bd24">
+    <name>BD24 - 24”x24” Burlap Pillow double sided print</name>
+    <description>BD24 - 24”x24” Burlap Pillow double sided print</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3265/bd24_original.png?1384352649</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3265/bd24_thumb.png?1384352649</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15918">
+        <name>front</name>
+        <width>25.0</width>
+        <height>25.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15918/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>368</width>
+          <height>368</height>
+          <left>118</left>
+          <top>12</top>
+        </viewport>
+        <safezone>
+          <width>370</width>
+          <height>370</height>
+          <left>118</left>
+          <top>12</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="hw615">
+    <name>HW615 - 6' x 15' 18oz Vinyl Banner</name>
+    <description>6' x 15' 18oz Vinyl Banner</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2831/hw615_original.png?1329510953</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2831/hw615_thumb.png?1329510953</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="9058">
+        <name>Vinyl</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="11737">
+        <name>front</name>
+        <width>182.0</width>
+        <height>74.0</height>
+        <dpi>72</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/11737/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1579/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>538</width>
+          <height>217</height>
+          <left>29</left>
+          <top>90</top>
+        </viewport>
+        <safezone>
+          <width>525</width>
+          <height>204</height>
+          <left>36</left>
+          <top>97</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="md16s">
+    <name>MD16S – 16x16 closed back canvas gallery wrap</name>
+    <description>MD16S – 16x16 closed back canvas gallery wrap</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3197/md16s_original.jpg?1379955163</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3197/md16s_thumb.jpg?1379955163</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15832">
+        <name>front</name>
+        <width>19.0</width>
+        <height>19.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15832/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>391</width>
+          <height>391</height>
+          <left>100</left>
+          <top>1</top>
+        </viewport>
+        <safezone>
+          <width>393</width>
+          <height>393</height>
+          <left>100</left>
+          <top>1</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="bd26">
+    <name>BD26 - 26”x26” Burlap Pillow double sided print</name>
+    <description>BD26 - 26”x26” Burlap Pillow double sided print</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/3266/bd26_original.png?1384352958</full>
+      <thumb>http://api2.co-timber.com/system/products/images/3266/bd26_thumb.png?1384352958</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="8182">
+        <name>White</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="15920">
+        <name>front</name>
+        <width>27.0</width>
+        <height>27.0</height>
+        <dpi>300</dpi>
+        <print_mode id="22">sublimation</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/15920/viewport.png</image_url>
+        <masks>
+          <main_url></main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>368</width>
+          <height>368</height>
+          <left>121</left>
+          <top>12</top>
+        </viewport>
+        <safezone>
+          <width>370</width>
+          <height>370</height>
+          <left>121</left>
+          <top>12</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+  <product code="hw620">
+    <name>HW620 - 6' x 20' 18oz Vinyl Banner</name>
+    <description>6' x 20' 18oz Vinyl Banner</description>
+    <images>
+      <full>http://api2.co-timber.com/system/products/images/2839/hw620_original.png?1329510954</full>
+      <thumb>http://api2.co-timber.com/system/products/images/2839/hw620_thumb.png?1329510954</thumb>
+    </images>
+    <sizes>
+      <size id="3464">ONE SIZE</size>
+    </sizes>
+    <colors>
+      <color id="9058">
+        <name>Vinyl</name>
+        <hex>FFFFFF</hex>
+        <second_hex></second_hex>
+      </color>
+    </colors>
+    <views>
+      <view id="11743">
+        <name>front</name>
+        <width>242.0</width>
+        <height>74.0</height>
+        <dpi>72</dpi>
+        <print_mode id="23">print</print_mode>
+        <image_url>http://api2.co-timber.com/system/product_views/images/11743/viewport.png</image_url>
+        <masks>
+          <main_url>http://images.co-timber.com/system/masks/1585/main.png</main_url>
+          <accent_url></accent_url>
+        </masks>
+        <viewport>
+          <width>550</width>
+          <height>167</height>
+          <left>23</left>
+          <top>114</top>
+        </viewport>
+        <safezone>
+          <width>541</width>
+          <height>158</height>
+          <left>29</left>
+          <top>120</top>
+        </safezone>
+      </view>
+    </views>
+  </product>
+</products>
