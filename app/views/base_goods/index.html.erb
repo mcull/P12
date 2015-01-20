@@ -1,12 +1,8 @@
 <%= render partial: "shared/header", locals: {obj: nil, name: "Base Goods"} %>
 <% allBaseGoods.each do |bg| %>
 <div class="row">
-  <div class="small-8 columns">
-    <div class="row">
-      <div class="small-6 columns">
-        <%= link_to raw('<i class="fa fa-pencil-square-o"></i> ' + bg.name), edit_base_good_path(bg) %>
-      </div>
-    </div>
+  <div class="small-12 columns">
+    <%= link_to raw('<i class="fa fa-pencil-square-o"></i> ' + bg.name), edit_base_good_path(bg) %>
   </div>
 </div>
 <% end %>

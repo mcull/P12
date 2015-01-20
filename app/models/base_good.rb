@@ -11,44 +11,22 @@ class BaseGood
   field :active, :integer
 
   def goodsCategory
-    ""
-  end
-
-  def printModes
-    if @printModes.blank? then
-      @printModes = Array.new
-      modes = BaseGoodPrintMode.where(:base_good_id => self.id).all
-      if (!modes.blank?) then
-        modes.each do |bgpm|
-          @printModes.push(PrintMode.find_by_id(bgpm.print_mode_id))
-        end
-      end
+    if @goodsCategory.blank? then
+      @goodsCategory = GoodsCategory.find_by_id(self.goods_category_id)
     end
-    @printModes
+    @goodsCategory
   end
 
-  def uncachePrintModes
-    @printModes = nil
-  end
-
-  def printLocations
-    if @printLocations.blank? then
-      @printLocations = Array.new
-      locations = BaseGoodPrintLocation.where(:base_good_id => self.id).all
-      if (!locations.blank?) then
-        locations.each do |bgpl|
-          @printLocations.push(PrintableLocation.find_by_id(bgpl.printable_location_id))
-        end
-      end
+  def printableLocationConfig
+    if @printLocation.blank? then
+      @printLocation = BaseGoodPrintLocation.where(:base_good_id => self.id).first
     end
-    @printLocations
+    @printLocation
   end
 
-  def uncachePrintLocations
-    @printLocations = nil
+  def uncachePrintLocation
+    @printLocation = nil
   end
-
-
 
   def colors
     if @colors.blank? then

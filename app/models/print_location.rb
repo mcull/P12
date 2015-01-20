@@ -8,7 +8,4 @@ class PrintLocation
   field :print_ready_art_id
   field :active, :integer
 
-  belongs_to: :print_ready_art
-  belongs_to :product
-
 end

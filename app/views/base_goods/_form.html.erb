@@ -1,7 +1,7 @@
 <%= form_for baseGood do |f| %>
   <%= f.hidden_field(:active, :value => 1) %>
   <div class="row">
-    <div class="small-10 columns">
+    <div class="small-12 columns">
       <div class="row">
         <div class="small-3 columns">
           <label for="name" class="right inline">Name</label>
@@ -63,42 +63,23 @@
                             selectedSizes(@baseGood)),
                           multiple: true,
                           size: '5',
-                          :include_blank => false%>
+                          :include_blank => false %>
         </div>
       </div>
       <div class="row">
         <div class="small-3 columns">
-          <label for="name" class="right inline">Print Modes</label>
+          <label class="right inline">Print Location</label>
         </div>
-        <div class="small-9 columns">
-          <%= select_tag 'print_modes[]',
-                          options_from_collection_for_select(
-                            allPrintModes,
-                            :id,
-                            :customer_name,
-                            selectedPrintModes(@baseGood)),
-                          multiple: true,
-                          size: '5',
-                          :include_blank => false%>
-        </div>
-      </div>
-      <div class="row">
         <div class="small-3 columns">
-          <label for="name" class="right inline">Print Locations</label>
+          <%= select_tag :printable_location, options_for_select(allPrintableLocations.map{|pl| [ pl.name, pl.id ]},(@baseGood.printableLocationConfig.printableLocation.blank?) ? "" : @baseGood.printableLocationConfig.printableLocation.id) %>
         </div>
-        <div class="small-9 columns">
-          <%= select_tag 'printable_locations[]',
-                          options_from_collection_for_select(
-                            allPrintableLocations,
-                            :id,
-                            :name,
-                            selectedPrintLocations(@baseGood)),
-                          multiple: true,
-                          size: '5',
-                          :include_blank => false%>
+        <div class="small-3 columns">
+          <%= select_tag :design_constraint, options_for_select(allDesignConstraints.map{|dc| [ dc.name, dc.id ]},(@baseGood.printableLocationConfig.designConstraint.blank?) ? "" :@baseGood.printableLocationConfig.designConstraint.blank.id) %>
+        </div>
+        <div class="small-3 columns">
+          <%= select_tag :print_mode, options_for_select(allPrintModes.map{|pm| [ pm.printer_name, pm.id ]}, (@baseGood.printableLocationConfig.printMode.blank?) ? "" : @baseGood.printableLocationConfig.printMode.blank.id) %>
         </div>
       </div>
-
       <div class="row">
         <div class="small-4 small-offset-8 columns" style="text-align:center">
           <div class="row">
