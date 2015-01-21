@@ -30,6 +30,26 @@
    font-size: 1.4rem;
  }
 
+ .grid-image {
+   width:200px
+   height:200px;
+ }
+
+ .new-photo {
+   height:100px;
+   width:100px;
+ }
+
+ .upload-photo {
+   width:200px;
+   height:200px;
+   border:1px solid #cccccc;
+   padding-top:20px;
+   text-align:center;
+   font-size:10px;
+ }
+
+
  select {
    height: auto;
  }

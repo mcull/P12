@@ -1,4 +1,4 @@
-class SalesChannelsController < ApplicationController
+class SalesChannelsController < AdminController
   def index
     @channel = SalesChannel.new
     render :action => :new

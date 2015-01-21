@@ -20,13 +20,7 @@
       </div>
     </div>
   </div>
-  <% if obj.persisted? then %>
-  <div class="row">
-    <div class="small-12 columns newLink">
-      <%= link_to "+New",  polymorphic_path(obj.class.new) %></a>
-    </div>
-  </div>
-  <% end %>
+  
   <% allObjects.each do |obj| %>
   <div class="row">
     <div class="large-6 medium-6 small-10 columns">

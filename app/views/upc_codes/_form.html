@@ -1,0 +1,26 @@
+<%= form_tag ({:controller => :upc_codes, :action => :bulk_create }) do %>
+  <div class="row">
+  <div class="small-9 columns">
+    <div class="row">
+      <div class="small-3 columns">
+        <label for="name" class="right inline">Description</label>
+      </div>
+      <div class="small-9 columns">
+        <%= text_area_tag :listOfCodes, nil, size: "24x25" %><br>
+      </div>
+    </div>
+
+  <div class="row">
+    <div class="small-4 small-offset-8 columns" style="text-align:center">
+      <div class="row">
+        <div class="small-6 columns small-offset-6">
+          <%= button_tag raw('<i class="fa fa-floppy-o"></i>'), 'class'=>'button info small' %>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+<% end %>
+</div>

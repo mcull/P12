@@ -1,4 +1,4 @@
-class BaseGoodsController < ApplicationController
+class BaseGoodsController < AdminController
 
 
   def new

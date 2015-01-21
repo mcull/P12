@@ -1,4 +1,4 @@
-class DesignOwnersController < ApplicationController
+class DesignOwnersController < AdminController
     def index
       @designOwner = DesignOwner.new
       render :action => :new

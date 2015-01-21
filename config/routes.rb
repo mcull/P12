@@ -17,11 +17,6 @@ Rails.application.routes.draw do
      resources :colors
      #resources :designs
      resources :design_constraints
-     resources :design_owners do
-       resources :designs do
-         resources :print_ready_arts
-       end
-     end
      resources :goods_categories
      resources :print_modes
      resources :printable_goods
@@ -35,6 +30,25 @@ Rails.application.routes.draw do
      resources :shipments
      resources :sizes
    end
+
+   resources :design_owners do
+     resources :designs do
+       resources :print_ready_arts
+     end
+   end
+   resources :products do
+     resources :product_photos
+   end
+
+   get 'product/:id/remove_main_photo', to: 'products#remove_main_photo', as: 'remove_product_main_photo'
+   post 'product_photos/create', to: 'product_photos#create', as: 'add_product_photos'
+
+   get 'admin/upc_code/create', to: 'upc_codes#create', as: 'create_upc_code'
+   get 'admin/upc_code/destroy', to: 'upc_codes#destroy', as: 'destroy_upc_code'
+   get 'admin/upc_code/next', to: 'upc_codes#next', as: 'next_upc_code'
+   get 'admin/upc_code/bulk', to: 'upc_codes#new', as: 'bulk_upc_code'
+   post 'admin/upc_code/bulk_upload', to: 'upc_codes#bulk_create', as: 'bulk_upc_code_upload'
+
 
   # Point of indirection
      post '/listeners/coloradotimberline', to: 'shipments#create'

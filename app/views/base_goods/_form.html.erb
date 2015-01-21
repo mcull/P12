@@ -12,10 +12,18 @@
       </div>
       <div class="row">
         <div class="small-3 columns">
-          <label for="name" class="right inline">Category</label>
+          <label for="goods_category_id" class="right inline">Category</label>
         </div>
         <div class="small-9 columns">
           <%= f.select(:goods_category_id, allGoodsCategories.map {|a| [a.name, a.id]}) -%>
+        </div>
+      </div>
+      <div class="row">
+        <div class="small-3 columns">
+          <label for="node_id" class="right inline">Amazon Node ID</label>
+        </div>
+        <div class="small-9 columns">
+          <%= f.text_field :amazon_node_id %>
         </div>
       </div>
       <div class="row">
@@ -74,10 +82,10 @@
           <%= select_tag :printable_location, options_for_select(allPrintableLocations.map{|pl| [ pl.name, pl.id ]},(@baseGood.printableLocationConfig.printableLocation.blank?) ? "" : @baseGood.printableLocationConfig.printableLocation.id) %>
         </div>
         <div class="small-3 columns">
-          <%= select_tag :design_constraint, options_for_select(allDesignConstraints.map{|dc| [ dc.name, dc.id ]},(@baseGood.printableLocationConfig.designConstraint.blank?) ? "" :@baseGood.printableLocationConfig.designConstraint.blank.id) %>
+          <%= select_tag :design_constraint, options_for_select(allDesignConstraints.map{|dc| [ dc.name, dc.id ]},(@baseGood.printableLocationConfig.designConstraint.blank?) ? "" :@baseGood.printableLocationConfig.designConstraint.id) %>
         </div>
         <div class="small-3 columns">
-          <%= select_tag :print_mode, options_for_select(allPrintModes.map{|pm| [ pm.printer_name, pm.id ]}, (@baseGood.printableLocationConfig.printMode.blank?) ? "" : @baseGood.printableLocationConfig.printMode.blank.id) %>
+          <%= select_tag :print_mode, options_for_select(allPrintModes.map{|pm| [ pm.printer_name, pm.id ]}, (@baseGood.printableLocationConfig.printMode.blank?) ? "" : @baseGood.printableLocationConfig.printMode.id) %>
         </div>
       </div>
       <div class="row">

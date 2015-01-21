@@ -1,0 +1,52 @@
+<%= form_for printer do |f| %>
+  <%= f.hidden_field(:active, :value => 1) %>
+  <div class="row">
+    <div class="small-8 columns">
+      <div class="row">
+        <div class="small-3 columns">
+          <label for="name" class="right inline">Name</label>
+        </div>
+        <div class="small-9 columns">
+          <%= f.text_field :name, 'placeholder' => 'New Printer' %>
+        </div>
+      </div>
+      <div class="row">
+        <div class="small-3 columns">
+          <label for="contact_email" class="right inline">Email</label>
+        </div>
+        <div class="small-9 columns">
+          <%= f.text_field :contact_email, 'placeholder' => 'someone@printer.com' %>
+        </div>
+      </div>
+      <div class="row">
+        <div class="small-4 small-offset-8 columns" style="text-align:center">
+          <div class="row">
+            <div class="small-6 columns <%= (printer.persisted?) ? "" : "small-offset-6" %>">
+              <%= f.button raw('<i class="fa fa-floppy-o"></i>'), 'class'=>'button info small' %>
+            </div>
+            <% if printer.persisted? then %>
+            <div class="small-6 columns">
+              <%= link_to raw('<i class="fa fa-times"></i>'), printer, method: :delete, 'class'=>'button alert small' %>
+            </div>
+            <% end %>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <% if (printer.persisted?) then %>
+    <div class="row">
+      <div class="small-10 columns"><strong>Inventory Details</strong></div>
+      <div class="small-2 columns"></div>
+    </div>
+      <% allBaseGoods.each do |bg| %>
+      <div class="row">
+        <div class="small-10 columns"><%= bg.name %></div>
+        <div class="small-2 columns" style="text-align:center">
+          <%= link_to raw('<i class="fa fa-pencil-square-o"></i>'), printer_base_good_printer_inventory_path(printer.id, bg.id) %>
+        </div>
+      </div>
+      <% end %>
+    <% end %>
+  </div>
+  <% end %>

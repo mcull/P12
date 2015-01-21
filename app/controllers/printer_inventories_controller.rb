@@ -1,4 +1,4 @@
-class PrinterInventoriesController < ApplicationController
+class PrinterInventoriesController < AdminController
   def index
     @printer = Printer.find_by_id(params[:printer_id])
     @base_good = BaseGood.find_by_id(params[:base_good_id])

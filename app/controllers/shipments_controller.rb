@@ -1,7 +1,7 @@
 require 'aws-sdk'
 require 'digest'
 
-class ShipmentsController < ApplicationController
+class ShipmentsController < AdminController
   def create
     @xmlPayload = params[:xml]
 

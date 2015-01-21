@@ -1,0 +1,25 @@
+  <%= render partial: "shared/header", locals: {obj: nil, name: "Products"} %>
+  <ul class="small-block-grid-4">
+
+    <li>
+      <div style="text-align:center;padding-top:60px">
+        <%= render partial: "shared/new_link", locals: {obj: Product.new, show: true } %>
+      </div>
+    </li>
+  <% allProducts.each do |p| %>
+  <li>
+    <div style="font-size:12px;">
+        <%= link_to edit_product_path(p) do %>
+          <% if !p.image.blank? then %>
+            <%= image_tag(p.image.url(:square)) %>
+          <% else %>
+            <%= image_tag('no-image.jpg',:size => "200x200") %>
+          <% end %>
+        <% end  %>
+      <br>
+      "<%= p.name %>"<br>
+      Created: <%= p.created_at %>
+    </div>
+  </li>
+  <% end %>
+</ul>

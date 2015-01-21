@@ -1,4 +1,4 @@
-class GoodsCategoriesController < ApplicationController
+class GoodsCategoriesController < AdminController
   def index
     @category = GoodsCategory.new
     puts (@category)

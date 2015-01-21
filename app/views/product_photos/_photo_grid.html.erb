@@ -1,0 +1,36 @@
+
+    Additional Photos:
+    <ul class="block-grid-4">
+      <% @product.photos.each do |p| %>
+        <li>
+          <div style="font-size:12px;width:200px;">
+
+            <% if !p.image.blank? then %>
+              <%= image_tag(p.image.url(:square)) %>
+            <% else %>
+              <%= image_tag('no-image.jpg',:class => "grid-image") %>
+            <% end %>
+
+            <%= form_for ([@product,p]) do |f| %>
+              <%= link_to raw('<i class="fa fa-times"></i> Delete'), product_product_photo_path(@product.id, p.id), :class=>'button alert small expand',:confirm => "Are you sure you want to delete this print ready art?", :method => :delete %>
+            <% end %>
+          </div>
+        </li>
+      <% end %>
+
+        <li>
+          <% newPhoto = ProductPhoto.new %>
+          <%= form_tag({action: :create, controller: 'product_photos'}, multipart: true, id: :add_photo) do %>
+          <div class="upload-photo">
+              <%= hidden_field_tag :product_id, @product.id %>
+              <div style="margin-left:25px;"><%= file_field_tag :image %></div>
+              <%= image_submit_tag('new-photo.jpg', :class => "new-photo") %>
+          </div>
+          <div style="width:200px;">
+            <%= submit_tag "+ Add",  :class=>'button success small expand' %>
+          </div>
+          <% end %>
+        </li>
+  </ul>
+</div>
+</div>

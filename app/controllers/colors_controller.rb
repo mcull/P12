@@ -1,4 +1,4 @@
-class ColorsController < ApplicationController
+class ColorsController < AdminController
 
   def index
     @color = Color.new

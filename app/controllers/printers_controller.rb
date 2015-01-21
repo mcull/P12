@@ -1,4 +1,4 @@
-class PrintersController < ApplicationController
+class PrintersController < AdminController
 
   def new
     @printer = Printer.new

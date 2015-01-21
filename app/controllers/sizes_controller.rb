@@ -1,4 +1,4 @@
-class SizesController < ApplicationController
+class SizesController < AdminController
 
   def index
     @size = Size.new

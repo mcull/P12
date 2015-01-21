@@ -1,4 +1,4 @@
-class PrintReadyArtsController < ApplicationController
+class PrintReadyArtsController < AdminController
   def index
     @designOwner =  DesignOwner.find_by_id(params[:design_owner_id])
     @designs = @designOwner.designs
@@ -33,7 +33,7 @@ class PrintReadyArtsController < ApplicationController
     @printReadyArt = PrintReadyArt.find_by_id(params[:id])
     @printReadyArt.design_id = params[:design_id]
     @design = @printReadyArt.design
-    @designOwner = @design.design_owner.target
+    @designOwner = @design.design_owner
 
 
     render :action => :edit
@@ -52,8 +52,9 @@ class PrintReadyArtsController < ApplicationController
   def destroy
     art = PrintReadyArt.find(params[:id])
     art.active = 0
+    art.image = nil
     art.save
-    flash[:notice] = art.getDesign.name + ": " + art.getDesignConstraint.name  + " successfully deleted"
-    redirect_to edit_design_owner_design_path(art.getDesign.getDesignOwner, art.getDesign)
+    flash[:notice] = art.design.name + ": " + art.design_constraint.name  + " successfully deleted"
+    redirect_to edit_design_owner_design_path(art.design.design_owner, art.design)
   end
 end

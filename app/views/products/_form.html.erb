@@ -1,0 +1,64 @@
+<%= form_for product, :html => { :multipart => true } do |f| %>
+<%= f.hidden_field(:active, :value => 1) %>
+<div class="row">
+  <div class="small-12 columns">
+    <div class="row">
+      <div class="small-3 columns">
+        <label for="name" class="right inline">Base Good</label>
+      </div>
+      <div class="small-9 columns">
+        <%= f.select( :base_good_id, allBaseGoods.map {|a| [a.name, a.id]}) -%>
+      </div>
+    </div>
+    <div class="row">
+      <div class="small-3 columns">
+        <label for="name" class="right inline">Design ID</label>
+      </div>
+      <div class="small-9 columns">
+        <%= f.text_field :design_id, 'placeholder' => 'Design ID' %>
+      </div>
+    </div>
+    <% if !product.image.blank? then %>
+      <div class="row">
+        <div class="small-3 columns">
+          <label for="name" class="right inline">Main Product Photo</label>
+        </div>
+        <div class="small-9 columns">
+          <div class="image-upload" style="width:200px;font-size:10px;">
+            <%= image_tag( product.image.url(:square)) %><br>
+            <%= link_to raw('<i class="fa fa-times"></i> Delete'), remove_product_main_photo_path, :class=>'button alert small expand' %>
+          </div>
+        </div>
+      </div>
+
+    <% else %>
+    <div class="row">
+      <div class="small-3 columns">
+        <label for="name" class="right inline">Main Product Photo</label>
+      </div>
+      <div class="small-9 columns">
+        <div class="upload-photo">
+          <div style="margin-left:25px;"><%= f.file_field :image %></div>
+          <%= image_tag('new-photo.jpg', :class => "new-photo") %>
+        </div>
+      </div>
+    </div>
+    <% end %>
+    <div class="row">
+      <div class="small-4 small-offset-8 columns" style="text-align:center">
+        <div class="row">
+          <div class="small-6 columns <%= (product.persisted?) ? "" : "small-offset-6" %>">
+            <%= f.button raw('<i class="fa fa-floppy-o"></i>'), 'class'=>'button info small' %>
+          </div>
+          <% if @product.persisted? then %>
+          <div class="small-6 columns">
+            <%= link_to raw('<i class="fa fa-times"></i>'), product, method: :delete, 'class'=>'button alert small' %>
+          </div>
+          <% end %>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+<% end %>

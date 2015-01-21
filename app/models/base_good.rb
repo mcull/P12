@@ -7,6 +7,7 @@ class BaseGood
   field :name
   field :description
   field :size_chart_uri
+  field :amazon_node_id
 
   field :active, :integer
 

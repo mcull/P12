@@ -1,4 +1,4 @@
-class PrintableLocationsController < ApplicationController
+class PrintableLocationsController < AdminController
   def index
     @printableLocation = PrintableLocation.new
     render :action => :new

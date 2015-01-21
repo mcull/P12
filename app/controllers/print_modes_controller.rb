@@ -1,4 +1,4 @@
-class PrintModesController < ApplicationController
+class PrintModesController < AdminController
   def index
     @printMode = PrintMode.new
     render :action => :new

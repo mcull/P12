@@ -1,4 +1,4 @@
-class DesignConstraintsController < ApplicationController
+class DesignConstraintsController < AdminController
   def index
     @designConstraint = DesignConstraint.new
     render :action => :new

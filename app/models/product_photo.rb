@@ -11,7 +11,6 @@ class ProductPhoto
   table :name => :products, :key => :id, :read_capacity => 5, :write_capacity => 2
 
   field :product_id
-  field :sort_order, :integer
 
   def image_from_url(url)
     self.image = URI.parse(url)
