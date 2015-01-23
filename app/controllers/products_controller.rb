@@ -22,7 +22,9 @@ class ProductsController < ApplicationController
   def update
     @product = Product.find(params[:id])
     copy_from = params[:upload_from]
-    @product.image = params[:product][:image]
+    if (!params[:product][:image].blank?) then
+      @product.image = params[:product][:image]
+    end
     @product.image_from_url(copy_from) unless copy_from.blank?
     if @product.update_attributes(params[:product]) then
       flash[:notice] = @product.name  + " successfully saved"
@@ -51,4 +53,13 @@ class ProductsController < ApplicationController
     flash[:notice] = @product.name  + " image removed."
     render :action => :edit
   end
+
+  def update_amazon_listing
+    @product = Product.find(params[:id])
+    @product.update_amazon_listing
+    flash[:notice] = @product.name  + " feed updated."
+
+    redirect_to :action => :edit
+  end
+
 end

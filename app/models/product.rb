@@ -1,3 +1,5 @@
+require 'securerandom'
+
 class Product
   include Dynamoid::Document
   include Dynamoid::Paperclip
@@ -16,11 +18,20 @@ class Product
   field :design_id
   field :name
   field :sales_channel_id
+  field :short_id
 
   field :markup, :float
 
   field :num_of_additional_photos, :integer
   field :active, :integer
+
+  after_initialize :defaults
+
+  def defaults
+    if self.short_id.blank? then
+      self.short_id = SecureRandom.hex(5)
+    end
+  end
 
   def image_from_url(url)
     self.image = URI.parse(url)
@@ -57,6 +68,11 @@ class Product
       end
     end
     @photos
+  end
+
+  def update_amazon_listing
+    feed_manager = eval(baseGood.goodsCategory.amazon_feed_manager_class).new
+    feed_manager.update_feed(self)
   end
 
 end

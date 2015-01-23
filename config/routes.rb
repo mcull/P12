@@ -40,6 +40,8 @@ Rails.application.routes.draw do
      resources :product_photos
    end
 
+   get 'product/:id/update_listing', to: 'products#update_amazon_listing', as: 'update_amazon_listing'
+
    get 'product/:id/remove_main_photo', to: 'products#remove_main_photo', as: 'remove_product_main_photo'
    post 'product_photos/create', to: 'product_photos#create', as: 'add_product_photos'
 
@@ -49,6 +51,19 @@ Rails.application.routes.draw do
    get 'admin/upc_code/bulk', to: 'upc_codes#new', as: 'bulk_upc_code'
    post 'admin/upc_code/bulk_upload', to: 'upc_codes#bulk_create', as: 'bulk_upc_code_upload'
 
+   scope 'feeds' do
+     get 'active', to: 'feeds#active_submissions', as: 'active_submissions'
+     get 'count', to: 'feeds#count_submissions', as: 'count_submissions'
+     get 'result/:id', to: 'feeds#get_result', as: 'submission_result'
+     get 'upc', to: 'feeds#get_upc_count', as: 'upc_count'
+   end
+
+   scope 'orders' do
+    get 'list', to 'orders#list_orders', as: 'list_orders' 
+   end
+
+   def get_result
+   end
 
   # Point of indirection
      post '/listeners/coloradotimberline', to: 'shipments#create'

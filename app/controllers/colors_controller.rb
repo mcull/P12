@@ -10,7 +10,7 @@ class ColorsController < AdminController
   end
 
   def create
-    @color = Color.new(params[:color]);
+    @color = Color.new(params[:color])
     if @color.save then
       flash[:notice] = @color.name  + " successfully added"
       redirect_to :action => :index

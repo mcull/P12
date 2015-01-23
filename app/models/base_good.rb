@@ -9,6 +9,13 @@ class BaseGood
   field :size_chart_uri
   field :amazon_node_id
 
+  field :bullet1
+  field :bullet2
+  field :bullet3
+  field :bullet4
+  field :bullet5
+
+  field :price, :float
   field :active, :integer
 
   def goodsCategory

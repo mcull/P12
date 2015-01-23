@@ -1,3 +1,4 @@
 <%= render partial: "shared/header", locals: {obj: @product, name: "Product: " + @product.name} %>
 <%= render partial: "form", locals: {product: @product} %>
 <%= render partial: "product_photos/photo_grid", locals: {product: @product} %>
+<%= link_to "Update Amazon Listing", update_amazon_listing_path(@product.id) %>

@@ -32,6 +32,7 @@ class SizesController < AdminController
     end
     if @size.update_attributes(params[:size]) then
       @size.save
+      flash[:notice] = @size.name  + " successfully updated"
       redirect_to :action => :index
     else
       render :action => :edit
