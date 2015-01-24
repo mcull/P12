@@ -7,8 +7,8 @@ class Shipment
   field :shipped_via
   field :sales_channel_confirmation_id
   field :raw_receipt
-  
-  field :ship_date :datetime
+
+  field :ship_date, :datetime
   field :cost, :float
 
   index :ship_date, :range => true
