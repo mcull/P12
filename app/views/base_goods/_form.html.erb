@@ -135,13 +135,13 @@
           <label class="right inline">Print Location</label>
         </div>
         <div class="small-3 columns">
-          <%= select_tag :printable_location, options_for_select(allPrintableLocations.map{|pl| [ pl.name, pl.id ]},(@baseGood.printableLocationConfig.printableLocation.blank?) ? "" : @baseGood.printableLocationConfig.printableLocation.id) %>
+          <%= select_tag :printable_location, options_for_select(allPrintableLocations.map{|pl| [ pl.name, pl.id ]},(@baseGood.printableLocationConfig.blank? || @baseGood.printableLocationConfig.printableLocation.blank?) ? "" : @baseGood.printableLocationConfig.printableLocation.id) %>
         </div>
         <div class="small-3 columns">
-          <%= select_tag :design_constraint, options_for_select(allDesignConstraints.map{|dc| [ dc.name, dc.id ]},(@baseGood.printableLocationConfig.designConstraint.blank?) ? "" :@baseGood.printableLocationConfig.designConstraint.id) %>
+          <%= select_tag :design_constraint, options_for_select(allDesignConstraints.map{|dc| [ dc.name, dc.id ]},(@baseGood.printableLocationConfig.blank? || @baseGood.printableLocationConfig.designConstraint.blank?) ? "" :@baseGood.printableLocationConfig.designConstraint.id) %>
         </div>
         <div class="small-3 columns">
-          <%= select_tag :print_mode, options_for_select(allPrintModes.map{|pm| [ pm.printer_name, pm.id ]}, (@baseGood.printableLocationConfig.printMode.blank?) ? "" : @baseGood.printableLocationConfig.printMode.id) %>
+          <%= select_tag :print_mode, options_for_select(allPrintModes.map{|pm| [ pm.printer_name, pm.id ]}, (@baseGood.printableLocationConfig.blank? || @baseGood.printableLocationConfig.printMode.blank?) ? "" : @baseGood.printableLocationConfig.printMode.id) %>
         </div>
       </div>
       <div class="row">
