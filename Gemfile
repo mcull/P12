@@ -17,6 +17,7 @@ gem 'aws-sdk-v1'
 gem 'dynamoid'
 gem 'dynamoid-paperclip'
 gem 'peddler', '~> 0.11.1'
+gem 'json'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'

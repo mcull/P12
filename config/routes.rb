@@ -59,7 +59,13 @@ Rails.application.routes.draw do
    end
 
    scope 'orders' do
-    get 'list', to 'orders#list_orders', as: 'list_orders' 
+    get 'list', to: 'orders#list_orders', as: 'list_orders'
+    get ':id/items', to: 'orders#list_order_items', as: 'list_order_items'
+    get 'process', to: 'orders#process_new_orders', as: 'process_orders'
+   end
+
+   scope 'fulfilment' do
+     get 'dispatch', to: 'fulfilment#submit_orders', as: 'dispatch'
    end
 
    def get_result

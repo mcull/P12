@@ -190,6 +190,7 @@ DEPENDENCIES
   dynamoid-paperclip
   jbuilder (~> 2.0)
   jquery-rails
+  json
   peddler (~> 0.11.1)
   pg
   rails (= 4.2.0)

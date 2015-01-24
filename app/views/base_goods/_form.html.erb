@@ -20,6 +20,14 @@
       </div>
       <div class="row">
         <div class="small-3 columns">
+          <label for="printer_id" class="right inline">Printer</label>
+        </div>
+        <div class="small-9 columns">
+          <%= f.select(:printer_id, allPrinters.map {|a| [a.name, a.id]}) -%>
+        </div>
+      </div>
+      <div class="row">
+        <div class="small-3 columns">
           <label for="node_id" class="right inline">Amazon Node ID</label>
         </div>
         <div class="small-9 columns">

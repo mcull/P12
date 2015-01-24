@@ -15,6 +15,8 @@ class BaseGood
   field :bullet4
   field :bullet5
 
+  field :printer_id
+
   field :price, :float
   field :active, :integer
 
