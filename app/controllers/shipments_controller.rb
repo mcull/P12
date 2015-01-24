@@ -2,6 +2,8 @@ require 'aws-sdk'
 require 'digest'
 
 class ShipmentsController < AdminController
+  protect_from_forgery except: :create
+
   def create
     @xmlPayload = params[:xml]
 
