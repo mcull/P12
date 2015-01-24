@@ -14,7 +14,7 @@ class ColoradoTimberlineFulfilmentManager < FulfilmentHandler
     xml = '<?xml version="1.0"?>'
     xml += '<Order AffiliateID="'
     xml += ENV['COLORADO_TIMBERLINE_AFFILIATE_ID']
-    xml += '" OrderID=“'
+    xml += '" OrderID="'
     xml += order.id
     xml += '">'
     xml += '<ShipToName>' + order.ship_name + '</ShipToName>'
@@ -66,11 +66,20 @@ class ColoradoTimberlineFulfilmentManager < FulfilmentHandler
     xml += '</Order>'
     puts xml
 
-    uri = URI("http://api.staging.co-timber.com/v15/submit")
-    http = Net::HTTP.new(uri.host, uri.port)
-    request = Net::HTTP::Post.new(uri.path)
-    request["xml"] = xml
-    http.request(request).body
+    uri = URI.parse("http://api.co-timber.com/v15/submit")
+
+    # Shortcut
+    response = Net::HTTP.post_form(uri, {"xml" => xml})
+
+
+    if (response.code.to_i == 200) then
+      puts "trying to save order"
+      order.status = "dispatched"
+      order.save
+    else
+      puts response.code
+    end
+    response.body
   end
 
   def get_print_ready_art_for(product)
